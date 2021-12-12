@@ -1,7 +1,7 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/",
     "scrolls": [
         "home",
-        "replicators"
+        "trashrobotlibrary"
     ]
 }

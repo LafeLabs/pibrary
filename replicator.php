@@ -1,6 +1,6 @@
 <?php
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/pi/main/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/data/dna.txt";
 
 if(isset($_GET["dna"])){
     $dnaurl = $_GET["dna"];
@@ -16,27 +16,22 @@ mkdir("php");
 mkdir("scrolls");
 mkdir("iconsymbols");
 
-mkdir("codeserver");
-mkdir("symbolserver");
-mkdir("mapserver");
-mkdir("imageserver");
-mkdir("iconserver");
-mkdir("library");
-
-//mkdir("wndw");
+mkdir("codelibrary");
+mkdir("symbollibrary");
+mkdir("maplibrary");
+mkdir("imagelibrary");
+mkdir("iconlibrary");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/php/replicator.txt","replicator.php");
+
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt","replicator.php");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/php/replicator.txt","library/replicator.php");
-
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/servers/codeserver/php/replicator.txt","codeserver/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/servers/symbolserver/php/replicator.txt","symbolserver/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/servers/mapserver/php/replicator.txt","mapserver/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/servers/imageserver/php/replicator.txt","imageserver/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pi/main/servers/iconserver/php/replicator.txt","iconserver/replicator.php");
-//copy("https://raw.githubusercontent.com/LafeLabs/wndw/main/php/replicator.txt","wndw/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codelibrary/php/replicator.txt","codelibrary/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbollibrary/php/replicator.txt","symbollibrary/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/maplibrary/php/replicator.txt","maplibrary/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/imagelibrary/php/replicator.txt","imagelibrary/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconlibrary/php/replicator.txt","iconlibrary/replicator.php");
 
 
 

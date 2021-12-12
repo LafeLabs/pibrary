@@ -38,7 +38,8 @@
         "user.txt"
     ],
     "scrolls": [
-        "home"
+        "home",
+        "trashrobotlibrary"
     ],
     "iconsymbols": [
         "chaos.svg",
