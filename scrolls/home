@@ -1,20 +1,25 @@
 # Pibrary
 
-Pibrary is a set of self-replicating knowledge consisting of
+Pibrary is a self-replicating set consisting of
 
+ - free pie given away for free
+ - traditional physical printed books given away for free via pibrary book lists
+ - free wireless hotspots provided in public spaces
+ - [raspberry pi geometron web server shared freely in the community](sroll(README.md))
  - [editor.php](editor.php)
  - [www.pibrary.org](https://www.pibrary.org)
  - [https://github.com/LafeLabs/pibrary](https://github.com/LafeLabs/pibrary)
- - [github global replicator link(php/replicator.txt)]()
- - [Pi System Installation(README.md)](scroll(README.md))
- - geometron scroll libraries, also known as books
+ - [github global replicator link(php/replicator.txt)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+ - geometron scroll libraries, also known as books, like this one
  - [geometron image libraries](imagelibrary/) which are used to illustrate geometron scrolls
  - [geometron symbol libraries](symbollibrary/), also used for graphics in scrolls
  - [geometron map libraries](maplibrary/)
  - [geometron icon libraries](iconlibrary/) for printing on the trash robot printer
+ - [geometron code libraries](codelibrary/)
  - printed zine-style booklets
  - books written by writers who work in the public domain, which includes creators and sharers of knowledge of all kinds who are willing to give freely without copyright
  - libraries of such free books, organized by subject
+ - pdf's of free(no copyright) books for download, printing, or print-on-demand
  - books created from the products of other kinds of content creators(music, graphic arts, jewelry and crafts, performance artists, sculptors, physicists, chemists, mechanics etc.) sharing free(no copyright) and self-replicating media about their work
  - the trash robot brand with the rainbow and the googly eyes
  - the [trash robot library](scrolls/trashrobotlibrary) of books of various kinds
