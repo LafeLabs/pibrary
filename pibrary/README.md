@@ -6,8 +6,6 @@
 
 [global replicator link](https://raw.githubusercontent.com/LafeLabs/pi/main/php/replicator.txt)
 
- - [editor.php](scrolls/editor.php)
-
 # Basic Kit
 
 *For about $400 we build an off-grid solar powered web server with no private information which can be shared in public with anyone*

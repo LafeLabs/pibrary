@@ -2,36 +2,18 @@
 
 # Pibrary
 
-A pibrary is a library of free(no copyright) books shared via the Raspberry Pi, a very cheap open source compute about the size of a deck of cards.  Each Raspberry Pi can act as a web server delivering books over a wifi network, locally, or to the whole web.  They can also be seeds from which documents are spread to public-facing web sites.  This network has no users, no logins, no encryption and no private data.  It is a network consisting entirely of documents which are freely copied, edited, and copied again, without any "ownership" by any user.  
+*From each according to their weird obsession, to each according to their desire*
 
-Our shared values are that we as writers are creating content we intend to have direct material value to our communities.  In return for this value we will get material support back from the community. This is not an exchange of value for value, we are not selling our work.  We produce as much as feels right, an people help us as they see fit, with the understanding that some can give more than others depending on circumstance.  In the short term, this means authors are supported by Patreon or direct payments via cash app, venmo or paypal, or sales of their physical art or books.  In the longer term, we are building a library which will form the basis of a new civilization and we will be materially(food, shelter, medicine, etc.) supported directly by the communities we are a part of as writers.
+The Pibrary(Library + Raspberry Pi) is a platform for sharing free knowledge, the purpose of which is to build a more free world for everyone.  
 
-Initially to make this model work we need to all be cross promoting each other as creators selling things, but with an emphasis on patronage instead of sales.  In order to scale we need to always have options for support which are just support and not sales of a thing.
+Anyone who wants to create things for the common good can share their work via this platform.  Part of our work is physically building these platforms and bringing them out to people in need in the physical world.  We believe that the only gap between the world we live in and the world in which all material needs are freely met for all people locally is entirely based on how knowledge is created, shared, and stored in society.  
 
-We seek to build a storehouse of free knowledge which evolves in the wild which can be used to create a new civilization from trash and local living systems and energy.  We want to abolish all mining, oil, gas, and global supply chains by 2050.  To do that we aim to build everything from trash. This does not require moving things or people around. It is entirely a project of building and sharing knowledge, hence the library.  Eventually the library will be hosted on machines also built from trash, but for now we use a combination of Raspberry Pi servers which are released into the public domain(the physical server is not property, is shared freely), laptop, desktop and mobile computers people already have on hand, and publicly hosted mirror web pages we point to with physical media.
+We believe that the ownership of "information" of any kind is *always* wrong, without exception and without nuance.  We believe in a network not of "users" and "information" but of sets of documents carrying information which are commonly maintained and shared freely by communities.  
 
-Our shared values are what will bring people in to read our books and contribute their own books. As with any networked resource, the value shared on this network will increase exponentially as we get more creators. As this happens, we can guide the evolution of the system to get more and more focused knowledge to do what we need to do to build the fully trash magic system.
+These documents are not random databases of information.  They are books created to build our world.  A world is built from the stories we tell each other about who we are and where we came from and how the world works, as well as the methods by which we physically go about our lives.  This library therefore only consists of books which are created and shared explicitly into the *public domain* with *no restrictions whatsoever*.  
 
-Pibrary is a self-replicating set consisting of
+Support is not by "selling" books.  We give the books freely with no expectation of compensation.  Rather, our support comes from people supporting our ongoing activities in the real world.  Creators can generate money via a crowd fund platform like Patreon, gofunde or indiegogo or directly via paypal, cashapp or venmo.  They can also sell physical things, or advertise services. The only condition to all this is that the actual media on our system is not property.  E.g. a necklace you sell can be property, but the photograph of it for the ad is not.  As we grow the network, and more people buy into the basic premise of our project, more energy/money will flow into the system, supporting a wider and wider range of creators.  As this happens, those creators will spread the network. 
 
- - free pie given away for free
- - traditional physical printed books given away for free via pibrary book lists
- - free wireless hotspots provided in public spaces
- - [raspberry pi geometron web server shared freely in the community](scroll(README.md))
- - [editor.php](editor.php)
- - [www.pibrary.org](https://www.pibrary.org)
- - [https://github.com/LafeLabs/pibrary](https://github.com/LafeLabs/pibrary)
- - [github global replicator link(php/replicator.txt)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
- - geometron scroll libraries, also known as books, like this one
- - [geometron image libraries](imagelibrary/) which are used to illustrate geometron scrolls
- - [geometron symbol libraries](symbollibrary/), also used for graphics in scrolls
- - [geometron map libraries](maplibrary/)
- - [geometron icon libraries](iconlibrary/) for printing on the trash robot printer
- - [geometron code libraries](codelibrary/)
- - printed zine-style booklets
- - books written by writers who work in the public domain, which includes creators and sharers of knowledge of all kinds who are willing to give freely without copyright
- - libraries of such free books, organized by subject
- - pdf's of free(no copyright) books for download, printing, or print-on-demand
- - books created from the products of other kinds of content creators(music, graphic arts, jewelry and crafts, performance artists, sculptors, physicists, chemists, mechanics etc.) sharing free(no copyright) and self-replicating media about their work
- - the trash robot brand with the rainbow and the googly eyes
- - the trash robot library which documents the system
+As our network spreads, our core libraries of knowledge on how to build a world from trash will also spread.  If we build a self-replicating network of non-property servers with no property on them which contain libraries with knowledge to build up industry from only trash, water, living systems, the sun, water, and other local things, this can scale to the whole world and replace the existing system.
+
+## [Build the system](scroll(README.md))

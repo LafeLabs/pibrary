@@ -1,8 +1,12 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/",
     "scrolls": [
+        "alaska",
+        "china",
+        "hall",
         "home",
         "patreon",
+        "tma",
         "trashphysicslibrary"
     ]
 }
