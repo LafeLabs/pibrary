@@ -2,6 +2,16 @@
 
 # Pibrary
 
+A pibrary is a library of free(no copyright) books shared via the Raspberry Pi, a very cheap open source compute about the size of a deck of cards.  Each Raspberry Pi can act as a web server delivering books over a wifi network, locally, or to the whole web.  They can also be seeds from which documents are spread to public-facing web sites.  This network has no users, no logins, no encryption and no private data.  It is a network consisting entirely of documents which are freely copied, edited, and copied again, without any "ownership" by any user.  
+
+Our shared values are that we as writers are creating content we intend to have direct material value to our communities.  In return for this value we will get material support back from the community. This is not an exchange of value for value, we are not selling our work.  We produce as much as feels right, an people help us as they see fit, with the understanding that some can give more than others depending on circumstance.  In the short term, this means authors are supported by Patreon or direct payments via cash app, venmo or paypal, or sales of their physical art or books.  In the longer term, we are building a library which will form the basis of a new civilization and we will be materially(food, shelter, medicine, etc.) supported directly by the communities we are a part of as writers.
+
+Initially to make this model work we need to all be cross promoting each other as creators selling things, but with an emphasis on patronage instead of sales.  In order to scale we need to always have options for support which are just support and not sales of a thing.
+
+We seek to build a storehouse of free knowledge which evolves in the wild which can be used to create a new civilization from trash and local living systems and energy.  We want to abolish all mining, oil, gas, and global supply chains by 2050.  To do that we aim to build everything from trash. This does not require moving things or people around. It is entirely a project of building and sharing knowledge, hence the library.  Eventually the library will be hosted on machines also built from trash, but for now we use a combination of Raspberry Pi servers which are released into the public domain(the physical server is not property, is shared freely), laptop, desktop and mobile computers people already have on hand, and publicly hosted mirror web pages we point to with physical media.
+
+Our shared values are what will bring people in to read our books and contribute their own books. As with any networked resource, the value shared on this network will increase exponentially as we get more creators. As this happens, we can guide the evolution of the system to get more and more focused knowledge to do what we need to do to build the fully trash magic system.
+
 Pibrary is a self-replicating set consisting of
 
  - free pie given away for free

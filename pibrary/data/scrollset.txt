@@ -1,6 +1,7 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/pibrary/",
     "scrolls": [
-        "home"
+        "home",
+        "trashmagic"
     ]
 }
