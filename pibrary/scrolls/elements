@@ -1,0 +1,21 @@
+
+## [HOME](scrolls/home)
+
+# elements of pibrary
+
+Pibrary is a self-replicating set of things.  Those things are:
+ 
+ - raspberry pi web servers
+ - public solar power stations
+ - public wifi hotspots
+ - the Geometron software platform
+ - the documents for how to replicate the system
+ - free physical books donated and shared through the system
+ - free digital books shared and co-created over the system
+ - the network of writers, creators, and librarians who grow and maintain the system
+ - libraries, which are sets of books
+ - geometron books, which are self-replicating sets of geometron scrolls
+ - self-replicating sets of images, symbols, code, maps, robot icons
+ - commercially hosted web pages with mirrors of pibrary books
+ - domains pointed at home based raspberry pi servers with port forwarding
+ - github repositories which replicate using php local host 

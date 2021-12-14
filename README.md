@@ -6,7 +6,7 @@
 
 [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
 
- - [editor.php](scrolls/editor.php)
+ - [editor.php](editor.php)
 
 # Basic Kit
 
