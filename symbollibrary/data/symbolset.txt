@@ -1,13 +1,8 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/symbolserver/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/",
     "symbols": [
-        "symbol1632849011.svg",
-        "symbol1633623068.svg",
-        "symbol1633623270.svg",
-        "symbol1633623298.svg",
-        "symbol1633623679.svg",
-        "symbol1633625183.svg",
-        "symbol1633625202.svg",
-        "symbol1633625245.svg"
+        "bag.svg",
+        "circles.svg",
+        "copy-aleph-bet-gimel-dalet.svg"
     ]
 }

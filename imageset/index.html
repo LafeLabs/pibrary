@@ -79,6 +79,11 @@ function loadimagefeed(){
         newuploadbox.appendChild(newimg);
         document.getElementById("imagefeed").appendChild(newuploadbox);
 
+        var newdiv = document.createElement("DIV");
+        newdiv.innerHTML = uploadImages[index];
+        newdiv.className = "filelabel";
+        newuploadbox.appendChild(newdiv);
+    
         var newimg = document.createElement("IMG");
         newimg.src = "iconsymbols/delete.svg";
         newuploadbox.appendChild(newimg);
@@ -164,6 +169,10 @@ h1{
 }
 .data{
     display:none;
+}
+.filelabel{
+    color:#ff2cb4;
+    font-size:2em;
 }
 </style>
 </body>

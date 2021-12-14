@@ -98,6 +98,12 @@ httpc4.onreadystatechange = function() {
                 newimg.style.borderColor = "blue";
             }
             newp.appendChild(newlabel);
+
+            var newdiv = document.createElement("DIV");
+            newdiv.innerHTML = symbols[index];
+            newdiv.className = "filename";
+            newp.appendChild(newdiv);
+            
             var delimg = document.createElement("IMG");
             delimg.src = "iconsymbols/delete.svg";
             delimg.className = "button";
@@ -318,7 +324,10 @@ input{
     font-size:2em;
     font-family:courier;
 }
-
+.filename{
+    text-align:center;
+    font-size:2em;
+}
 </style>
 </body>
 </html>

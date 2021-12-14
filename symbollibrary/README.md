@@ -1,11 +1,12 @@
 ## [../](../)
 
-#  Symbol Server
+#  Symbol Set
 
 Create, edit, replicate and delete symbols using the Geometron language.  For details, read the Book of Geometron at [www.trashrobot.org](https://www.trashrobot.org).
 
 ## Links
 
+ - [editor.php](editor.php)
  - [index.html](index.html)
  - [qrcode.html](qrcode.html)
  - [ipaddress.php](ipaddress.php)
@@ -14,7 +15,6 @@ Create, edit, replicate and delete symbols using the Geometron language.  For de
  - [fork.html](fork.html)
  - [readme.html](readme.html)
  - [home](index.html)
- - [editor.php](editor.php)
  - [dnagenerator.php](dnagenerator.php)
  - [symbol set replicator](symbolset.html)
  - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/pi/main/servers/symbolserver/php/replicator.txt)
