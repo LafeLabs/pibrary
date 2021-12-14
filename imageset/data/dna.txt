@@ -21,7 +21,8 @@
         "fork.svg",
         "home.svg",
         "lightdark.svg",
-        "scroll.svg"
+        "scroll.svg",
+        "uplink.svg"
     ],
     "php": [
         "copy.txt",
