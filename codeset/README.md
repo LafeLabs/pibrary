@@ -2,7 +2,7 @@
 
 ## [Global Replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/php/replicator.txt)
 
-[editor.php](editor.php)
+## [editor.php](editor.php)
 
 # Learn to Create Web Pages
 
