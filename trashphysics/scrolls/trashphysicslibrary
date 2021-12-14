@@ -4,7 +4,8 @@
 
 Patreon-supported, crowd sourced co-created self-replicating library which *is* the new discipline of Trash Physics.
 
- 
+[down to the library](trashphysicslibrary/) 
+
 ## Stories
 
  - history of the bell telephone system
@@ -61,6 +62,11 @@ Patreon-supported, crowd sourced co-created self-replicating library which *is* 
  - quantum mechanics for lasers
  - quantum mechanics for atomic vapors
  - history of philosophy of physics
+
+## Calculations
+
+ - web calculator pages
+ - latex and math papers with python in pre elements, this can be in conjunction with jupyter notebooks but you just copy and paste into the notebook which is throw away, rather than copy the specific format.  Our latex papers are just text, tex, code snippets, and image sets from running the local jupyter notebook
 
 
 ## Builds 

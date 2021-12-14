@@ -1,12 +1,12 @@
 ## [home](scrolls/home)
 
-## [pibrary github repository](https://github.com/LafeLabs/pibrary)
-
 #  Geometron/TRASH ROBOT
 
 [replicator raw code](php/replicator.txt)
 
-[global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+[global replicator link](https://raw.githubusercontent.com/LafeLabs/pi/main/php/replicator.txt)
+
+ - [editor.php](scrolls/editor.php)
 
 # Basic Kit
 
