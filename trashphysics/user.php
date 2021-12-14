@@ -374,6 +374,9 @@ document.getElementById("hidebutton").onclick = function(){
 .editlinks{
 /*    display:none;*/
 }
+pre{
+  overflow:scroll;
+}
 body{
     overflow:hidden;
     background-color:black

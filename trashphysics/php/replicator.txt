@@ -16,22 +16,21 @@ mkdir("php");
 mkdir("scrolls");
 mkdir("iconsymbols");
 
-mkdir("codelibrary");
-mkdir("symbollibrary");
-mkdir("maplibrary");
-mkdir("imagelibrary");
-mkdir("iconlibrary");
-
-
+mkdir("imageset");
+mkdir("symbolset");
+mkdir("codeset");
+mkdir("mapset");
+mkdir("iconset");
 
 copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt","replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt","imageset/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt","symbolset/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/php/replicator.txt","codeset/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapset/php/replicator.txt","mapset/replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconset/php/replicator.txt","iconset/replicator.php");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codelibrary/php/replicator.txt","codelibrary/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbollibrary/php/replicator.txt","symbollibrary/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/maplibrary/php/replicator.txt","maplibrary/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/imagelibrary/php/replicator.txt","imagelibrary/replicator.php");
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconlibrary/php/replicator.txt","iconlibrary/replicator.php");
+
 
 
 

@@ -1,21 +1,22 @@
-# Trash Robot Library
+# Trash Robot Pibrary
 
- - [Trash Magic Manifesto](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
- - [Book of Geometron](bookofgeometron/)
- - [Trash Magic Action Coloring Book](tmacb/)
- - [Book of Pibrary](pibrary/)
- - [Trash Physics](trashphysics/)
-
-# Links
-
- - [editor.php](editor.php)
- - [README.md](scroll(README.md))
+ - [Trash Magic Manifesto(pdf)](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
+ - [Book of Geometron(chaos book, lulu)](bookofgeometron/)
+ - [Trash Magic Action Coloring Book(chaos book, zine)](tmacb/)
+ - [Book of Pibrary(chaos book)](pibrary/)
+ - [Trash Physics(chaos book)](trashphysics/)
 
 # Sets
 
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [imageset/replicator.php](imageset/replicator.php)
+ - [mapset/replicator.php](mapset/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
  - [image set](imageset/)
  - [symbol set](symbolset/)
  - [map set](mapset/)
  - [code set](codeset/)
  - [icon set](iconset/)
+
 
