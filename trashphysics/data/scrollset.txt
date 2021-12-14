@@ -10,6 +10,7 @@
         "nist",
         "patreon",
         "quantum",
+        "support",
         "tma",
         "trashphysicslibrary",
         "yale"
