@@ -2,11 +2,16 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/",
     "scrolls": [
         "alaska",
+        "berkeley",
         "china",
         "hall",
         "home",
+        "introduction",
+        "nist",
         "patreon",
+        "quantum",
         "tma",
-        "trashphysicslibrary"
+        "trashphysicslibrary",
+        "yale"
     ]
 }
