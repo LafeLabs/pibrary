@@ -1,7 +1,0 @@
-{
-    "server": "http://localhost/",
-    "maps": [
-        "foo",
-        "home"
-    ]
-}
