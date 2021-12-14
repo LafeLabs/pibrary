@@ -1,8 +1,0 @@
-{
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/",
-    "symbols": [
-        "bag.svg",
-        "circles.svg",
-        "copy-aleph-bet-gimel-dalet.svg"
-    ]
-}
