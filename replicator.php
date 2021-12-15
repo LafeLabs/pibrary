@@ -48,7 +48,14 @@
     
     foreach($dna->data as $value){
         
-        copy($baseurl."data/".$value,"data/".$value);
+        if($value != "scrollset.txt"){
+            copy($baseurl."data/".$value,"data/".$value);
+        }
+        else{
+            if(!file_exists("data/".$value)){
+                copy($baseurl."data/".$value,"data/".$value);
+            }
+        }
         
     }
     

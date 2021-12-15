@@ -5,6 +5,7 @@
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [editor.php](editor.php)
  - [scroll2tex.php](scroll2tex.php)
+ - [pibrarygenerator.php](pibrarygenerator.php)
 
 # Sets
 

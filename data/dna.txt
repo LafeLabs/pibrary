@@ -13,6 +13,7 @@
     ],
     "data": [
         "dna.txt",
+        "pibrary.txt",
         "scrollset.txt",
         "set.txt"
     ],
@@ -28,6 +29,8 @@
         "ipaddress.txt",
         "mapeditor.txt",
         "mkdir.txt",
+        "pibrarygenerator.txt",
+        "pibraryreplicator.txt",
         "rdelete.txt",
         "removephp.txt",
         "replicator.txt",
