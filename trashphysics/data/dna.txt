@@ -31,6 +31,7 @@
         "rdelete.txt",
         "removephp.txt",
         "replicator.txt",
+        "scroll2tex.txt",
         "scrolleditor.txt",
         "scrollsetreplicator.txt",
         "setreplicator.txt",
@@ -38,8 +39,22 @@
         "user.txt"
     ],
     "scrolls": [
+        "alaska",
+        "berkeley",
+        "china",
+        "hall",
         "home",
-        "trashrobotlibrary"
+        "introduction",
+        "main.tex",
+        "nist",
+        "patreon",
+        "quantum",
+        "support",
+        "teamc",
+        "teamc.tex",
+        "tma",
+        "trashphysicslibrary",
+        "yale"
     ],
     "iconsymbols": [
         "chaos.svg",
