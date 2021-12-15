@@ -1,7 +1,6 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/trashphysicslibrary/",
     "scrolls": [
-        "home",
-        "trashrobotlibrary"
+        "home"
     ]
 }
