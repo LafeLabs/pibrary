@@ -6,6 +6,19 @@
  - [editor.php](editor.php)
  - [scroll2tex.php](scroll2tex.php)
 
+# Sets
+
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [imageset/replicator.php](imageset/replicator.php)
+ - [mapset/replicator.php](mapset/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
+ - [image set](imageset/)
+ - [symbol set](symbolset/)
+ - [map set](mapset/)
+ - [code set](codeset/)
+ - [icon set](iconset/)
+
 # Basic Kit
 
 *For about $400 we build an off-grid solar powered web server with no private information which can be shared in public with anyone*
