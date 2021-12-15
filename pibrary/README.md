@@ -1,12 +1,24 @@
 ## [home](scrolls/home)
 
-## [pibrary github repository](https://github.com/LafeLabs/pibrary)
-
 #  Geometron/TRASH ROBOT
 
-[replicator raw code](php/replicator.txt)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+ - [editor.php](editor.php)
+ - [scroll2tex.php](scroll2tex.php)
+ - [pibrarygenerator.php](pibrarygenerator.php)
 
-[global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+# Sets
+
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [imageset/replicator.php](imageset/replicator.php)
+ - [mapset/replicator.php](mapset/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
+ - [image set](imageset/)
+ - [symbol set](symbolset/)
+ - [map set](mapset/)
+ - [code set](codeset/)
+ - [icon set](iconset/)
 
 # Basic Kit
 
@@ -57,7 +69,7 @@ sudo apt install php libapache2-mod-php -y
 ```
 cd /var/www/html
 sudo rm index.html
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/freenet/main/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html

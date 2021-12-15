@@ -1,7 +1,9 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/pibrary/",
     "scrolls": [
+        "benefit",
         "content",
+        "creators",
         "elements",
         "home",
         "support",

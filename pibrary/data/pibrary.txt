@@ -1,0 +1,8 @@
+{
+    "forks": [
+        "bookofgeometron",
+        "pibrary",
+        "tmacb",
+        "trashphysics"
+    ]
+}
