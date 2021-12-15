@@ -31,6 +31,7 @@
         "rdelete.txt",
         "removephp.txt",
         "replicator.txt",
+        "scroll2tex.txt",
         "scrolleditor.txt",
         "scrollsetreplicator.txt",
         "setreplicator.txt",

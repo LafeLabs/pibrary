@@ -2,11 +2,9 @@
 
 #  Geometron/TRASH ROBOT
 
-[replicator raw code](php/replicator.txt)
-
-[global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
-
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [editor.php](editor.php)
+ - [scroll2tex.php](scroll2tex.php)
 
 # Basic Kit
 
