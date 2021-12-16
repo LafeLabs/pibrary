@@ -6,8 +6,11 @@
         "content",
         "creators",
         "elements",
+        "github",
         "home",
+        "iconset",
         "links",
+        "people",
         "raspberrypi",
         "support",
         "trashmagic"
