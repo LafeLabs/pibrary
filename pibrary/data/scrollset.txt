@@ -12,7 +12,9 @@
         "links",
         "people",
         "raspberrypi",
+        "solar",
         "support",
-        "trashmagic"
+        "trashmagic",
+        "wireless"
     ]
 }
