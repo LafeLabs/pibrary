@@ -1,0 +1,26 @@
+
+## [HOME](scrolls/home)
+
+# CHAOS BOOKS
+ 
+A chaos book is a book made up of a self-replicating set of linked text documents on a Raspberry Pi based web server using the Geometron system.  
+
+This is a chaos book.  The text documents are called scrolls and are in the [Markdown language](https://www.markdownguide.org/basic-syntax/).  To edit, click the icon that looks like a pencil.  Then the home icon gets you back to the main display of the document. 
+
+Chaos books are self-replicating.  This means that they are incorporated into software which has code that replicates all the scrolls from one server to the next.  The Chaos symbol with the eight arrows links to the scroll set replicator which has a link to replicate all scrolls from their source to the current server.  This source can be changed by changing the "source server".  Click the replicator link to replicate.
+
+No chaos book should ever be encumbered by any intellectual property of any kind.  We create content from scratch and explicitly publish it under a "public domain" license with no restrictions whatsoever of any kind, which allows for unrestrained edits and copies.  
+
+The purpose of chaos books is to increase the amount and quality of knowledge shared in the public domain.  Nothing in this network is encrypted, nothing is private, nothing is connected to any one user. It is simply a network of sets of self-replicating documents.  Users create, edit, and replicate documents, all without ever logging in or generating any information tied to an individual at all.  
+
+The purpose of the Trash Robot Pibrary is to create all the chaos books needed for full trash magic: we will build a self-replicating library of libraries of self-replicating books which document everything we need to build a whole civilization from only trash, the sun, water, and the living world directly around us.  
+
+Some pibraries which will be needed for this are:
+
+- builds 
+- stories
+- calculations 
+- lists of links
+- pibraries of pibraries
+
+
