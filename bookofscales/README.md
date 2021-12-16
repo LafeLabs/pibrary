@@ -1,10 +1,29 @@
+## [home](scrolls/home)
 
-## [HOME](scrolls/home)
+#  Geometron/TRASH ROBOT
 
-## [CHAOS BOOKS](scrolls/chaosbooks)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+ - [editor.php](editor.php)
+ - [scroll2tex.php](scroll2tex.php)
+ - [replicator.php](replicator.php)
+ - [pibrarygenerator.php](pibrarygenerator.php)
+ - [pibraryreplicator.php](pibraryreplicator.php)
 
-# Raspberry Pi Assembly
- 
+# Sets
+
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [imageset/replicator.php](imageset/replicator.php)
+ - [mapset/replicator.php](mapset/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
+ - [image set](imageset/)
+ - [symbol set](symbolset/)
+ - [map set](mapset/)
+ - [code set](codeset/)
+ - [icon set](iconset/)
+
+# Basic Kit
+
 *For about $400 we build an off-grid solar powered web server with no private information which can be shared in public with anyone*
 
 ## Stuff to buy:
@@ -62,6 +81,14 @@ sudo chmod -R 0777 *
 
 Check the IP address by hovering over the wifi icon, put that into the browser on another machine on the same local wifi network to see and edit the server.  Or open a browser on the pi and point it to [http://localhost](http://localhost)
 
+## Enable VNC
+
+From the menu, select
+
+preferences>raspberry pi configuration>interfaces
+
+click radio button to turn VNC on
+
 ## Set up to have names for other servers
 
 edit hosts file to have the IP address of the other servers and then the name you want to use, copying the format in the existing file.
@@ -78,6 +105,7 @@ Look up "set up port forwarding raspberry pi" and follow instructions to log ont
 
 edit the /etc/hosts file on the remote pi terminal so that home/ and remote/ point to home pi server either on the local network or on the public network.  So "home" will point to the local IP address on the wifi and "remote" will point to the global IP address of the home raspberry pi server(which everyone can see).  
 
+
 The home server can now have a link to itself and also to a QR code page which points to the IP address.  Then the remote pi terminal has a link at the top so that localhost points to the home server, which then points to the QR code which passerby can scan.  Then all the passerby are directed by raw QR code to a raw IP address.  The Operator makes changes to the home pi using the remote pi.  The remote pi has links to the specific tools on the home server, using the shortcuts, e.g.: "http://trashrobotremote/classifieds/postad.html".
 
 
@@ -85,4 +113,96 @@ The home server can now have a link to itself and also to a QR code page which p
 
 [link to setting up basic website with pi with external connection](http://unixetc.co.uk/2013/09/21/create-a-basic-website-on-a-raspberry-pi/)
 
- 
+## Install arduino
+
+```
+sudo apt-get install arduino
+```
+
+this installs a old version which is missing some features, namely the serial plotter.  following more complicated instructions leads to non-working version which is impossible to uninstall.
+
+
+how to do the tar ball thing to get a later version of arduino which has the plotting
+
+[https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/](https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/)
+
+go get the Arduino software at:
+
+[https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+
+and download "Linux ARM 32 bits".
+
+Open a terminal and go to the home directory:
+
+```
+cd ~
+```
+
+Go to downloads folder:
+```
+cd Downloads
+```
+list the files with 
+```
+ls
+```
+See the name of an archive with a name like "arduino-####-linuxarm.tar.xz", where #### is a version number.
+
+extract with 
+```
+tar -xf arduino-####-linuxarm.tar.xz
+```
+
+move the extracted information to opt directory(directory for package installation)
+
+```
+sudo mv arduino-#### /opt
+```
+
+then run the install script:
+```
+sudo /opt/arduino-####/install.sh
+```
+
+
+## Add python that we need
+
+[https://matplotlib.org/](https://matplotlib.org/)
+
+matplotlib install:
+
+```
+sudo apt install python3-matplotlib
+```
+
+[https://matplotlib.org/](https://matplotlib.org/)
+
+[https://www.instructables.com/Jupyter-Notebook-on-Raspberry-Pi/](https://www.instructables.com/Jupyter-Notebook-on-Raspberry-Pi/)
+
+```
+sudo apt-get update
+sudo apt-get install python3-scipy
+sudo pip3 install --upgrade pip
+reboot
+sudo pip3 install jupyter
+```
+
+
+## Links
+
+ - [qrcode.html](qrcode.html)
+ - [ipaddress.php](ipaddress.php)
+ - [http://localhost/](http://localhost/)
+ - [../](../)
+ - [fork.html](fork.html)
+ - [user.php](user.php)
+ - [index.html](index.html)
+ - [readme.html](readme.html)
+ - [editor.php](editor.php)
+ - [dnagenerator.php](dnagenerator.php)
+ - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/pi/main/servers/scrollserver/php/replicator.txt)
+ - [local replicator code link](php/replicator.txt)
+ - [scroll set replicator](scrollset.html)
+ - [set replicator](set.html)
+ - [replicator.php](replicator.php)
+

@@ -7,7 +7,15 @@ A chaos book is a book made up of a self-replicating set of linked text document
 
 This is a chaos book.  The text documents are called scrolls and are in the [Markdown language](https://www.markdownguide.org/basic-syntax/).  To edit, click the icon that looks like a pencil.  Then the home icon gets you back to the main display of the document. 
 
+Edit icon:
+
+![](iconsymbols/edit.svg)
+
 Chaos books are self-replicating.  This means that they are incorporated into software which has code that replicates all the scrolls from one server to the next.  The Chaos symbol with the eight arrows links to the scroll set replicator which has a link to replicate all scrolls from their source to the current server.  This source can be changed by changing the "source server".  Click the replicator link to replicate.
+
+Chaos icon:
+
+![](iconsymbols/chaos.svg)
 
 No chaos book should ever be encumbered by any intellectual property of any kind.  We create content from scratch and explicitly publish it under a "public domain" license with no restrictions whatsoever of any kind, which allows for unrestrained edits and copies.  
 
@@ -17,10 +25,30 @@ The purpose of the Trash Robot Pibrary is to create all the chaos books needed f
 
 Some pibraries which will be needed for this are:
 
-- builds 
+- builds: instructions to replicate things
 - stories
 - calculations 
 - lists of links
 - pibraries of pibraries
 
+To create a new pibrary or chaos book, fork down to a new page with the link on fork icon:
 
+![](iconsymbols/fork.svg)
+
+You can always see the sets from there: symbol set, image set, icon set, map set, code set.  These are self-replicating sets of documents of other kinds besides text, and are dealt with in their own scroll in this book.
+
+When reading scrolls, change from light to dark with the light/dark icon:
+
+![](iconsymbols/lightdark.svg)
+
+To delete scrolls, go to the scroll delete page with this icon:
+
+![](iconsymbols/delete.svg)
+
+Deleting is forever!! When you delete a thing, that is *permanent*.  We protect against random deleting by replicating things again and again which we want to keep.  This is like life.  We replicate, evolve, and destroy in a constant flow across the whole global network of documents. 
+
+On a mobile device or any screen which is taller than it is wide we can pull up the menu of scrolls using the show menu icon:
+
+![](iconsymbols/showmenu.svg)
+
+## [RASPBERRY PI](scrolls/raspberrypi)
