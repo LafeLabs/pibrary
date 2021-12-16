@@ -9,6 +9,7 @@
         "github",
         "home",
         "iconset",
+        "introduction",
         "links",
         "people",
         "raspberrypi",
