@@ -1,8 +1,7 @@
 {
     "forks": [
-        "bookofgeometron",
-        "pibrary",
-        "tmacb",
-        "trashphysics"
+        "aliceinwonderland",
+        "alicethroughthelookinglass",
+        "chaosbible"
     ]
 }
