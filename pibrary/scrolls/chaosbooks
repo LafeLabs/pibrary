@@ -3,6 +3,8 @@
 
 # CHAOS BOOKS
  
+A chaos book is a really free book. REALLY free.  As in there is no property of any kind attached to it, it can be copied instantly with no restrictions whatsoever, it can be freely edited by all readers, and deleted at any time on any system.  These books are not attached in any permanent way to any author or reader.  They simply exist in a free network of evolving living knowledge.
+
 A chaos book is a book made up of a self-replicating set of linked text documents on a Raspberry Pi based web server using the Geometron system.  
 
 This is a chaos book.  The text documents are called scrolls and are in the [Markdown language](https://www.markdownguide.org/basic-syntax/).  To edit, click the icon that looks like a pencil.  Then the home icon gets you back to the main display of the document. 

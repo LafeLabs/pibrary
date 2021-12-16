@@ -2,13 +2,15 @@
 
 # THE BOOK OF PIBRARY
 
-A pibrary is a self-replicating set of CHAOS BOOKS, hosted on the Raspberry Pi.
+Pibrary is a free knowledge network based on the [Raspberry Pi](https://www.raspberrypi.org/)
 
- - [CHAOS BOOKS](scrolls/chaosbooks)
  - [PEOPLE](scrolls/people)
- - [RASPBERRY PI](scrolls/raspberrypi)
- - [GITHUB](scrolls/github)
- - [WEB PAGES](scrolls/web)
- - [LATEX](scrolls/latex)
- - [SET REPLICATION](scrolls/sets)
- - [LINKS](scrolls/links)
+ - [FREE COMPUTERS](scrolls/raspberrypi)
+ - [FREE INTERNET](scrolls/wireless)
+ - [FREE SOLAR POWER](scrolls/solar)
+ - [FREE BOOKS](scrolls/chaosbooks)
+ - [FREE CODE](scrolls/github)
+ - [FREE WEB PAGES](scrolls/web)
+ - [FREE MATH](scrolls/latex)
+ - [FREE SYMBOLS AND IMAGES](scrolls/sets)
+ - [FREE LINKS](scrolls/links)
