@@ -1,0 +1,22 @@
+
+## [HOME](scrolls/home)
+
+# FREE CODE
+ 
+This whole system is made up of self-replicating code.  Code is replicated using PHP from one server to another. We replicate from publicly hosted domains to raspberry pi's to other raspberry pi's to private computers and out to Github repositories and then on to more servers.  All the code which runs all the other types of document is part of this system.  The system self-edits: one of the self-replicating programs is an editor which can edit its own code. 
+
+The editor edits itself and also all the scripts which replicate the whole system.  The system of code and people all replicates as a set: code is replicated by people who directly teach other people how to replicate the code.   
+
+Code in our system is divided up by the five elements:
+
+**Water** represents HTML because that is the main content of everything, just as water is the main content of life.
+
+**Fire** represents JavaScript since that is how we carry out actions in the browser.
+
+**Air** represents CSS, which is the format of things in the browser.
+
+**Earth** represents the geometric programming language which is part of Geometron
+
+**Aether** represents PHP which is the only server-side language we ever use in our system.
+
+Want to copy the system? Just ask someone to help.

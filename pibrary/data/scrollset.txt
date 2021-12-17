@@ -3,6 +3,7 @@
     "scrolls": [
         "benefit",
         "chaosbooks",
+        "code",
         "content",
         "creators",
         "elements",
@@ -12,11 +13,14 @@
         "iconset",
         "introduction",
         "links",
+        "math",
         "people",
         "raspberrypi",
+        "sets",
         "solar",
         "support",
         "trashmagic",
+        "web",
         "wireless"
     ]
 }
