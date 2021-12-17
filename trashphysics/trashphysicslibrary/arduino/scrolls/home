@@ -5,17 +5,18 @@
  - links
  - [code set](codeset/)
  - [image set](image set/)
- - file set
+ - [file set](fileset/)
  - generic trash robot shield
  - trash robot stepper motor driver board
  - trash robot printer code with documentation
  - neopixels
  - accelerometers, various oscillator drives, orientation and neopixel connections
  - button/game controllers
- - I2C sensors
+ - I2C sensors, pressure and temperature for environmental monitoring and feedback
+ - thermistor and heater feedback
  - slimezistor
  - coil and magnet feedback oscillator
  - buttons and knob and speed control
-
+ - sonic distance sensor
 
 
