@@ -1,10 +1,16 @@
 
 ## [HOME](scrolls/home)
 
-## [PEOPLE](scrolls/people)
+# FREE COMPUTERS
 
-# Raspberry Pi Assembly
+The Raspberry Pi is a computer about the size of a deck of cards costing between 50 and 75 US dollars.  It runs all free open source software, on a flavor of Linux written specifically for the platform called Raspbian.  In order to run a Raspberry Pi, one needs to buy a few accessories, listed below, put it all together in a kit you can carry around, and 
+
+We will assemble kits and give them away to the community for wherever they will do the most good.  This physical hardware is not property. When we give these out we are not gifting them to an individual but releasing them from their bonds as property.  Whenever one of us finds someone who can use the hardware more than we can, we will pass it along to them.  The whole kit below does not need to be purchased if you use existing displays, keyboards, and mice.  
+
+All Raspberry Pi's need to have all the software described below installed in order to propagate the Pibrary.  This includes copying the Geometron software over which runs all the [free digital books](scrolls/freebooks) on the system.
  
+In order for this network to be truly free, we must avoid putting *any* personal information on any of these Raspberry Pi computers ever.  That means we should not log into anything private on them, or do any financial transactions.  The *only* purpose of these servers is to host truly free documents, which are in the Public Domain and can be freely replicated across the global network. 
+
 Basic Raspberry Pi kit with screen:
 
  - [Raspberry Pi 4 4 gb($55)](https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/)

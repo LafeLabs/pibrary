@@ -6,6 +6,7 @@
         "content",
         "creators",
         "elements",
+        "freebooks",
         "github",
         "home",
         "iconset",
