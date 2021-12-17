@@ -2,7 +2,9 @@
 ## [HOME](scrolls/home)
 
 # FREE CODE
- 
+
+The Github repostory for pibrary is at [github.com/lafelabs/pibrary](https://github.com/LafeLabs/pibrary).  The system is replicated with the program [replicator.php on github](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt).
+
 This whole system is made up of self-replicating code.  Code is replicated using PHP from one server to another. We replicate from publicly hosted domains to raspberry pi's to other raspberry pi's to private computers and out to Github repositories and then on to more servers.  All the code which runs all the other types of document is part of this system.  The system self-edits: one of the self-replicating programs is an editor which can edit its own code. 
 
 The editor edits itself and also all the scripts which replicate the whole system.  The system of code and people all replicates as a set: code is replicated by people who directly teach other people how to replicate the code.   
