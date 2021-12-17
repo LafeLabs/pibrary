@@ -46,7 +46,7 @@
     <form id = "uploadform" action="upload.php" method="post" enctype="multipart/form-data">
                 <span id ="uploadspan">UPLOAD:</span>
         <input type="file" name="fileToUpload" id="fileToUpload">
-        <input type="submit" value="Upload File" name="submit" id ="submitinput">
+        <input type="submit" value="Upload Image" name="submit" id ="submitinput">
     </form>        
 </div>
     
@@ -72,8 +72,11 @@ function loadimagefeed(){
     for(var index = uploadImages.length - 1;index >= 0;index--) {
         var newuploadbox = document.createElement("DIV");
         newuploadbox.classList.add("imagebox");
-        newuploadbox.innerHTML = "uploadimages/" + uploadImages[index];
-
+        var newimg = document.createElement("IMG");
+        newimg.src = "uploadimages/" + uploadImages[index];
+        newimg.classList.add("uploadimage");
+        
+        newuploadbox.appendChild(newimg);
         document.getElementById("imagefeed").appendChild(newuploadbox);
 
         var newdiv = document.createElement("DIV");
@@ -87,7 +90,7 @@ function loadimagefeed(){
         newimg.classList.add("button");
         newimg.classList.add("deletebutton");
         newimg.onclick = function(){
-            var imageurl =this.parentElement.getElementsByClassName("filelabel")[0].innerHTML; 
+            var imageurl =this.parentElement.getElementsByClassName("uploadimage")[0].src; 
             var imagename = "uploadimages/" + imageurl.split("uploadimages/")[1];
             var httpc = new XMLHttpRequest();
             var url = "deletefile.php";         

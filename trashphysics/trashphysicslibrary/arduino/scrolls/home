@@ -2,9 +2,10 @@
 
 # The Book of Arduino
 
- - links
+ - [links](scrolls/links)
+ - [boards](scrolls/boards)
  - [code set](codeset/)
- - [image set](image set/)
+ - [image set](imageset/)
  - [file set](fileset/)
  - generic trash robot shield
  - trash robot stepper motor driver board

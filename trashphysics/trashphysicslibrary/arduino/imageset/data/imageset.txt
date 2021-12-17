@@ -1,0 +1,8 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/trashphysicslibrary/arduino/imageset/",
+    "images": [
+        "shieldassembly.jpg",
+        "shieldparts.jpg",
+        "unoshield.png"
+    ]
+}
