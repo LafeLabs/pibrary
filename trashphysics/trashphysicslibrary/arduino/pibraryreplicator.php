@@ -14,6 +14,7 @@
     
     foreach($pibrary->forks as $value){
         mkdir($value);
+        copy("php/replicator.txt",$value."/replicator.php");
         mkdir($value."/data");
         copy($baseurl.$value."/data/scrollset.txt",$value."/data/scrollset.txt");
     }

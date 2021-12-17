@@ -1,15 +1,21 @@
-# Trash Robot Pibrary
+## [up a level](../)
 
-Books written by [TRASH ROBOT](https://www.trashrobot.org)
+# The Book of Arduino
 
- - [Trash Magic Manifesto(pdf)](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
- - [Trash Magic Manifesto hard copy](https://www.lulu.com/en/us/shop/lafe-spietz/trash-magic-manifesto-and-action-coloring-book-revision-1/paperback/product-1km4deev.html?page=1&pageSize=4)
- - [Book of Geometron CHAOS book](bookofgeometron/)
- - [Buy hard copy of Book of Geometron](https://www.lulu.com/en/us/shop/lafe-spietz/geometron/paperback/product-qqk98g.html)
- - [Trash Magic Action Coloring Book(chaos book, zine)](tmacb/)
- - [Book of Pibrary(chaos book)](pibrary/)
- - [Trash Physics(chaos book)](trashphysics/)
-
+ - links
+ - [code set](codeset/)
+ - [image set](image set/)
+ - file set
+ - generic trash robot shield
+ - trash robot stepper motor driver board
+ - trash robot printer code with documentation
+ - neopixels
+ - accelerometers, various oscillator drives, orientation and neopixel connections
+ - button/game controllers
+ - I2C sensors
+ - slimezistor
+ - coil and magnet feedback oscillator
+ - buttons and knob and speed control
 
 
 

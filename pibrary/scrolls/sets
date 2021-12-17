@@ -4,3 +4,13 @@
 # sets
  
 Free sets are sets of self-replicating media other than the scrolls, also using the Geometron system. This includes sets of images, sets of symbols, sets of icons, sets of maps and sets of programs.  All these self-replicate in similar ways to the main code.
+
+ - [image set](imageset/)
+ - [code set](codeset/)
+ - [symbol set](symbolset/)
+ - [icon set](iconset/)
+ - [map set](mapset/)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [mapset/replicator.php](mapset/replicator.php)
