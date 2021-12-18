@@ -12,24 +12,7 @@ In Trash Physics we learn how our world works using the traditions of physics, a
 
 Trash Physics is built on top of the Pibrary.  The Pibrary is free media in that it is without property or money.  It still is all based on extraction. But it is given out for free to those who currently have the least and are in public spaces(no property).  The Pibrary should create breathing room for people who live off of operating that network and spreading it.  Pibrary can support the world of building the Trash Physics and Trash Factory libraries.  
 
-We are using the tools of applied physics to build a factory which only uses local energy and trash to build the following:
-
- - all the tools of the machine shop: milling machine, lathe, drill press, sheet metal brake, geometron-based CNC all which can run off a heat engine, water engine or wind engine
- - plastics molding and welding machines for making products directly from plastic trash
- - heat engines to drive machines with the sun, geothermal energy, biomass energy or a fire
- - water engines which drive machines with rivers, tides and waves
- - windmill technology, again with direct drive
- - battery packs using material which can all be re-used
- - sewing machines
- - knitting machines
- - textile looms
- - spinner and drawer which convert plastic bottles to thread
- - screens with modular interface to just set an arbitrary pixel
- - geometron machines which store and display documents on screens
- - automation robots for agricultural use
- - air conditioners and refrigerators
-
-The elements of our universe as trash physicists are:
+**The elements of our universe as trash physicists are:**
 
  - the sun: its spectrum, its thermodynamics, how the Earth's orbit affects seasons
  - the moon: tides, cycles, orbit, the moon landings,  politics of the moon
@@ -41,8 +24,12 @@ The elements of our universe as trash physicists are:
  - how energy flows through living things: sun, chemical energy, mechanical energy
  - trees, wood, organic materials for mechanical structures
  - electromagnetic radiation: visible light, radio, low frequency fields, radioactivity, x rays, infrared, UV, photosynthesis
+ - force
+ - energy
+ - fields
+ 
 
-Elements of the new civilization we are building with trash physics
+**Elements of the new industrial production system we are building with trash physics:**
 
  - solar energy concentrators to drive heat engines
  - heat engines to drive machines and pump heat(AC/refrigeration)
@@ -59,8 +46,22 @@ Elements of the new civilization we are building with trash physics
  - wireless network infrastructure
  - geometron processors to control screens directly for display of documents using hybrid fabrication with existing
  - electrical storage cells
+ - all the tools of the machine shop: milling machine, lathe, drill press, sheet metal brake, geometron-based CNC all which can run off a heat engine, water engine or wind engine
+ - plastics molding and welding machines for making products directly from plastic trash
+ - heat engines to drive machines with the sun, geothermal energy, biomass energy or a fire
+ - water engines which drive machines with rivers, tides and waves
+ - windmill technology, again with direct drive
+ - battery packs using material which can all be re-used
+ - sewing machines
+ - knitting machines
+ - textile looms
+ - spinner and drawer which convert plastic bottles to thread
+ - screens with modular interface to just set an arbitrary pixel
+ - geometron machines which store and display documents on screens
+ - automation robots for agricultural use
+ - air conditioners and refrigerators
 
-Allies: People we need to work with but who are not doing trash physics:
+**Allies: People we need to work with but who are not doing trash physics:**
 
  - mycologists
  - keepers of indigenous knowledge
@@ -80,7 +81,7 @@ Allies: People we need to work with but who are not doing trash physics:
  - cooks, food service workers(food)
 
 
-The elements of Physics are:
+**The elements of Physics are:**
 
  - units, dimensional analysis, metrology
  - classical mechanics
@@ -98,10 +99,15 @@ The elements of Physics are:
  - computer methods, coding
  - relativity
 
-The elements of Trash Physics Library are:
+**The elements of Trash Physics Library(Pibrary) are:**
 
  - stories
- - calculations
+ - calculation scrolls(with math)
+ - jupyter notebooks
+ - code sets
+ - image sets
+ - symbol sets
+ - icon sets
  - builds 
  - articles
  - self-replicating sets: images, symbols, things, code, files
