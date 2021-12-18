@@ -12,5 +12,9 @@
   "https://cdn3.iconfinder.com/data/icons/summer-185/64/wave_sea_ocean-512.png",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxXj5Wq8aNzqDITkTIzbAghEG7-OWRvMH2B59ju0U2CXn83br8ZCxAFTtuE8IYE9xEFs&usqp=CAU",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwJ2o5rdOvL1Q-j2yHXbv3jAK6BfQR02k-oKy_z3maCDtp7aJxdqWscDvfs9RMwbgxj8&usqp=CAU",
-  "../imageset/uploadimages/pvnkt.png"
+  "../imageset/uploadimages/pvnkt.png",
+  "https://www.chinese-word.com/font-1/2753.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Galvanic_Cell.svg/1200px-Galvanic_Cell.svg.png",
+  "https://www.crushpixel.com/big-static14/preview4/cutting-fingers-rotating-shaft-symbol-1632266.jpg",
+  "https://previews.123rf.com/images/technicsorn/technicsorn2001/technicsorn200100074/137650213-cutting-of-fingers-rotating-shaft-symbol-sign-vector-illustration-isolate-on-white-background-label.jpg"
 ]

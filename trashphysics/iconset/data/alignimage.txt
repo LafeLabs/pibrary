@@ -1,1 +1,1 @@
-{"w":0.8342857142857143,"x":-0.5577142857142857,"y":0.37485714285714283,"angle":0,"src":"https://cdn3.iconfinder.com/data/icons/summer-185/64/wave_sea_ocean-512.png"}
+{"w":1.574857142857143,"x":-0.29942857142857143,"y":-0.624,"angle":0,"src":"https://previews.123rf.com/images/technicsorn/technicsorn2001/technicsorn200100074/137650213-cutting-of-fingers-rotating-shaft-symbol-sign-vector-illustration-isolate-on-white-background-label.jpg"}
