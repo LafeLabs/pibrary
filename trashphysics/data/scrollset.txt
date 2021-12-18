@@ -7,13 +7,18 @@
         "hall",
         "home",
         "introduction",
+        "main.tex",
+        "mechanics",
         "nist",
+        "old",
         "patreon",
         "quantum",
         "support",
         "teamc",
+        "teamc.tex",
         "tma",
         "trashphysicslibrary",
+        "whatisphysics",
         "yale"
     ]
 }

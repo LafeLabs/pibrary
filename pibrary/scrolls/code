@@ -22,3 +22,20 @@ Code in our system is divided up by the five elements:
 **Aether** represents PHP which is the only server-side language we ever use in our system.
 
 Want to copy the system? Just ask someone to help.
+
+If you already know github work flows and php start a new github repository called pibrary, and copy the replicator script above into the file replicator.php in your new directory on your local development computer.   Run 
+
+```
+php replicator.php
+```
+from the command line.
+
+Then use PHP to make a local server by staying in that directory and runing
+
+```
+php -S localhost:80
+```
+
+Then navigate to [http://localhost/](http://localhost/).  You can edit code using [editor.php](editor.php).  All PHP files are mirrored in .txt files in the directory [php/](php/), including the editor itself and the replicators.  Change the replicator to replicate from your new instance instead of the parent instance.
+
+If you're on windows install the Ubuntu extension and PHP on that. PHP comes with mac, you can just do this from a terminal.  
