@@ -1,1 +1,1 @@
-{"w":0.9782857142857143,"x":0.009142857142857144,"y":0.03428571428571429,"angle":0,"src":"https://i.shgcdn.com/bf7c8942-c82b-405c-9761-db243b55a8bb/-/format/auto/-/preview/3000x3000/-/quality/lighter/"}
+{"w":0.8342857142857143,"x":-0.5577142857142857,"y":0.37485714285714283,"angle":0,"src":"https://cdn3.iconfinder.com/data/icons/summer-185/64/wave_sea_ocean-512.png"}

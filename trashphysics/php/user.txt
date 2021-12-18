@@ -23,7 +23,6 @@
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.js"></script>
         <script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
-<!--       un comment to use math
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
         <script>
@@ -36,7 +35,6 @@
                 }
             });//			MathJax.Hub.Typeset();//tell Mathjax to update the math
         </script>
-    -->
 
     
 </head>
@@ -191,7 +189,7 @@ function loadscroll(scrollname){
             rawhtml = converter.makeHtml(scroll);
             document.getElementById("scrollscroll").innerHTML = rawhtml;
             convertscrollinks();
-            //			MathJax.Hub.Typeset();//tell Mathjax to update the math
+            MathJax.Hub.Typeset();//tell Mathjax to update the math
     //			MathJax.Hub.Typeset();//tell Mathjax to update the math
         }
     };
