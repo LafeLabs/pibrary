@@ -72,14 +72,14 @@ function loadimagefeed(){
     for(var index = uploadImages.length - 1;index >= 0;index--) {
         var newuploadbox = document.createElement("DIV");
         newuploadbox.classList.add("imagebox");
-        newuploadbox.innerHTML = "uploadimages/" + uploadImages[index];
+//        newuploadbox.innerHTML = "uploadimages/" + uploadImages[index];
 
         document.getElementById("imagefeed").appendChild(newuploadbox);
 
-        var newdiv = document.createElement("DIV");
-        newdiv.innerHTML = uploadImages[index];
-        newdiv.className = "filelabel";
-        newuploadbox.appendChild(newdiv);
+        var newa = document.createElement("A");
+        newa.innerHTML = uploadImages[index];
+        newa.href = "uploadimages/" + uploadImages[index];
+        newa.className = "filelabel";
     
         var newimg = document.createElement("IMG");
         newimg.src = "iconsymbols/delete.svg";
@@ -96,6 +96,8 @@ function loadimagefeed(){
             httpc.send("filename=" + imagename);//send text to deletefile.php
             this.parentElement.parentElement.removeChild(this.parentElement);
         }
+        newuploadbox.appendChild(newa);
+      
     }    
 }
 

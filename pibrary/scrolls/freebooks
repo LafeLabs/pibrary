@@ -7,6 +7,10 @@ What are free books? Free books are books which are not property, and which trav
 
 Free books include books we give away for free when we find that we have too many books.
 
+Free books also can simply be reading lists. Libraries already allow us to get just about any title if we hunt around a little. Reading lists from readers who we want to learn from can be absolutely critical in finding the right things to read to learn what we want to learn.
+
+Books can be found in all existing libraries with [worldcat.org](https://www.worldcat.org/), which can also be where we share reading lists.
+
 Free books include books we bind ourselves as zines and create free content in to pass along.  These zines are not property. So as we pass them along, we physically add to them with notes, drawings, and coloring them in.  
 
 Free books include self-replicating sets of documents hosted on the Raspberry Pi(pibrary book).  This document is a free pibrary book, a collection of scrolls.   Scrolls are which is documents in the [markdown](https://www.markdownguide.org/basic-syntax/) format which can be edited on a Raspberry pi acting as a web server, read over a web browser, and replicated from any server to any other server.  We can replicate these free books from one Raspberry Pi to the next, and mirror to public facing web pages on the Open Web as well as be replicated through public code repositories on Github.  
