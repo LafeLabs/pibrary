@@ -1,9 +1,10 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/pibrary/imageset/",
     "images": [
         "dreamhost1.png",
         "dreamhost2.png",
         "dreamhost3.png",
-        "dreamhost4.png"
+        "dreamhost4.png",
+        "pibraryset.jpg"
     ]
 }
