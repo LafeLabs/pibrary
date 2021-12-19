@@ -16,5 +16,7 @@
   "https://www.chinese-word.com/font-1/2753.jpg",
   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Galvanic_Cell.svg/1200px-Galvanic_Cell.svg.png",
   "https://www.crushpixel.com/big-static14/preview4/cutting-fingers-rotating-shaft-symbol-1632266.jpg",
-  "https://previews.123rf.com/images/technicsorn/technicsorn2001/technicsorn200100074/137650213-cutting-of-fingers-rotating-shaft-symbol-sign-vector-illustration-isolate-on-white-background-label.jpg"
+  "https://previews.123rf.com/images/technicsorn/technicsorn2001/technicsorn200100074/137650213-cutting-of-fingers-rotating-shaft-symbol-sign-vector-illustration-isolate-on-white-background-label.jpg",
+  "https://mpng.subpng.com/20180418/vlq/kisspng-social-media-computer-icons-tinder-blog-fire-fir-vector-5ad7ea9b74f915.9477185515240997394791.jpg",
+  "https://lh3.googleusercontent.com/proxy/t-SfHi8x423VPq2pkoNVUog5LdGZ8EfRGITHRPcC74WVIWyKmZWeJhLCCwNMyrm_ZQiwCFD94JSwf_zDaAb_K1mPvNwTcQUkJA"
 ]

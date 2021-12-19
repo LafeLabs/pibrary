@@ -19,14 +19,12 @@ Trash Physics is built on top of the Pibrary.  The Pibrary is free media in that
  - the earth: size, shape, lat/lons, thermodynamics, structure, rocks
  - the water cycle: sea, vapor/clouds, rain, rivers, streams, lakes, ground water, ice and snow
  - air: wind energy, vacuum pumps, air pressure, nuclear weapons shockwaves, sound waves, content, other gasses(nitrogen, oxygen, hydrogen, helium, neon,CO2,CO, other rare gasses, ozone, plasma) clouds, lightning
+ - heat physics: fire, heat engines, steam, hot air
  - flowing ions, chemistry, solutions, transformation. chemical potential and molecular/atomic transport
- - physics of plants, fungi, micro organisms
  - how energy flows through living things: sun, chemical energy, mechanical energy
- - trees, wood, organic materials for mechanical structures
+ - machine physics: force, power, torque, energy of shafts, motors, rotors, ropes, pulleys, wheels
  - electromagnetic radiation: visible light, radio, low frequency fields, radioactivity, x rays, infrared, UV, photosynthesis
- - force
- - energy
- - fields
+ - force, fields
  
 
 **Elements of the new industrial production system we are building with trash physics:**
@@ -42,6 +40,7 @@ Trash Physics is built on top of the Pibrary.  The Pibrary is free media in that
  - generic tube/valve/reservoir/pump system for fluids and gasses to deliver to chem and bio people
  - display screens(upcycle screens for generic direct pixel control via Geometron)
  - growing electrical interconnects in solution
+ - foundry, melt metal into ingots
  - human/machine interface: keyboards, pointers, voice, sound, motion sensor, touch sensor
  - environmental sensors to monitor the whole living world, weather, water
  - automation control: geometron robots for fabrication, agricultural automation
@@ -104,6 +103,9 @@ Trash Physics is built on top of the Pibrary.  The Pibrary is free media in that
 **The elements of Trash Physics Library(Pibrary) are:**
 
  - stories
+ - lists of things
+ - links
+ - active web calculators
  - calculation scrolls(with math)
  - jupyter notebooks
  - code sets
