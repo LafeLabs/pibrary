@@ -1,10 +1,21 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/pibrary/imageset/",
     "images": [
+        "cover.png",
         "dreamhost1.png",
         "dreamhost2.png",
         "dreamhost3.png",
         "dreamhost4.png",
+        "freebooks.png",
+        "freecode.png",
+        "freecomputers.png",
+        "freeinternet.png",
+        "freelinks.png",
+        "freemath.png",
+        "freepeople.png",
+        "freepower.png",
+        "freesets.png",
+        "freeweb.png",
         "pibraryset.jpg"
     ]
 }
