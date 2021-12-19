@@ -7,6 +7,7 @@
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [pibraryreplicator.php](pibraryreplicator.php)
  - [pibrarygenerator.php](pibrarygenerator.php)
+ - [fileset/replicator.php](fileset/replicator.php)
  - [iconset/replicator.php](iconset/replicator.php)
  - [codeset/replicator.php](codeset/replicator.php)
  - [imageset/replicator.php](imageset/replicator.php)
