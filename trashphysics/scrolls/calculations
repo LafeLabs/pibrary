@@ -1,0 +1,61 @@
+
+## [HOME](scrolls/home)
+
+# calculations of elements
+ 
+ - moon: calculate the orbital mechanics 
+ - moon: calculate cycles
+ - moon: math from the moon landings
+ - moon: tides simple calculations
+ - moon: calculate eclipses 
+ - sun: blackbody calculation
+ - sun: fusion physics, where the energy comes from, gravity calculations
+ - sun: solar winds and Carrington event, sun spots and effects on Earth, ionosphere
+ - sun: solar energy calculations based on exposure
+ - sun: solar concentration calculations from watts to gigawatts
+ - sun: photosynthesis energy calculations
+ - sun/earth: calculate exact angle of sun over course of day based on latitude and longitude
+ - earth: convert between latlon and meters, miles, km, nm, 
+ - earth: calculate the heat gradient and flow through crust
+ - earth: calculate the available heat for heat engines in realistic situations for geothermal
+ - earth: calculate densities of typical earth materials 
+ - earth: gravity and falling bodies, pendulums
+ - earth: calculate the circumference of the earth
+ - water: calculate available power in flowing water
+ - water: calculate the power in historical water mills
+ - water: go through typical numbers for large scale commercial hydro power plants
+ - water: calculate flow rates, flow impedance for large range of realistic transport cases
+ - water: power and energy of realistic wave action, available power
+ - water: turbine efficiency calculation
+ - water: blood pressure unit conversions, calculations
+ - water: how much water is in a cloud, how much turns into rain, numbers of that cycle
+ - water: pump specifications
+ - water: typical units of ion concentration, conductivity
+ - water: water, steam, ice energy and entropy
+ - water: tidal calculation corrections based on shape of bodies of water
+ - water: pressure calculations under water vs. depth
+ - water: hydraulic ram calculations
+ - air: energy and power of flowing air at stp
+ - air: ideal gas law, density, pressure calculations
+ - air: vacuum units
+ - air: windmill efficiency and designs with numbers
+ - air: vacuum pump vital statistics
+ - air: lightning energy, heat numbers
+ - air: basic green house calculations for real green house and for global warming
+ - heat: fire calculations 
+ - heat: calculations of stirling engine, both cooling and power
+ - heat: calculations of diesel and gas engine
+ - heat: calculations of steam engine
+ - heat: pump-on-water refrigeration cycle
+ - light: mirror physics
+ - light: optics for free space optical
+ - light: vital statistics of a laser diode, photodetector
+ - light: all the basic numbers for a wifi signal: wavelength, energy, power, E, B
+ - light: x ray energy, scattering
+ - light: radiation units, waste, power, natural etc
+ - light: black body radiation at all temperatures, thermal noise
+ - machines: pulley and drive shaft force, torque etc, 
+ - machines: capstain and cleat
+ - machines: water wheels
+ - machines: power and force and heat of cutting tools in metal
+ - units: energy, distance, power, force, electric field, magnetic field, light intensity, temperature, entropy, moles, voltage, current, charge, capacitance, inductance, resistance, flow impedance, viscosity, torque, angular velocity, velocity, acceleration, pressure, frequency, mass, density, time, radiation, 
