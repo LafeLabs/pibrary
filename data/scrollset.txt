@@ -3,6 +3,7 @@
     "scrolls": [
         "home",
         "links",
+        "replicators",
         "trashrobotlibrary"
     ]
 }

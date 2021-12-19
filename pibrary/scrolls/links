@@ -3,6 +3,23 @@
 
 # links
 
+Lists of links are a very powerful medium.  Some links can just be an idea, not an actual hyperlink. 
+
+Types of link lists:
+ 
+ - just descriptions of things, like this list
+ - links to wikipedia pages about a subject 
+ - links to other scrolls in a given pibrary book/page
+ - links to other parts of a forking tree of pibrary pages
+ - a bill of materials with links to buy all the parts of a thing
+ - links to the personal web pages of people promoting their work
+ - links to community resources
+ - lists of things available for free(virtual freebox)
+ - links to global code resources like github repositories, raw code
+ - links to active PHP replicators(scripts which replicate files)
+
+Some relevant links for this document:
+
  - [trashrobot.org](http://trashrobot.org/)
  - [pibrary.org](https://www.pibrary.org/)
  - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
