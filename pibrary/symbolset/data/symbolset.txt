@@ -1,11 +1,16 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/",
     "symbols": [
+        "cover.svg",
+        "freebooks.svg",
+        "freecode.svg",
         "freecomputers.svg",
-        "symbol1639935135.svg",
-        "symbol1639935150.svg",
-        "symbol1639935156.svg",
-        "symbol1639935163.svg",
-        "symbol1639935263.svg"
+        "freeinternet.svg",
+        "freelinks.svg",
+        "freemath.svg",
+        "freepeople.svg",
+        "freepower.svg",
+        "freesets.svg",
+        "freeweb.svg"
     ]
 }
