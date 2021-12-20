@@ -1,8 +1,11 @@
-# [Trash Robot Pibrary](https://github.com/LafeLabs/pibrary)
+# PIBRARY
+
+The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.    
+
+
+### [Trash Robot Pibrary](https://github.com/LafeLabs/pibrary)
 
 Books written by [TRASH ROBOT](https://www.trashrobot.org) are PUBLIC DOMAIN with no copyright whatsoever.
-
-This work can be supported on [Patreon](https://www.patreon.com/trashrobot), or [followed on tiktok at @trash_robot](https://www.tiktok.com/@trash_robot).
 
  - [Book of Pibrary](pibrary/)
  - [Book of Geometron](bookofgeometron/)
@@ -11,4 +14,3 @@ This work can be supported on [Patreon](https://www.patreon.com/trashrobot), or 
  - [Buy hard copy of Book of Geometron](https://www.lulu.com/en/us/shop/lafe-spietz/geometron/paperback/product-qqk98g.html)
  - [Trash Magic Manifesto(pdf)](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
  - [Trash Magic Manifesto hard copy](https://www.lulu.com/en/us/shop/lafe-spietz/trash-magic-manifesto-and-action-coloring-book-revision-1/paperback/product-1km4deev.html?page=1&pageSize=4)
-

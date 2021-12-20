@@ -1,6 +1,9 @@
 {
     "forks": [
         "bookofgeometron",
+        "bookofscales",
+        "fileset",
+        "gutenberg",
         "pibrary",
         "tmacb",
         "trashphysics"
