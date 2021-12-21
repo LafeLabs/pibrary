@@ -4,6 +4,8 @@
         "builds",
         "calculations",
         "home",
-        "stories"
+        "numbers",
+        "stories",
+        "wikipedia"
     ]
 }
