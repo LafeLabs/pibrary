@@ -1,6 +1,6 @@
 <?php
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/codelibrary/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/data/dna.txt";
 
 if(isset($_GET["dna"])){
     $dnaurl = $_GET["dna"];
@@ -13,11 +13,11 @@ $dna = json_decode($dnaraw);
 
 mkdir("data");
 mkdir("php");
-mkdir("code");
+mkdir("uploadimages");
 mkdir("iconsymbols");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codelibrary/php/replicator.txt","replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/php/replicator.txt","replicator.php");
 
 foreach($dna->html as $value){
     
@@ -36,12 +36,6 @@ foreach($dna->php as $value){
  
     copy($baseurl."php/".$value,"php/".$value);
     copy($baseurl."php/".$value,explode(".",$value)[0].".php");
-
-}
-
-foreach($dna->code as $value){
-    
-    copy($baseurl."code/".$value,"code/".$value);
 
 }
 

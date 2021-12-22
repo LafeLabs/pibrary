@@ -1,38 +1,31 @@
 ## [home](scrolls/home)
 
-#  Geometron/TRASH ROBOT
+# [THE BOOK OF PIBRARY](https://www.pibrary.org)
 
-[replicator raw code](php/replicator.txt)
+## Created by [Trash Robot](http://trashrobot.org/)
 
-[global replicator link](https://raw.githubusercontent.com/LafeLabs/pi/main/php/replicator.txt)
+The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.    
 
- - [editor.php](scrolls/editor.php)
 
-# Basic Kit
+[replicator.txt global link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
 
-*For about $400 we build an off-grid solar powered web server with no private information which can be shared in public with anyone*
-
-## Stuff to buy:
+## Basic Raspberry Pi kit with screen:
 
  - [Raspberry Pi 4 4 gb($55)](https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/)
  - [microSD Card and SD adapter($7)](https://www.pishop.us/product/microsd-card-32-gb-class-10-blank/)
  - [SD card reader($3)](https://www.pishop.us/product/high-speed-micro-sd-card-reader-maximum-128gb-black/)
   - [HDMI Screen($102)](https://www.sunfounder.com/collections/monitors/products/7-inch-hdmi-monitor)
  - [raspberry pi keyboard and mouse, official, from sunfounder($36)](https://www.sunfounder.com/collections/keyboard-gamepad/products/keyboard-mouse)
- - [solar panel and charger, (Amazon $60)](https://www.amazon.com/SOLPERK-Controller%EF%BC%8C-Automotive-Motorcycle-Powersports/dp/B07TTMF3FZ)
- - [barrel connector pigtails to connect pi screen from battery/charger/solar($9)](https://www.amazon.com/dp/B0915T6NLL)
- - [12 V 9 A-h lead acid battery($40 Amazon)](https://www.amazon.com/Rechargeable-Battery-Computer-BX1300LCD-Back-UPS/dp/B07WRXR223/)
 
-Get a second raspberry pi board to be the permanent home server which replicates out to the public page
 
-# Terminal Assembly
+## Terminal Assembly
 
 ![](https://i.imgur.com/Y46szlG.jpg)
 
 ![](https://i.imgur.com/N4ItAdo.jpg) 
 
 
-#  Raspberry Pi System Installation
+##  Set up the Raspberry Pi
 
 Get a SD card with 8 GB or more storage and a SD card USB reader
 
@@ -57,7 +50,7 @@ sudo apt install php libapache2-mod-php -y
 ```
 cd /var/www/html
 sudo rm index.html
-sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/freenet/main/php/replicator.txt
+sudo curl -o replicator.php https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt
 cd ..
 sudo chmod -R 0777 *
 cd html
@@ -67,14 +60,6 @@ sudo chmod -R 0777 *
 
 Check the IP address by hovering over the wifi icon, put that into the browser on another machine on the same local wifi network to see and edit the server.  Or open a browser on the pi and point it to [http://localhost](http://localhost)
 
-## Enable VNC
-
-From the menu, select
-
-preferences>raspberry pi configuration>interfaces
-
-click radio button to turn VNC on
-
 ## Set up to have names for other servers
 
 edit hosts file to have the IP address of the other servers and then the name you want to use, copying the format in the existing file.
@@ -82,7 +67,6 @@ edit hosts file to have the IP address of the other servers and then the name yo
 ```
 sudo nano /etc/hosts
 ```
-
 edit, and use control-x and say "yes" to save changes.
 
 ## connect pi to outside internet over router
@@ -90,9 +74,6 @@ edit, and use control-x and say "yes" to save changes.
 Look up "set up port forwarding raspberry pi" and follow instructions to log onto your router and forward port 80 to the raspberry pi.  Use [whatismyipaddress.com](https://whatismyipaddress.com/) to get your global IP address.  Now your home Raspberry pi server will be visible on that IP address.  Take that address and make it a link on the remote raspberry pi terminal as well as a QR code on both.   
 
 edit the /etc/hosts file on the remote pi terminal so that home/ and remote/ point to home pi server either on the local network or on the public network.  So "home" will point to the local IP address on the wifi and "remote" will point to the global IP address of the home raspberry pi server(which everyone can see).  
-
-
-The home server can now have a link to itself and also to a QR code page which points to the IP address.  Then the remote pi terminal has a link at the top so that localhost points to the home server, which then points to the QR code which passerby can scan.  Then all the passerby are directed by raw QR code to a raw IP address.  The Operator makes changes to the home pi using the remote pi.  The remote pi has links to the specific tools on the home server, using the shortcuts, e.g.: "http://trashrobotremote/classifieds/postad.html".
 
 
 [link to pi my life up](https://pimylifeup.com/raspberry-pi-port-forwarding/)
@@ -172,23 +153,3 @@ sudo pip3 install --upgrade pip
 reboot
 sudo pip3 install jupyter
 ```
-
-
-## Links
-
- - [qrcode.html](qrcode.html)
- - [ipaddress.php](ipaddress.php)
- - [http://localhost/](http://localhost/)
- - [../](../)
- - [fork.html](fork.html)
- - [user.php](user.php)
- - [index.html](index.html)
- - [readme.html](readme.html)
- - [editor.php](editor.php)
- - [dnagenerator.php](dnagenerator.php)
- - [global page replicator code link](https://raw.githubusercontent.com/LafeLabs/pi/main/servers/scrollserver/php/replicator.txt)
- - [local replicator code link](php/replicator.txt)
- - [scroll set replicator](scrollset.html)
- - [set replicator](set.html)
- - [replicator.php](replicator.php)
-
