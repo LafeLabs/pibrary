@@ -2,13 +2,15 @@
     "html": [
         "README.md",
         "fork.html",
+        "imagefeed.html",
         "index.html",
         "mapdelete.html",
         "mapset.html",
         "qrcode.html",
         "readme.html",
         "scrolleditor.html",
-        "set.html"
+        "set.html",
+        "textfeed.html"
     ],
     "javascript": [
         "mapfactory.js"
@@ -47,6 +49,7 @@
         "addressstack.svg",
         "arrow.svg",
         "arrowdeletesymbols.svg",
+        "chaos.svg",
         "clearicon.svg",
         "delete.svg",
         "deleteimage.svg",

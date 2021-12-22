@@ -3,5 +3,8 @@
     "maps": [
         "foo",
         "home"
+    ],
+    "images": [
+        "foo.png"
     ]
 }

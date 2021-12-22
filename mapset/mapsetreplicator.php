@@ -9,11 +9,18 @@ $server = $localmapset->server;
 
 $remotemapsetraw = file_get_contents($server."data/mapset.txt");
 $remotemapset = json_decode($remotemapsetraw);
+
 $maps = $remotemapset->maps;
+$images = $remotemapset->images;
 
 foreach($maps as $value){
 
     copy($server."maps/".$value,"maps/".$value);
+
+}
+foreach($images as $value){
+
+    copy($server."uploadimages/".$value,"uploadimages/".$value);
 
 }
 

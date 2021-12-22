@@ -98,6 +98,12 @@
         <a id = "mapuserlink" href= "user.php?map=maps/home">
             <img src = "iconsymbols/map.svg"/>
         </a>
+        <a href= "mapset.html">
+            <img src = "iconsymbols/chaos.svg"/>
+        </a>
+        <a href= "readme.html">
+            <img src = "iconsymbols/scroll.svg"/>
+        </a>
         
         <table>
             <tr>
@@ -120,6 +126,9 @@
             <input type="file" name="fileToUpload" id="fileToUpload">
             <input type="submit" value="Upload Image" name="submit">
         </form>
+        <p>
+            <a href ="imagefeed.html">imagefeed.html</a>
+        </p>
         <div id = "srcscroll">
             <!--image feed goes here-->
         </div>

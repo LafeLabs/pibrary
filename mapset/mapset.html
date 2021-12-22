@@ -66,6 +66,23 @@ var httpc = new XMLHttpRequest();
 
                 maps = JSON.parse(this.responseText);
                 mapset.maps = maps;
+                
+                var httpc11 = new XMLHttpRequest();
+                httpc11.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+        
+                        images = JSON.parse(this.responseText);
+                        mapset.images = images;
+                        document.getElementById("textio").value = JSON.stringify(mapset,null,"    ");
+                        savejson();
+                    };
+                }
+                
+                httpc11.open("GET", "dir.php?filename=uploadimages", true);
+                httpc11.send();
+
+                
+                
                 document.getElementById("textio").value = JSON.stringify(mapset.maps,null,"    ");
                 savejson();
 

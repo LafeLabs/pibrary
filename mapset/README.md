@@ -1,6 +1,6 @@
 ## [back up to book/library](../)
 
-#  Map Server
+#  Map Set
 
  - [home](index.html)
  - [editor.php](editor.php)
