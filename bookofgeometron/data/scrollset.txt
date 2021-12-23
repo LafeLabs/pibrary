@@ -85,6 +85,7 @@
         "srs.md",
         "srwp",
         "stories",
+        "story.md",
         "streetnetwork.md",
         "streets",
         "symbols.md",
