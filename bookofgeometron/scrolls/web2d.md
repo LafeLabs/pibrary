@@ -36,7 +36,7 @@ Stickers can also be printed out and applied to keys.
 ![Keyboard layout. Strike a key to add an action to the glyph you are
 editing. Arrow keys and backspace allow for editing the whole glyph. Up
 and down arrows move to the end or beginning of the
-glyph.](https://i.imgur.com/b8IlcdE.png)
+glyph.](imageset/uploadimages/keyboard.png)
 
 The control panel of soft keys should be pretty self-explanatory: the
 buttons do the same thing as the keys on the keyboard and are there to
@@ -97,91 +97,91 @@ and pasting into public pastebins and sharing the pastebin link.
 
 ![Edit symbols. This shows the symbols for moving the cursor back and
 forward, deleting an action, and also shows what the cursor looks like
-in a glyph being edited.](https://i.imgur.com/lhBHqEA.png)
+in a glyph being edited.](imageset/uploadimages/editsymbols.png)
 
 ![Movements. Arrows move along directions of the lines in the cursor.
 Rotation is by the unit indicated by the cursor wing angles. Scale
 actions are by the current scale value as shown by the dot positions on
 the cursor. Letters shown indicate the keys which map to these actions
 on a QWERTY keyboard with the default
-settings.](https://i.imgur.com/AuYbT9L.png)
+settings.](imageset/uploadimages/movesymbols.png)
 
 ![Angles described by symmetry glyphs. This also shows the actions to
 bisect, double, trisect and triple angles, and what keys are used to
-activate each geometric action.](https://i.imgur.com/Mj7PoDM.png)
+activate each geometric action.](imageset/uploadimages/anglesymbols.png)
 
 ![Scales, along with keys used to map to them in default configuration.
 There is no relation between the numbers on the keys and the mathematics
 of the scales. The scales shown are, from left to right, the square root
 of 2, the Golden Ratio, the square root of 3, 2, 3, and
-5.](https://i.imgur.com/dHlaMut.png)
+5.](imageset/uploadimages/scalesymbols.png)
 
 ![Basic drawing actions, along with keys used in default configuration
 to activate them. From left to right the actions are: draw dot, draw
 circle of unit radius, draw line segment of unit length, draw arc
 between cursor wings, draw a square, draw a filled square, draw a filled
 circle, and draw a line segment while moving forward one
-unit.](https://i.imgur.com/aIEBhLV.png)
+unit.](imageset/uploadimages/drawsymbols.png)
 
 ![Layers. Each layer has a line color, line width, and fill color, all
 of which are set with the Style object using the Style editor
-app.](https://i.imgur.com/iQdhiQo.png)
+app.](imageset/uploadimages/colorsymbols.png)
 
 ![Path actions, with keys used to activate them in default state. From
 left to right, actions are: start path, draw line segment in path, close
 a filled path, close an unfilled path, and terminate a path without
-closing it.](https://i.imgur.com/qNEohte.png)
+closing it.](imageset/uploadimages/pathsymbols.png)
 
 ![Start a Bezier Path and terminate it with the y and u
-keys.](https://i.imgur.com/OkzxEKQ.png)
+keys.](imageset/uploadimages/beziersymbols.png)
 
 ![Demonstrating the power of Geometron to make useful symbols with
 Bezier paths quickly and easily: a twiddle
-bracket.](https://i.imgur.com/4U7rm3q.png)
+bracket.](imageset/uploadimages/twidlebracket.png)
 
 ![Pan and zoom the field of
-view.](https://i.imgur.com/Y9fXUSN.png)
+view.](imageset/uploadimages/zoompan.png)
 
 ![Drop a flag, return to flag. This saves and then recalls the state of
-the GVM.](https://i.imgur.com/CnpFYDz.png)
+the GVM.](imageset/uploadimages/flagdrop.png)
 
 ![Cursor scale. This shows how scale works with the Geometron
-cursor.](https://i.imgur.com/SvdvmCH.png)
+cursor.](imageset/uploadimages/cursorscale.png)
 
 ![Cursor angle. This shows how angles work with the Geometron
-cursor.](https://i.imgur.com/ftDenRJ.png)
+cursor.](imageset/uploadimages/cursorangle.png)
 
 ![What the cursor looks like with factor of two scaling and a 90 degree
 angle. Also shown is a square used in Action Geometry. Try making the
-square!](https://i.imgur.com/AX7gI4v.png)
+square!](imageset/uploadimages/squarecursor.png)
 
 ![Another example of a commonly used Geometron cursor state, which
 combines the square root of two with 45 degree angles. Also shown is yet
 another shape used in Action Geometry which is also a good exercise to
-try to copy yourself.](https://i.imgur.com/xqROQoN.png)
+try to copy yourself.](imageset/uploadimages/isocrightcursor.png)
 
 
 ![Cursor with Golden Ratio scaling and 72 degree angle for fivefold
 symmetry work. Shown is another shape that is helpful to learn to copy,
 the pentagon/pentagram
-fractal.](https://i.imgur.com/wO4XGQL.png)
+fractal.](imageset/uploadimages/goldencursor.png)
 
 
 ![Cursor with square root of three scaling and 60 degree angle. This can
 be used to make the kinds of symbols shown, and replicating that is a
 useful exercise, as well as working through the deconstruction of the
 six pointed star and
-hexagon.](https://i.imgur.com/nTibiHN.png)
+hexagon.](imageset/uploadimages/root3cursor.png)
 
 
 ![The cursor with a 60 degree angle and factor of 3 scaling, along with
-another exercise to copy.](https://i.imgur.com/pPfI9LK.png)
+another exercise to copy.](imageset/uploadimages/threecursor.png)
 
 ![Cursor with scaling factor 5 and right angles. This can be used along
 with scale factor 2 to make things with scale factor 10. What is shown
 to copy as an exercise is a ruler constructed using this tool which can
 be made physical using a laser cutter as discussed in the Action
-Geometry chapter.](https://i.imgur.com/pWSnkef.png)
+Geometry chapter.](imageset/uploadimages/fivecursor.png)
 
 Each instance of the Geometron Virtual Machine has a style object, which
 defines 8 layers, numbered from 0 to 7. Each style has a line color,
@@ -197,7 +197,7 @@ screen is used to import and export style data, which can be saved
 offline and shared with other users via text message, email, etc. The
 RESET button resets the style to a standard setting, which will erase
 any changes made to the existing style. Enter new values into any field
-to immediately change it.](https://i.imgur.com/52G1v1k.png)
+to immediately change it.](imageset/uploadimages/stylecontrol.png)
 
 While the style app edits the data file currentjson.txt which applies to
 the whole Geometron object used for symbol editing, the importing and

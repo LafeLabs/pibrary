@@ -123,7 +123,7 @@ using more of the actions of Geometron: drawing line segments, rotating
 by discrete angles, scaling the unit down and back up and so on.
 
 ![Vesica piscis, or “fish bladder” spelled out with Geometron symbol
-glyphs.](https://i.imgur.com/OEcm1UD.png)
+glyphs.](imageset/uploadimages/vesica.png)
 
 Another central organizing principle of Geometron is that there are
 special symmetries and scales that are intrinsic to the Universe which
@@ -173,9 +173,7 @@ using this number expressed as a repeating decimal, in Geometron we
 simply use a symbol to represent this scale, without any symbolic
 reference to its numerical value.
 
-![The pentagram in a pentagon, showing the relationship between the
-Golden Ratio and fivefold
-symmetry.](https://i.imgur.com/naPI3Vw.png)
+![scales](imageset/uploadimages/scales.png)
 
 The square root of three plays a similar role to the Golden Ratio, but
 for sixfold symmetry. If one connects alternating corners of a regular
@@ -188,11 +186,11 @@ side length.
 
 ![The six pointed star in a hexagon, showing the relationship between
 the square root of three and sixfold
-symmetry.](https://i.imgur.com/Z63W9Cy.png)
+symmetry.](imageset/uploadimages/hexagon.png)
 
 ![Embedded squares showing the relationship between four and eight fold
 symmetry and the square root of
-two.](https://i.imgur.com/h1XcBrB.png)
+two.](imageset/uploadimages/square.png)
 
 Altogether, the scales used in this dialect are, in order, the square
 root of two, the Golden Ratio, the square root of three, 2, 3, and 5.
@@ -200,8 +198,7 @@ When a scale is set, that scale is the factor by which the unit is
 either multiplied or divided when we apply a scale-up or scale-down
 operation.
 
-![Scale actions in order: square root of two, Golden Ratio, square root
-of three, two, three, five.](https://i.imgur.com/naPI3Vw.png)
+![scales](imageset/uploadimages/scales.png)
 
 The figures show the symbols for all these scale values. We are now
 ready to understand all 8 of the basic discrete movements: move forward,
@@ -217,7 +214,8 @@ and “right”.
 position along the indicated directions relative to the cursor. Angle
 rotations are as shown. The plus and minus symbols are also shown and
 how the rescale to where the points are on the
-cursor.](https://i.imgur.com/O7i1wJu.png)
+cursor.](imageset/uploadimages/cursor.png)
+
 
 The basic constructions of Geometron are to draw a point at the current
 location, draw a circle of radius equal to the current unit, draw a line
@@ -237,7 +235,7 @@ symbols.
 
 ![Symbols for the layers have little line segments to denote the layer
 number, and show the line width, fill colors and stroke colors in the
-border and fill of squares.](https://i.imgur.com/bJtXs3A.png)
+border and fill of squares.](imageset/uploadimages/colors.png)
 
 A very important point to make about how all this fits together is that
 each of the symbols shown here which represent these geometric actions
@@ -251,7 +249,7 @@ symbolic description.
 ![Breaking a symbol glyph down into its constituent action glyphs. This
 shows the spelling for the geometric action which moves forward one
 unit. It includes a sub-action which draws the
-arrow.](https://i.imgur.com/0xNYZxg.png)
+arrow.](imageset/uploadimages/upsymbol.png)
 
 Geometron glyphs consist of a sequence of geometric actions. Each action
 has a symbol, which is itself made up of actions, each of which has a
@@ -281,7 +279,7 @@ technology is to draw symbols, our fundamental models should reflect
 this, and not mask it in “computation”.
 
 ![The two Cubes of the Geometron Hypercube: the Action Cube and the
-Symbol Cube.](https://i.imgur.com/Pk1WMC9.png)
+Symbol Cube.](imageset/uploadimages/hypercube.png)
 
 Of the two cubes in the Hypercube, one is the “action cube” and the
 other is the “symbol cube”, which has a leading 1 in the 4 digit address

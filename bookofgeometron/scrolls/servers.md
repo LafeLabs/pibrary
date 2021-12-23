@@ -8,6 +8,7 @@
 
 # Chapter 4: Servers
 
+
 Servers are machines that store and share documents in the Geometron
 system. There are three kinds of servers we work with: the Raspberry Pi
 servers that form the real backbone of the network, globally visible
