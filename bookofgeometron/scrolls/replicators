@@ -7,6 +7,8 @@
  - [create symbol set](symbolset/replicator.php)
  - [create icon set](iconset/replicator.php)
  - [create map set](mapset/replicator.php)
+ - [create file set](fileset/replicator.php)
+ - [create code set](codeset/replicator.php)
  - [copy  imageset/data/imageset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/imageset/data/imageset.txt&to=imageset/data/imageset.txt)
  - [copy  symbolset/data/symbolset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/symbolset/data/symbolset.txt&to=symbolset/data/symbolset.txt)
  - [copy  iconset/data/iconset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconset/data/iconset.txt&to=iconset/data/iconset.txt)
