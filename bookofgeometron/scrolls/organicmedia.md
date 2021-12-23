@@ -1,6 +1,5 @@
-[home](index.html)
 
-[Book of Geometron](scrolls/bookofgeometron.md)
+## [HOME](scrolls/home)
 
 # Chapter 2: Organic Media
 

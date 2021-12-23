@@ -39,6 +39,7 @@
         "home",
         "hyperlinks.md",
         "iconfactory.md",
+        "iconmagic.md",
         "lasercutshapes",
         "links",
         "linux",
