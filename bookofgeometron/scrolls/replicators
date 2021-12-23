@@ -2,18 +2,15 @@
 
 # Replicators
 
+ - [pibrary replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [create image set](imageset/replicator.php)
  - [create symbol set](symbolset/replicator.php)
  - [create icon set](iconset/replicator.php)
  - [copy  imageset/data/imageset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/imageset/data/imageset.txt&to=imageset/data/imageset.txt)
  - [copy  symbolset/data/symbolset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/symbolset/data/symbolset.txt&to=symbolset/data/symbolset.txt)
  - [copy  iconset/data/iconset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconset/data/iconset.txt&to=iconset/data/iconset.txt)
-
-
-[link to global scroll set](https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt)
-
-[copy global scroll set to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt&to=data/scrollset.txt)
-
-[copy global home scroll to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/scrolls/home&to=scrolls/home)
+ - [link to global scroll set](https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt)
+ - [copy global scroll set to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt&to=data/scrollset.txt)
+ - [copy global home scroll to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/scrolls/home&to=scrolls/home)
 
  
