@@ -3,6 +3,7 @@
     "scrolls": [
         "FAQ",
         "actiongeometry.md",
+        "actions",
         "android",
         "arduino",
         "artbox",
@@ -20,6 +21,7 @@
         "communitynetworking",
         "communityresources",
         "controller.md",
+        "cybermagic.md",
         "designicon.md",
         "duality",
         "elements",
@@ -58,6 +60,7 @@
         "pentagon",
         "php",
         "pi",
+        "pibrary.md",
         "poetryengine.md",
         "printers.md",
         "products.md",
