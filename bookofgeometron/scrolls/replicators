@@ -2,6 +2,8 @@
 
 # Replicators
 
+ - [create icon magic net set](mkdir.php?dir=iconmagicnetset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [iconmagicnetset/](iconmagicnetset/)
  - [pibrary replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [create image set](imageset/replicator.php)
  - [create symbol set](symbolset/replicator.php)

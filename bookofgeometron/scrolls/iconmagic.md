@@ -8,6 +8,8 @@
  - the idea, relation to Leibniz's plan
  - copy and paste sections from wikipedia on goedel's conspiracy theory
  - self-replicating sets depicted by self-replicating icons on self replicating boards
+ - board layouts, geometron nets, trash magic construction of rainbow duct tape, action geometry connection, artbox
+ - bag of boards with trash magic/ action geometry
  - how to create an icon
  - the clay replication path
  - how to create boards with AG

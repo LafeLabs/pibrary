@@ -1,0 +1,13 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicnetset/",
+    "symbols": [
+        "eight.svg",
+        "five.svg",
+        "four.svg",
+        "nine.svg",
+        "seven.svg",
+        "six.svg",
+        "ten.svg",
+        "three.svg"
+    ]
+}
