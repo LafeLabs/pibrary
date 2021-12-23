@@ -136,16 +136,17 @@ Network.
 
 [Next chapter: Action Geometry](scrolls/actiongeometry.md)
 
-![](https://i.imgur.com/LKa7MG0.png)
-![](https://i.imgur.com/GSKJ9dR.png)
-![](https://i.imgur.com/BP5St2L.png)
-![](https://i.imgur.com/5zawFOk.png)
-![](https://i.imgur.com/z8FANpZ.png)
-![](https://i.imgur.com/tbCx8KM.png)
-![](https://i.imgur.com/nZNDjyM.png)
-![](https://i.imgur.com/nhY7npD.png)
-![](https://i.imgur.com/WM7oOdo.png)
-![](https://i.imgur.com/YX66htB.png)
-![](https://i.imgur.com/wVPMnfE.png)
+
+![tree of life](imageset/uploadimages/treeoflife.png)
+![rlc line](imageset/uploadimages/rlc.png)
+![rc line](imageset/uploadimages/rc.png)
+![yhwh](imageset/uploadimages/yhwh.png)
+![pixel font](imageset/uploadimages/pixelfont.png)
+![laser font](imageset/uploadimages/laserfont.png)
+![katakana font](imageset/uploadimages/katakanafont.png)
+![inductor loop](imageset/uploadimages/inductorloop.png)
+![inductor](imageset/uploadimages/inductor.png)
+![aleph bet](imageset/uploadimages/alephbet.png)
+![estrogen](imageset/uploadimages/estrogen.png)
 
 

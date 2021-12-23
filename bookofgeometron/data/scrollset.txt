@@ -49,6 +49,7 @@
         "math.md",
         "mechanicals.md",
         "minimal",
+        "mods",
         "ontology.md",
         "organicmedia.md",
         "pastebin",

@@ -7,7 +7,7 @@
 1. [Build Arduino Brain](scrolls/brain.md)
 2. [Build Controller](scrolls/controller.md)
 3. [Build mechanicals](scrolls/mechanicals.md)
-4. [icon server](iconserver/)
+4. [icon set](iconset/)
 
 In Geometron we view symbols as being any geometry with meaning,
 including physical constructions and sequences of actions. A “printer”
@@ -27,7 +27,7 @@ Basic geometric actions of machine control for an arbitrary machine
 that moves along three perpendicular
 axes.
 
-![](https://i.imgur.com/NdlikVn.png)
+![](imageset/uploadimages/printeractions.png)
 
 To build up control of machines for printers, we start with the most
 basic discrete movements. To begin with, we discuss the control of
@@ -49,7 +49,7 @@ and of what machine is carrying out the actions.
 Dot actions from which symbols are
 constructed.
 
-![](https://i.imgur.com/I0fqXva.png)
+![](imageset/uploadimages/printerpixelactions.png)
 
 Recall that each action has a symbol which can be displayed in a web
 browser. These symbols serve to allow us to edit glyphs which control
@@ -87,7 +87,7 @@ Clay Icon Printer. Printer is built from 3 DVD drives, cardboard and
 plastic trash, duct tape, an Arduino, and some custom
 electronics.
 
-![](https://i.imgur.com/NgelIKS.png)
+![](imageset/uploadimages/printerphoto.png)
 
 We built printers from a set of 3 DVD drives, some cardboard and
 plastic, an Arduino and some custom electronics. When a pixel is drawn,
@@ -121,14 +121,14 @@ saved it goes into the Icon Feed for sharing with the
 world.
 
 
-![](https://i.imgur.com/XT2wCHF.png)
+![](imageset/uploadimages/icontrace.png)
 
 Icon Feed. Icons are just little bits of text, strings of numbers
 which are addresses in the Hypercube. Clicking an icon loads a glyph,
 which can be copy and pasted. New glyphs can be put in the text area and
 
 
-![](https://i.imgur.com/c4YhkE2.png)
+![](imageset/uploadimages/iconfeed.png)
 
 The Icon Printer framework provides the basis for a very general way to
 represent any idea with self-replicating physical geometry. We will
@@ -166,7 +166,7 @@ A hoist run along a rail going across the edge of a roof of a building
 can make a simple robot which can move to anywhere along the
 wall.
 
-![](https://i.imgur.com/rIspZgs.png)
+![](imageset/uploadimages/building.png)
 
 Block diagram of electron beam lithography Geometron robot. The
 Arduino here drives three analog to digital converters. Again the user
@@ -176,7 +176,7 @@ accessories. In this case the controller only needs one huge green go
 button and one huge red stop
 button.
 
-![](https://i.imgur.com/8OcXey1.png)
+![](imageset/uploadimages/ebeamrobot.png)
 
 In all cases, we use the Arduino as the basis for the controls. This
 versatile free and open platform can be controlled from the Raspberry
@@ -207,6 +207,6 @@ these. The back could also be unpainted for easier replication, making
 the object itself fully self-replicating
 media.
 
-![](https://i.imgur.com/K1w4bk8.png)
+![](imageset/uploadimages/pendant.png)
 
 [Next Chapter: Geometron in 3d and Beyond](scrolls/geometron3d.md)

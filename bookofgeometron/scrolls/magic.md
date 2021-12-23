@@ -167,7 +167,7 @@ information on any Geometron server. As above, so below: there is always
 a version of our geometry on the servers and one made from physical
 media.
 
-![](https://i.imgur.com/IRXc7Tf.png)
+![](imageset/uploadimages/pisigil.png)
 
 
 Sigil for Action Geometry. Action Geometry is a self-replicating set,
@@ -176,7 +176,7 @@ we find it useful to put it in. The layout of the sigil can be used to
 communicate relationships between
 things.
 
-![](https://i.imgur.com/E7XxcLr.png)
+![](imageset/uploadimages/actiongeometrysigil.png)
 
 The symbols we use to replicate our sets are chosen purely based on what
 works. Unlike the mathematical philosophers of the early 20th century,
@@ -217,7 +217,7 @@ Earth, Water. Water is blue, Air is yellow, Earth is green or brown,
 Aether is purple, and Fire is
 red.
 
-![](https://i.imgur.com/bqaZ2D3.png)
+![](imageset/uploadimages/elements.png)
 
 [full stack geometron](scrolls/fullstack.md)
 

@@ -46,66 +46,66 @@ Because we have a lot of things designed to be hung from Trash Poles using Trash
 This chapter describes then a set of objects which we can share in a physical place by a physical Geometron Server.  These can be shared, used, given away, bartered, sold, improved upon, and sent along to other places in the world to seed new swarms.  A Geometron Trash Camp might include any subset of the things described here.  Huge camps might have a whole village of livable shelters made from Skeletron with Trash Sheet, insulation, HVAC systems, power, industrial production machinery, telecom infrastructure, water purification, sanitation, and agriculture, and span a substantial area.  A small camp might just be a Server on a Golden Pyramid, hanging from a dumpster at a truck stop via a Trash Tie, delivering documents over a hotspot on a smart phone.  But whatever tools and materials we use, we can rely on the power of the Geometron geometric language to replicate constructions from community to community via the Street Network so that we can reach all of Humanity who wants to share.
 
 
-![](https://i.imgur.com/HgRu2Tt.png)
+![](imageset/uploadimages/shapeset.png)
 
 Shape Set. This is the basic shape set of Action Geometry.  It has the symmetries and scales of Geometron. What is shown should be printed exactly 6 inches wide, making each shape three inches on a side.
 
-![](https://i.imgur.com/MMzh1aO.png)
+![](imageset/uploadimages/rulers.png)
 
 Rulers.  Make this 6 inches wide and each ruler is a 6 inch ruler, 1 inch across, with both tenth and factor of two divisions.
 
-![](https://i.imgur.com/xsw26V6.png)
+![](imageset/uploadimages/protractor.png)
 
 Geometron protractor.  While not really needed for Action Geometry, this protractor is a nice accessory which emphasizes Geometron symmetries rather than numbers, and allows drawing of circles of radius 3,2 and 1 inch without a compass.  This is mostly useful if cut out with a laser cutter.
 
-![](https://i.imgur.com/sKULd0V.png)
+![](imageset/uploadimages/penrose.png)
 
 Penrose. Penrose tiles, the rhombi construction.  Copy, print, trace, or laser cut these, and use them to make logos, icons and symbols with some kind of meaning which other people can easily replicate.  The Shape Stack can by copied from someone which has these two shapes, and that can be used to create designs on Servers, which can then also be shared with your community who can all copy your highly recognizable design which has the Trash Robot metabrand as well as whatever symbol you have created or edited.
 
-![](https://i.imgur.com/H0CSD1a.png)
+![](imageset/uploadimages/trashrobotstencil.png)
 
 Spray paint stencil for laser cutting. You can use the Geometron software, selecting the built in laser font, to make a custom spray paint stencil pointing to the domain name which points to your Geometron server.  If you are Trash Robot, that can be Trash Robot, but we mostly point to a local non-property place.
 
-![](https://i.imgur.com/gp1Dy7a.png)
+![](imageset/uploadimages/pipenrose.png)
 
 Construction of the Raspberry Pi logo for server bags. The top two shapes are green the rest are red.
 
-![](https://i.imgur.com/b8bMMCo.png)
+![](imageset/uploadimages/skeletrontripod.png)
 
 Skeletron tripod.  Three 6 foot bamboo trash poles wrapped in rainbow colored duct tape with quarter inch holes drilled just back from the end.  An 18 inch nylon parachute cord trash tie is used with a square knot to secure the top.  Many things can be hung from this, including servers, terminals, robots, boxes, flags, lights, textile arts and pendants on more trash ties.  The tripod can be carried over the shoulder to be mobile, without untying the joint at the top for rapid deployment.
 
-![](https://i.imgur.com/jTspR7J.png)
+![](imageset/uploadimages/skeletronsawhorse.png)
 
 Skeletron cross bar configuration.  Two tripods can be converted into this stable configuration quickly to have a horizontal cross bar which S-Hooks can hang from to hang numerous objects of all kinds.
 
-![](https://i.imgur.com/PikFHBB.png)
+![](imageset/uploadimages/shook.png)
 
 
 S-Hook.  Note the repeated use of the square shape, and the use of the 45 degree triangle, making this easy to replicate using the Shape Set.  This hook is used to hang things from the Trash Poles in Skeletron. Fabricate by stacking 4 identical layers of corrugated cardboard cut in this pattern and wrapping them in rainbow colored duct tape.  Googly eyes can then be applied.
 
-![](https://i.imgur.com/g7zWwbd.png)
+![](imageset/uploadimages/tapesnake.png)
 
 
 Tape Snake.  Duct tape rolls of all useful colors, namely the rainbow colors plus black and pink, are strung on a 6 foot Trash Tie made from a clothesline which is looped through twice and secured with a square knot in a bight(like a bow on a tied shoe) for rapid replacement of rolls as they are used.
 
-![](https://i.imgur.com/hFm4kHI.png)
+![](imageset/uploadimages/artboxmap.png)
 
 ArtBox Net.  Cut out 10 equilateral triangles from corrugated cardboard.  Duct tape the joints as shown.
 
-![](https://i.imgur.com/e8GfFA3.png)
+![](imageset/uploadimages/artbox.png)
 
 ArtBox assembly.  The fully assembled box is a tetrahedron on an octahedron.  It should contain the means of its own replication, which is a box cutter, a ruler, an equilateral triangle, and a sharpie, along with a Tape Snake for duct tape fabrication, extra Trash Ties, and googly eyes.  Use duct tape colors in sequence to create a fully rainbowed effect, then apply googly eyes and add a black duct tape mouth.
 
-![](https://i.imgur.com/5TjNfHX.png)
+![](imageset/uploadimages/artboxtop.png)
 
 Top view of ArtBox.  Cut out little triangles in each of the top three petal triangles with the box cutter.  Thread a 6 foot Trash Tie with ends taped with duct tape as shown, and tie off the two bitter ends with a double figure eight knot for convenient purse-strap geometry.
 
-![](https://i.imgur.com/VOuHYQ9.png)
+![](imageset/uploadimages/pyramidnet.png)
 
 
 Pyramid net.  Use the Shape Set and Ruler to cut out corrugated cardboard patterns and stitch together with duct tape as shown.  Cutouts include a 6 inch square, a 3 inch square, and four trapezoids with 3 inch top and 6 inch base with 72 degree angles on the bottom angles.
 
-![](https://i.imgur.com/X8HDk1A.png)
+![](imageset/uploadimages/pyramid.png)
 
 Pyramid assembly.  Fold it all up and then cover the whole thing in a skin of rainbow duct tape.  Open the base, insert technology and re-seal.  Add cutouts as needed for cords in and out.
 

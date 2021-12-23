@@ -1,0 +1,10 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapset/",
+    "maps": [
+        "foo",
+        "home"
+    ],
+    "images": [
+        "foo.png"
+    ]
+}

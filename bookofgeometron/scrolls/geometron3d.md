@@ -30,7 +30,7 @@ This is a minimalistic action set. More complex actions are
 added based on specialized
 applications:
 
-![](https://i.imgur.com/TL8cfED.png)
+![](imageset/uploadimages/threedactions.png)
 
 The addresses in the Hypercube from 0600 through 0677 represent “shapes”
 in three dimensional Geometron, which also have two dimensional
@@ -43,7 +43,7 @@ A linear rectangular solid can be built up using a sequence of
 repeated cubes. This 3d shape is then ready for use in more complex
 structures.
 
-![](https://i.imgur.com/UyUeX9f.png)
+![](imageset/uploadimages/threedtower.png)
 
 Linear rectangular solids can be used to build up a flat rectangular
 plate shape. The shape shown here builds this structure, then shrinks
@@ -52,7 +52,7 @@ construction of 3d printed icons with the same bytecode as used in the
 rest of the
 system:
 
-![](https://i.imgur.com/9Tp6uMJ.png)
+![](imageset/uploadimages/threedslab.png)
 
 
 In Geometron we are always concerned with making useful files which can
@@ -158,18 +158,18 @@ Castle of Whimsy(see figures).
 Turret construction. Cubes of decreasing size make a whimsical
 turret:
 
-![](https://i.imgur.com/2V1p9wm.png)
+![](imageset/uploadimages/towerstack.png)
 
 Many turret glyphs can be called to build up a
 castle:
 
-![](https://i.imgur.com/K2GCMcQ.png)
+![](imageset/uploadimages/castlesymbols.png)
 
 The finished product: a whimsical castle object, ready to use in VR,
 AR, or to send to a 3d
 printer:
 
-![](https://i.imgur.com/hFpKZvg.png)
+![](imageset/uploadimages/castle.png)
 
 We will now explore how the system described above is combined with the
 overall power of Trash Robot and Geometron to build symbols which link
@@ -230,14 +230,14 @@ the GVM, but the GVM abstraction allows one unified structure to
 describe behavior in all of these
 layers.
 
-![](https://i.imgur.com/eAxwGGu.png)
+![](imageset/uploadimages/robot3daction.png)
 
 An icon 3d object. This is from a 3d web file, but can be converted
 into an .stl file to print on a 3d printer exactly as shown, and then it
 can be replicated by using it as a stamp to create molds which are used
 to make more copies.
 
-![](https://i.imgur.com/XzCSk0C.png)
+![](imageset/uploadimages/trashrobot3d.png)
 
 As with every part of Geoemetron, we are only scratching the surface in
 this work of what can be done with these methods as we add actions to
@@ -288,6 +288,6 @@ combined with step angle manipulations, just like the ones used in two
 dimensional Geometron
 constructions.
 
-![](https://i.imgur.com/M4BTVQH.png)
+![](imageset/uploadimages/threedrotations.png)
 
 [Next Chapter: Magic](scrolls/magic.md)
