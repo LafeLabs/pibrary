@@ -29,7 +29,16 @@ The following are showing the symbols for the five basic languages using the Ico
 
 The first thing we do with *all* information in this system is replicate.  All replication starts with a PHP script called replicator.php.  This program contains a the url of a file called dna.txt which exists on whatever server we are copying all the files from.  This file contains a list of all the files in the system to be copied.  Replicator then uses this list to generate the specific urls of every file in the system and copy them all over to the local server.  Part of what is copied in this process is the file dna.txt, and this new copy of the file can then be added to the new copy of replicator.php, which can then be loaded on yet another server, and the whole thing is then replicated along with no reference to the original code.  
 
-All the code is edited with the code editor called editor.php.  This code editor uses the JavaScript library [Ace.js](https://ace.c9.io/)
+All the code is edited with the code editor called editor.php.  This code editor uses the JavaScript library [Ace.js](https://ace.c9.io/) for syntax highlighting and two very small PHP scripts to save and load the files it edits.   All the PHP scripts are stored in a directory called php, with the ending .txt instead of .php.  This allows them to edit copies of themselves, the editor.php file is editing the copy of it stored in php/editor.txt.  Then all these .txt files in php/ are copied into the main web directory and changed from .txt to .php using a script called text2php.php.  When the replicator replicates the system to another server, two copies are then made of each php script, one in the main directory ending with .php and one in the php directory ending with .txt.  
+
+The dna.txt file is in the [JSON(JavaScript Object Notation) format](https://www.json.org/json-en.html), and is generated using the PHP script dnagenerator.php.  Data for various Geometron applications are stored in the JSON format in files ending in .txt(to make them load in a web browser) in the "data" directory.  Thus for example dna.txt is in [data/dna.txt](data/dna.txt).   Various applications in Geometron can have various other directories and types of information, as long as any new directories are created in the code in replicator.php using "mkdir" and the appropriate JSON entries are added using dnagenerator.php. 
+
+Editor.php can be used to edit any file on the server, including itself. Take a look at the code for that.  To create a new file you can point the browser to editor.php?newfile=[name of new file] and you'll be able to scroll down and click on the new file to edit it.  You can then click the link for dnagenerator.php and the new file you created will be added to the dna.txt for replication to the next server. 
+
+More specific editors are used to edit the scrolls like this document and the various other elements of our system.  All of them are based on this same very simple system of small(just a few lines of code) PHP scripts which save, load, copy and delete files.  
+
+
+
 
 
  - what is magic.
