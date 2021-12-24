@@ -3,8 +3,10 @@
 # Replicators
 
  - [create icon magic net set](mkdir.php?dir=iconmagicnetset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [copy icon magic symbol set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicnetset/data/symbolset.txt&to=iconmagicnetset/data/symbolset.txt)
  - [iconmagicnetset/](iconmagicnetset/)
  - [create icon magic image set](mkdir.php?dir=iconmagicimageset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt)
+ - [copy icon magic image set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicimageset/data/imageset.txt&to=iconmagicimageset/data/imageset.txt)
  - [iconmagicimageset/](iconmagicimageset/)
  - [pibrary replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [create image set](imageset/replicator.php)
