@@ -27,3 +27,20 @@ Magic is the replication of desire.
  - getting the system working on other platforms
  - cybermagic apps
  - web calculators
+
+## Replication on Github
+
+Part of the replication of the Pibrary system involves replicating and forking the code.  To fork all the code in a Cybermagic code set, start a new Github Repository with a CC0 PUBLIC DOMAIN license, and clone it to your computer.  Get PHP working from the command line on that computer.  It is already installed on a Mac.  On PC install Ubuntu under Windows and then install PHP.  Create a new file in the new directory called replicator.php and copy the code in [php/replicator.txt](php/replicator.txt) into it.  Then run from the command line:
+
+```
+php replicator.php
+```
+
+Now all the code is copied and you can push the whole thing to your github repository, which you can call pibrary if you want, or immediately fork to something new. 
+
+To run the local PHP server, you can type from the command line
+
+```
+sudo php -S localhost:80
+```
+Then point any web browser to [http://localhost/](http://localhost/).  Now you can edit all the code using [editor.php](editor.php) and read about how to work with the code system in [the cybermagic scroll](scrolls/cybermagic).
