@@ -11,6 +11,8 @@
         "building.png",
         "castle.png",
         "castlesymbols.png",
+        "code-elements-symbols.jpg",
+        "code-elements.jpg",
         "colors.png",
         "colorsymbols.png",
         "cover.png",

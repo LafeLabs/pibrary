@@ -12,10 +12,25 @@ We also specify that all programs must be able to replicate from within a web br
 
 There are five basic languages we use for this, which we loosely connect with the archetypes of the five elements of alchemy.  These are:
 
-*HTML*.  HTML is short for Hyper Text Markup Language.  
+***HTML***.  HTML is short for Hyper Text Markup Language.  This is the main content language of the whole Web, which is why it is associated with Water, the most fundamental element of life.  We symbolize this with a blue equilateral triangle pointed down.
 
+***CSS***. CSS stands for Cascaded Style Sheets, and represents the code which sets styles on the web, like colors and fonts and positioning of objects in the browser window.  This is associated with the Air element, symbolized by a yellow downward-pointing equilateral triangle with a horizontal line through the center.
 
- Cyber magic is self-replicating digital media.  This is an *example* of organic media.  We replicate, fork, edit, destroy, replicate and edit again, and fork again and again.  
+***JavaScript.*** JavaScript(not to be mistaken for Java, an unrelated language) is the language which is used for *doing things* in a web browser.  This is the language all the Geometron apps are written in, such as calculators, art programs, robot programming etc.  We associate the actions of JavaScript with the Fire element, symbolized by a red equilateral triangle with the point up.
+
+***PHP.*** PHP stands for PHP Hypertext Preprocessor, and is the only server-side language we use in the system.  We use the absolute bare minimum server-side code, and no databases at all.  PHP is used to make the little helper programs we need to create, replicate, edit and delete files on the server one at a time.  The PHP is what replicates the entire rest of the system! Because of it's transformative role in the system we associate it with the Aether element, symbolized by a purple circle with a dot in the middle(like the Sun).
+
+***Geometron.*** We refer here narrowly to the geometric programming language. This is the language documented in this book which we will ultimately use to control *all* our machines.  This can be used to program the motion of machines which make things, as well as to program the geometry of displays for human communication, making it a universal language for all technology control.  Because of its extremely physical nature we associate this with the Earth element, symbolized by a brown equilateral triangle pointed down with a cross bar through the middle.
+
+The following are showing the symbols for the five basic languages using the Icon Magic philosophical language documented in this work:
+
+![](imageset/uploadimages/code-elements-symbols.jpg)
+![](imageset/uploadimages/code-elements.jpg)
+
+The first thing we do with *all* information in this system is replicate.  All replication starts with a PHP script called replicator.php.  This program contains a the url of a file called dna.txt which exists on whatever server we are copying all the files from.  This file contains a list of all the files in the system to be copied.  Replicator then uses this list to generate the specific urls of every file in the system and copy them all over to the local server.  Part of what is copied in this process is the file dna.txt, and this new copy of the file can then be added to the new copy of replicator.php, which can then be loaded on yet another server, and the whole thing is then replicated along with no reference to the original code.  
+
+All the code is edited with the code editor called editor.php.  This code editor uses the JavaScript library [Ace.js](https://ace.c9.io/)
+
 
  - what is magic.
  - set magic.
