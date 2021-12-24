@@ -1,0 +1,14 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicimageset/",
+    "images": [
+        "eight.jpg",
+        "five.jpg",
+        "four.jpg",
+        "nine.jpg",
+        "seven.jpg",
+        "six.jpg",
+        "ten.jpg",
+        "three.jpg",
+        "two.jpg"
+    ]
+}

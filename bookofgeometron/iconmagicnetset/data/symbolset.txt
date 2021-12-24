@@ -8,6 +8,7 @@
         "seven.svg",
         "six.svg",
         "ten.svg",
-        "three.svg"
+        "three.svg",
+        "two.svg"
     ]
 }

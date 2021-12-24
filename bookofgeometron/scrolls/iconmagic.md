@@ -56,4 +56,27 @@
  - geometron boards
  - printer robot: arduino, DVD, upcycle, pololu, pcbway
  - icon token bags
- - 
+ 
+
+## Boards
+
+![](iconmagicnetset/symbolfeed/two.svg)
+![](iconmagicimageset/uploadimages/two.jpg)
+![](iconmagicnetset/symbolfeed/three.svg)
+![](iconmagicimageset/uploadimages/three.jpg)
+![](iconmagicnetset/symbolfeed/four.svg)
+![](iconmagicimageset/uploadimages/four.jpg)
+![](iconmagicnetset/symbolfeed/five.svg)
+![](iconmagicimageset/uploadimages/five.jpg)
+![](iconmagicnetset/symbolfeed/six.svg)
+![](iconmagicimageset/uploadimages/six.jpg)
+![](iconmagicnetset/symbolfeed/seven.svg)
+![](iconmagicimageset/uploadimages/seven.jpg)
+![](iconmagicnetset/symbolfeed/eight.svg)
+![](iconmagicimageset/uploadimages/eight.jpg)
+![](iconmagicnetset/symbolfeed/nine.svg)
+![](iconmagicimageset/uploadimages/nine.jpg)
+![](iconmagicnetset/symbolfeed/ten.svg)
+![](iconmagicimageset/uploadimages/ten.jpg)
+
+
