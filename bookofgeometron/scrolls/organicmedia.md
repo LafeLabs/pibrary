@@ -147,7 +147,7 @@ forests. The most fundamental thing life does is replicate. This will
 probably get tedious for the reader, but replication is the thing this
 work will come back to with relentless repetition but that relentless
 repetition of replication is precisely what makes life work. A living
-system is a system of thing which all also replicate. Living systems
+system is a system of things which all also replicate. Living systems
 replicate over all scales: forests replicate, but so does the RNA and
 DNA in each cell of each organism in the forest! We will also build our
 systems this way: many components make up systems from tiny scraps of
@@ -251,7 +251,7 @@ be eliminated in a generation.
 
 **Everything is physical.** This is almost a circular statement. What
 does it mean for a thing to be “not physical”? This is a statement of
-belief. We emph<span>believe</span> that the idea of information which
+belief. We *believe* that the idea of information which
 is not physical is meaningless. All information has a physical
 manifestation, be it charge on a transistor or bumps on a CD. This law
 is important as a vocal rejection of any theory of how machines works
@@ -314,9 +314,7 @@ this book. It is all designed to run in a web browser. Any web browser.
 So if a Raspberry Pi running the Geometron server software is on a wifi
 network, all the programs and documents on it can be read, used, edited,
 replicated and deleted by anyone connecting to that wifi network on any
-device be it a phone, laptop, tablet, or another Raspberry Pi. Also, the
-pi itself can serve be used in the same way as any other device on the
-network.
+device be it a phone, laptop, tablet, or another Raspberry Pi. 
 
 We must also note an important condition for the pi to be a non-property
 computer. In order for the pi to be able to freely be shared among the
@@ -341,117 +339,9 @@ and that the network effect as the universe of non-property documents
 grows will exponentially increase their value to people until our
 network out-replicates the existing ones.
 
-Our network is based on sharing several specific types of document which
-are encoded into the software. We share “scrolls” which are text
-documents, “maps” which are like presentation slides or memes, “feeds”
-which are essentially lists of information, self-replicating
-applications of all kinds(using web based code that runs in a browser,
-never native code), and generalized Symbols using the Geometron
-geometric programming language which takes up much of this book. Taken
-together, these systems of document creation and replication will allow
-us to describe and replicate any technology of any kind.
+This book itself is organic media. It is composed of sets of documents which include programs which copy all the other documents and themselves.  The human readable documents like the one you're reading right now describe how to replicate the whole system: documents, servers, people, customs and methods, off grid power, and physical media.  In constructing these sets of media we are constantly aware of the Law stated above that everything must be recursive.  That is, we want all media to point back to all the rest of the set of media in some way.  This book points to making media which points to web pages which host the book as well as directions to physical network nodes which have more physical media which hosts more documents which describe replication and so on and so on.  
 
-This network will be distributed physically, over the Street Network
-described in the next section. We will initially try to get servers to
-people who are on the move, living on the streets or in vans and buses,
-truck drivers, street performers–anyone who finds themselves in nodes of
-physical networking like dense urban areas or truck stops with many
-people passing through. The details of how to replicate the server are
-in the section after next, which delves into the code. Not everyone will
-need to read this, but everyone should know where to find it, as part of
-what we will be bartering for as we scale is help from technical experts
-who can learn the system and replicate the software as well as add to it
-to evolve it and decentralize the code base.
+This book is the second edition and is currently entirely made of electronic files hosted on computers.  The history of this book as well as its charted future will all be documented in the last chapter of this edition.  This will include converting this second edition into a hard copy which can be sold at the print on demand site Lulu.com as well as a free .pdf to print and bind yourself.   
 
-The rest of this book describes how to replicate the system, how to use
-it, how it works, how to develop it into a fully trash-based system, and
-how we will rebuild mathematics to support this venture.
-
-The Book of Geometron
----------------------
-
-This book itself is organic media. It is intended to teach its contents
-to a reader(or rather a small subset of readers) to the level where they
-can then teach another. This should enable them to re-write future
-improved versions. In this section I describe how the book was put
-together, where the files are stored, how to edit them and use the
-LaTeXdocument preparation system to make the files required to produce a
-finished book. This means you also need to know what is required to get
-the physical book printed at an on demand printer, get all the metadata
-required for publication and distribution, and sell your version in
-retailers both large and small and online and off. Thus even the book is
-fully decentralized in principle: if it costs you nothing to set it up
-to sell, you can sell only a half dozen copies and it will be a net
-positive, and then if the next person does this it will also be positive
-and so on.
-
-If the book is decentralized in this way of distribution it has many
-advantages. If the book turns out to be disruptive enough that people
-try to use lawsuits to shut it down or harass an author, but there are
-10’s of thousands of new authors popping up all the time, it will be
-impossible to shut down. As some versions turn out to be dangerous or
-illegal, other versions can immediately be published with omit the
-offending content. Also, many editions will mean some will get much
-better than this initial manuscript. Decentralization means that as the
-manuscript finds its way into communities that speak different
-languages, the translation can happen without any centralized effort. So
-for instance if someone translates from the original English into say
-French, and then it spreads around in areas bilingual with French and
-some other language like Swahili it can go directly from the French to
-the Swahili without any involvement of the initial English speaking
-writers. By avoiding copyright, these improved and translated versions
-can then get translated back into English and sold yet again under yet
-anotehr edition. Having editions be unique can create a market for
-unusual editions, further pumping money into the system and stimulating
-further development of the book. I would rather see 10,000 people make
-100 dollars each selling their own editions of this book to just their
-friends than see me as the initial author make 1 million dollars on
-500,000 copies of one edition.
-
-It is not my intent in the long run to make money on Geometron. It is my
-intent to create a network which allows us to live without money by
-directly bartering what we need to survive(food, a place to sleep and
-work, medicine, transport) without use of money or any production in the
-old consumer economy.
-
-All editions are published with a public domain license for everything
-but the final pdf. The final pdf is published under the minimal
-copyright required for an author to create the needed publication
-metadata to get distribution outside of the on demand press used for
-printing.
-
-Each chapter is a .tex file, using standard LaTeX.
-
-This work must replicate itself completely. We show here how to edit
-each chapter, publish them to a public Github repository with detailed
-instructions for further replication, compile the document to a .pdf in
-book format, and self-publish the fully compiled book on Lulu Press. We
-then guide the reader to follow the instructions on Lulu to get all the
-needed copyright metadata for official distribution through normal
-publication channels. We then describe how to order just a few copies,
-sell them along with other parts of the system here at a markup, and use
-the profits to buy more print copies of their own book to place in
-bookstores and libraries as a fully guerilla activity with no official
-sanction. This is a little twist on the methodology of Abbie Hoffman’s
-“Steal This Book.” In Steel This Book, book sellers had to buy the book,
-which readers inevitably stole, cutting into book store profits. We use
-guerilla production methods to distribute it into bookstores without
-them spending money. They are faced with a choice: go along with our
-program and take free money from customers for the book or make trouble
-for us, throw the book out, and loose what is for them totally free
-money. If they sell the books for a profit, it benefits our network,
-because it spreads our ideas but also because it creates a value stream
-in the existing economy based on what we create, which gives us power in
-that network. Bookstores want money. But we want network centrality and
-the ability to control how information flows in a network, and free
-distribution shifts the power to us. This is why the self-replication of
-the book is so important. If you want to make your own spin on this book
-and make it more of a best seller, you do it, but if you leave it open,
-you hope someone else does it again, and that it keeps getting better as
-it replicates.  Replication instructions for the physical book will live in the README file for the book repository on Github.
-
-Another way to make the book self-replicating is to distribute print copies which a number of blank pages, sold at cost.  Artists can buy these, then create illuminated manuscripts with custom illustrations of geometric art using Geoemetron.  This can then be bartered based on the needs and powers of the artist, with outcomes as diverse as the artists themselves.  We can use this to barter for what we need to expand the network, to survive, and just as another way for artists to exist and thrive in the world.  Also, this can be passed along and shared as non-property.  You can buy the hardcopy of the book, add a little art, and pass it along, then the next person adds some and passes it along, and we all help each other out along the way.  A famous artist or tech creator might be able to barter for something of very high value.  Each physical work will be unique.  And since the electronic files which generate the pdf which goes to the hard copy also self-replicate, this entire system can evolve and replicate, as dedicated creators rewrite the whole manuscript and add their version on Lulu press for sale at cost print-on-demand as well, and so on.
-
-A version will also be available in 8.5x11 inch size pdf to print on regular letter size paper printers so you can hand bind a hard copy without spending money on shipping or printing if you have access to a printer.
 
 [Next Chapter: The Pibrary](scrolls/pibrary.md)

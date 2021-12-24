@@ -40,6 +40,7 @@
         "hyperlinks.md",
         "iconfactory.md",
         "iconmagic.md",
+        "installation",
         "lasercutshapes",
         "links",
         "linux",

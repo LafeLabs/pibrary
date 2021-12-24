@@ -2,8 +2,18 @@
 ## [HOME](scrolls/home)
 
 # Cybermagic
- 
-Magic is the replication of desire.
+
+
+ We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic is sets of files on a computer system which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  
+
+Every single piece of information we store on any computer ever in our system must be part of this.  Whether it's saving files to a server, collecting data from an environmental sensor, programming a robot for industrial automation, putting up a useful web application or calculating physical quantities, *all* these programs are part of our system of self-replication.  
+
+We also specify that all programs must be able to replicate from within a web browser.  Once the basic system is installed on any given machine, it is possible to replicate, edit and delete all files on the system from the browser. This includes all the replicator, editor, and deletor files themselves.  
+
+There are five basic languages we use for this, which we loosely connect with the archetypes of the five elements of alchemy.  These are:
+
+*HTML*.  HTML is short for Hyper Text Markup Language.  
+
 
  Cyber magic is self-replicating digital media.  This is an *example* of organic media.  We replicate, fork, edit, destroy, replicate and edit again, and fork again and again.  
 
@@ -44,3 +54,13 @@ To run the local PHP server, you can type from the command line
 sudo php -S localhost:80
 ```
 Then point any web browser to [http://localhost/](http://localhost/).  Now you can edit all the code using [editor.php](editor.php) and read about how to work with the code system in [the cybermagic scroll](scrolls/cybermagic).
+
+To make things easier edit the file in `~/.bashrc` to include the line:
+
+```
+alias s = 'sudo php -S localhost:80'
+```
+as well as the line to change into the directory you're working in automatically with `cd`.
+
+
+
