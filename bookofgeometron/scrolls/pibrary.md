@@ -24,6 +24,31 @@ a  a network of free human knowledge carried on free physical infrastructure.  W
 
 This document is a self-replicating set of documents.  The text documents are called "scrolls" and are in a format called Markdown([markdownguide.org](https://www.markdownguide.org/basic-syntax/)), which is a simple type setting language.  Click the pencil icon to edit. The red x links to the scroll deleter.  Deleting is forever, as with all organic media.  The Chaos Magic symbol points to the scroll set replicator.  More replicator links are on the [replicator scroll](scrolls/replicators).
 
+## The Trash Robot Pibrary 
+
+This is a list of the books created by Trash Robot:
+
+ - [Trash Magic Manifesto .pdf](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
+ - [Trash Magic Manifesto hardcopy purchase](https://www.lulu.com/en/us/shop/lafe-spietz/trash-magic-manifesto-and-action-coloring-book-revision-1/paperback/product-1km4deev.html?page=1&pageSize=4)
+ - [Trash Magic Action Coloring Book](tmacb/)
+ - [Book of Geometron First Edition pibrary format](bookofgeometronfirst/)
+ - [Book of Geometron First Edition letter size .pdf](https://github.com/LafeLabs/bookofgeometron/raw/main/main-bigpaper.pdf)
+ - [Book of Geometron first edition hard copy purchase](https://www.lulu.com/en/us/shop/lafe-spietz/geometron/paperback/product-qqk98g.html)
+ - [Book of Geometron Second Edition pibrary(this document)](bookofgeometron/)
+ - [Trash Physics pibrary format](trashphysics/)
+
+Book Replicators:
+
+ - [mkdir tmacb/](mkdir.php?dir=tmacb)
+ - [mkdir bookofgeometronfirst/](mkdir.php?dir=geometronfirst)
+ - [mkdir bookofgeometron/](mkdir.php?dir=bookofgeometron)
+ - [mkdir trashphysics/](mkdir.php?dir=trashphysics)
+ - [copy tmacb scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/tmacb/data/scrollset.txt&to=tmacb/data/scrollset.txt)
+ - [copy bookofgeometron scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometronfirst/data/scrollset.txt&to=bookofgeometronfirst/data/scrollset.txt)
+ - [copy bookofgeometron(2nd edition) scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/data/scrollset.txt&to=bookofgeometron/data/scrollset.txt)
+ - [copy trashphysics scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/data/scrollset.txt&to=trashphysics/data/scrollset.txt)
+
+
 ## Free Computers
 
 We believe in providing free network resources to everyone at all times, serving the most marginalized first.  We will assemble kits and give them away to the community for wherever they will do the most good.  This physical hardware is not property. When we give these out we are not gifting them to an individual but releasing them from their bonds as property.  Whenever one of us finds someone who can use the hardware more than we can, we will pass it along to them.  The whole kit below does not need to be purchased if you use existing displays, keyboards, and mice.  Raspberry Pi boards can often be found unused by community members who can donate, everything else is standard computer equipment.
@@ -112,5 +137,4 @@ This section discusses some of the people who are part of this initial network.
 
 **Organizers.** The chaos book represents an alternative method of communication which can be very valuable for organizing.  Rather than "news", a chaos book represents a body of knowledge which is bound by a common theme or purpose, not a flow of new information all the time but a reference work of use to all.  You can create manuals for organizing, directories of organizers, and compendiums of community stories and issues by asking for input and compiling it all into chaos books.  
 
-
-
+## [cybermagic](scrolls/cybermagic.md)

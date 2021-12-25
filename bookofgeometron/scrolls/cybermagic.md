@@ -4,9 +4,9 @@
 # Cybermagic
 
 
- We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic is sets of files on a computer system which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  
+ We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
 
-Every single piece of information we store on any computer ever in our system must be part of this.  Whether it's saving files to a server, collecting data from an environmental sensor, programming a robot for industrial automation, putting up a useful web application or calculating physical quantities, *all* these programs are part of our system of self-replication.  
+Every single piece of information we store on any computer ever in our system must be part of this.  Whether it's saving files to a server, collecting data from an environmental sensor, programming a robot for industrial automation, putting up a useful web application or calculating physical quantities, *all* these programs are part of our system of self-replication.    This system of self-replicating digital media includes all the programs which control the machines which make all the things in our system.  Our intention is to replace all existing automation and fabrication technology with systems programmed using Geometron, and for all the documents which program these machines to be incorporated into these self-replicating sets of files.
 
 We also specify that all programs must be able to replicate from within a web browser.  Once the basic system is installed on any given machine, it is possible to replicate, edit and delete all files on the system from the browser. This includes all the replicator, editor, and deletor files themselves.  
 
@@ -37,7 +37,7 @@ Editor.php can be used to edit any file on the server, including itself. Take a 
 
 More specific editors are used to edit the scrolls like this document and the various other elements of our system.  All of them are based on this same very simple system of small(just a few lines of code) PHP scripts which save, load, copy and delete files.  
 
-
+The most basic cyber magic system possible has PHP scripts to save, load, delete, replicate, and edit, and just replicates that system.  In order for any system to replicate it has to include the human readable media which tells you how to replicate.  This is what scrolls are for.  The most basic self-replicating set beyond the basic PHP code set is a scroll set.  
 
 
 

@@ -13,3 +13,15 @@
  - [imageset/replicator.php](imageset/replicator.php)
  - [mapset/replicator.php](mapset/replicator.php)
  - [symbolset/replicator.php](symbolset/replicator.php)
+
+
+Book Replicators:
+
+ - [mkdir tmacb/](mkdir.php?dir=tmacb)
+ - [mkdir bookofgeometronfirst/](mkdir.php?dir=geometronfirst)
+ - [mkdir bookofgeometron/](mkdir.php?dir=bookofgeometron)
+ - [mkdir trashphysics/](mkdir.php?dir=trashphysics)
+ - [copy tmacb scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/tmacb/data/scrollset.txt&to=tmacb/data/scrollset.txt)
+ - [copy bookofgeometron scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometronfirst/data/scrollset.txt&to=bookofgeometronfirst/data/scrollset.txt)
+ - [copy bookofgeometron(2nd edition) scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/data/scrollset.txt&to=bookofgeometron/data/scrollset.txt)
+ - [copy trashphysics scroll set json](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/data/scrollset.txt&to=trashphysics/data/scrollset.txt)

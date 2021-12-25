@@ -3,7 +3,6 @@
     "scrolls": [
         "alaska",
         "berkeley",
-        "builds",
         "builds ",
         "calculations",
         "china",
