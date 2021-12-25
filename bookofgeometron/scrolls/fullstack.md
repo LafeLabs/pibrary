@@ -1,6 +1,6 @@
 ## [Home](scrolls/home)
 
-# Chapter 10: Full Stack Geometron
+# Full Stack Geometron
 
 In spite of its philosophical intent, the media infrastructure presented
 here is all based on off-the-shelf information technology which

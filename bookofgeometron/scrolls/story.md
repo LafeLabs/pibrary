@@ -53,15 +53,29 @@ Right now, we need people to copy this thing.
  - philly
  - pittsburgh
  - denver
- 
+ - chicago
+ - dirty kid rescue team?
+
+
+What? What exactly is this? A library of free books. Books of places. 
+
+This is the time to get people to write books and share them. 
+
+**Place.** We write books to create meaning in shared public spaces.  
+
+**Methods.** We write books to tell people how to build all the elements of a better world.  
+
+**Stories** We write books to document shared culture, values, history, and myths.  
+
+In the 3 months of 2022 we will get books started to be put together and published online, starting NOW.   
+
 ## The future
 
- - living on the network
- - building out strategic network nodes
- - find links, build links, ask for sponsors
- - new york, multiple locations
- - denver
- - san francisco
- - sand hill road
- - east bay
- 
+We will scale this up. We will strengthen local networks.  We will streamline the replication process.  We need to have a standard process by which we get the infrastructure donated by local people, labor donated, and get volunteers to build content and share it for their own purposes.  By summer of 2022 we need the network to be able to support people materially.  This can mean that creators use the platform to promote whatever we are doing and get support for that, and that includes creating the platform itself, which is what I will do.  
+
+When I can survive as a content creator supported by this network, and the network is growing on its own with people training each other in how to replicate without my help, and evolving the code without my help, I will focus full time on writing Trash Physics, the three volume book which documents my life and how I became what I am now, my account of physics as an institution and what is wrong with it in my view, and the structure of the physics I want to build to replicate the existing system, which is a seed from which we will grow the Trash Physics library.  Then I will go recruit physicists to write the elements of the library and initiate the replication process so that this can also be growing without my help.  
+
+When Trash Physics is evolving in the wild, I will turn to using that and working with the community around it to build out full stack Geometron using trash, and using that to build a whole media network which is zero mining, entirely from ambient energy and grown or found material, with all shared screens and no private machines of any kind.   
+
+
+

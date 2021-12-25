@@ -3,7 +3,23 @@
 
 # Icon Magic
 
-## *Characteristica Universalis*
+A general language for expressing self-replicating sets with self-replicating physical media.
+
+Icon magic is a system of self-replicating media which can be used to represent general collections of ideas in relation to each other.  This is a physical manifestation of a universal language in which any object of any kind(thing, person, place, idea, concept, set, action etc.) can be represented by some symbol, and those symbols can then be arranged on networks of dots linked by line segments in geometric patterns.  
+
+This is general.  The icons can mean anything, and there can be any number of them.  The boards can be of any shape or size or layout, as long as they are geometry which can readily be replicated.  The icons are printed by pressing depressions into clay with a nail controlled using a Trash Robot programmed using Geometron.  
+
+We sew up black cotton flannel bags and store the prints in them.  We then use more clay to create stamps which are imprinted from the prints.  These stamps are then used to make the final icon token, which we 
+
+These depressions can be transferred to another piece of clay which can stamp yet another, and that replicates the clay token.  Tokens are painted and sanded to add color to the depressions.  
+
+This is fully self-replicating.  The boards use simple geometry with holes punched in them in cardboard, so that can be replicated with a marker to another piece of cardboard, which we also punch holes in, so it can replicate again and again.  
+
+So we have a system of fully self-replicating media which can represent any relationship between any kind of thing in the most abstract sense. This can be used to organize thought in a very general sense.  
+
+We use this totally general self-replicating media to represent self-replicating sets which form the basis of our fully replication-based economy.
+
+
  
  - the idea, relation to Leibniz's plan
  - copy and paste sections from wikipedia on goedel's conspiracy theory

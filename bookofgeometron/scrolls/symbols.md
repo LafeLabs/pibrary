@@ -1,9 +1,6 @@
-[home](index.html)
+## [home](scrolls/home)
 
-[Book of Geometron](scrolls/bookofgeometron.md)
-
-
-# Chapter 8: Symbols
+# Symbols
 
 Symbols are geometry with meaning. The symbol is perhaps the most
 general idea that exists in human thought, since everything we do is
