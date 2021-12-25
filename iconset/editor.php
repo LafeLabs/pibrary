@@ -76,6 +76,16 @@ EGO DEATH:
         }
     }
 
+    $jsfiles = scandir(getcwd()."/jscode");
+
+    foreach($jsfiles as $value){
+        if($value[0] != "."){
+            echo "<div class = \"javascript file\">jscode/";
+            echo $value;
+            echo "</div>\n";
+        }
+    }
+
 
     $datafiles = scandir(getcwd()."/data");
 
