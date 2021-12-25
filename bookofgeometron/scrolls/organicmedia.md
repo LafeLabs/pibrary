@@ -1,7 +1,7 @@
 
 ## [HOME](scrolls/home)
 
-# Chapter 2: Organic Media
+# Organic Media
 
 In a consumption-based civilization the purpose of all media is to
 stimulate consumption. This can come in the form of advertising,

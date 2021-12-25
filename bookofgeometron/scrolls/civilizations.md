@@ -1,7 +1,7 @@
 ## [home](scrolls/home)
 
 
-# Chapter 1: Civilizations
+# Civilizations
 
 Dig it up, set it on fire, and bury it. Our civilization is an
 ever-accelerating destructive flow of material from mine to landfill.

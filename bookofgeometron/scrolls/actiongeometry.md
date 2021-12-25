@@ -18,7 +18,7 @@
 
 [ruler scroll](scrolls/ruler)
 
-# Chapter 11: Action Geometry
+# Action Geometry
 
 We create a geometry in which constructions are whatever methods are most effective for replicating objects from trash and natural materials.  In classical geometry many of us learned in school, we are restricted to the use of the compass and straight edge.  Then in the geometry used in computers, everything is reduced to numbers and geometry becomes arithmetic.  But in Action Geoemtry we use the technology available today to make shapes which carry information about the symmetries and scales we will use for common constructions.  
 

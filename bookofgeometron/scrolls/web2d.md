@@ -1,10 +1,7 @@
-[home](index.html)
+## [home](scrolls/home)
 
-[Book of Geometron](scrolls/bookofgeometron.md)
 
-[symbol server](symbolserver/)
-
-# Chapter 9: 2d Web Graphics
+# 2d Web Graphics
 
 The previous chapter introduced the abstract idea of geometric
 programming with the Geometron Virtual Machine and the Geometron

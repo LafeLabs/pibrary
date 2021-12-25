@@ -6,7 +6,7 @@ Symbols are geometry with meaning. The symbol is perhaps the most
 general idea that exists in human thought, since everything we do is
 mediated through the use of some type of symbol. When we speak of
 symbols in Geometron we mean *any* geometric construction which has
-meaning to people. This includes not written language like text but
+meaning to people. This includes not just written language like text but
 constructions like the layout of a microchip or the design of a
 building. It also includes the way we control machines, how we program
 them build automation. Geometron represents a new framework for working
