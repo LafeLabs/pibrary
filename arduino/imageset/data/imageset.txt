@@ -1,0 +1,14 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/arduino/imageset/",
+    "images": [
+        "boardcloseup.jpg",
+        "equivalence.png",
+        "feather.png",
+        "finalassembly.jpg",
+        "findlibrary.png",
+        "i2ccloseup.jpg",
+        "libraries.png",
+        "neopixel-back-image.jpg",
+        "uno-and-board.jpg"
+    ]
+}
