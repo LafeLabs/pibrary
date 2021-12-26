@@ -1,0 +1,30 @@
+## [scrolls/home](scrolls/home)
+
+# Replicators
+
+  - [create full Geometron thing in "thing/"](mkdir.php?dir=thing&replicator=https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt)
+ - [thing/](thing/)
+ - [create laser shape set](mkdir.php?dir=lasershapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [copy laser shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/lasershapeset/data/symbolset.txt&to=lasershapeset/data/symbolset.txt)
+ - [lasershapeset/](lasershapeset/)
+ - [create icon magic net set](mkdir.php?dir=iconmagicnetset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [copy icon magic symbol set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicnetset/data/symbolset.txt&to=iconmagicnetset/data/symbolset.txt)
+ - [iconmagicnetset/](iconmagicnetset/)
+ - [create icon magic image set](mkdir.php?dir=iconmagicimageset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt)
+ - [copy icon magic image set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicimageset/data/imageset.txt&to=iconmagicimageset/data/imageset.txt)
+ - [iconmagicimageset/](iconmagicimageset/)
+ - [pibrary replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+ - [create image set](imageset/replicator.php)
+ - [create symbol set](symbolset/replicator.php)
+ - [create icon set](iconset/replicator.php)
+ - [create map set](mapset/replicator.php)
+ - [create file set](fileset/replicator.php)
+ - [create code set](codeset/replicator.php)
+ - [copy  imageset/data/imageset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/imageset/data/imageset.txt&to=imageset/data/imageset.txt)
+ - [copy  symbolset/data/symbolset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/symbolset/data/symbolset.txt&to=symbolset/data/symbolset.txt)
+ - [copy  iconset/data/iconset.txt](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconset/data/iconset.txt&to=iconset/data/iconset.txt)
+ - [link to global scroll set](https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt)
+ - [copy global scroll set to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/data/scrollset.txt&to=data/scrollset.txt)
+ - [copy global home scroll to local scroll set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pi/main/library/bookofgeometron/scrolls/home&to=scrolls/home)
+
+ 

@@ -1,0 +1,14 @@
+{
+    "forks": [
+        "actionmagic",
+        "arduino",
+        "bookofgeometron",
+        "bookofgeometronfirst",
+        "bookofscales",
+        "fileset",
+        "gutenberg",
+        "pibrary",
+        "tmacb",
+        "trashphysics"
+    ]
+}
