@@ -1,0 +1,16 @@
+
+## [HOME](scrolls/home)
+
+# BOOKMAGIC
+ 
+Book Magic is sets of electronic text documents organized into a "book" metaphor, along with the means and intention to replicate them.  Text documents are called scrolls and are in the [markdown language](https://www.markdownguide.org/basic-syntax/).  Sets of scrolls are replicated by clicking on the scroll set replicator link from the scroll set page at:
+
+[scrollset.html](scrollset.html)
+
+Or click the Chaos Magic icon which looks like this:
+
+[![](iconsymbols/chaos.svg)](scrollset.html)
+
+The red X is used to delete scrolls:
+
+[![](iconsymbols/delete.svg)](scrolldelete.html)

@@ -1,6 +1,9 @@
 {
     "forks": [
+        "actionmagic",
+        "arduino",
         "bookofgeometron",
+        "bookofgeometronfirst",
         "bookofscales",
         "fileset",
         "gutenberg",

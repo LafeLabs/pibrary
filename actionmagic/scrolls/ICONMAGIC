@@ -1,0 +1,22 @@
+
+## [HOME](scrolls/home)
+
+# ICONMAGIC
+ 
+This is a universal language for expressing self-replicating sets symbolically.  Each element of a set is encoded in a Geometron glyph which is used to program a robot which creates a physical token for that icon.  These physical tokens are arranged on a "board" made up of a network of linked dots on cardboard with sharpie using [ACTION GEOMETRY](scrolls/ACTIONGEOMETRY).
+
+Any set from the other elements of MAGIC can be expressed this way. Boards can be made of any size, any geometric symmetry scheme, and be connected as needed.  
+
+All elements of the system are self-replicating.  Everything is described by [BOOK MAGIC](scrolls/BOOKMAGIC) including the documents on how to replicate themselves. 
+
+ - process of converting any thought of any kind into a Geometron glyph made up of pixels to print on a robot
+ - the trash robot 2.5d icon printer 
+ - sculpey clay, paint pens
+ - [ACTION GEOMETRY](scrolls/ACTIONGEOMETRY)
+ - cardboard boards with geometric networks of line segments and points made with Sharpie and [ACTION GEOMETRY](scrolls/ACTIONGEOMETRY)
+ - set of icons in [icon set](iconset/)
+ - [icon set replicator](iconset/replicator.php)
+ - bag of robot prints with icons
+ - bag of stamps made from prints
+ - bag of painted and sanded icon tokens made from stamps
+ 

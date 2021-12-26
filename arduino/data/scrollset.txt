@@ -1,0 +1,9 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/",
+    "scrolls": [
+        "home",
+        "links",
+        "replicators",
+        "trashrobotlibrary"
+    ]
+}
