@@ -1,6 +1,17 @@
 {
-    "server": "http://10.0.0.27/arduino/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/arduino/",
     "scrolls": [
-        "home"
+        "class1blink",
+        "class2blink",
+        "class3buttonsknobs",
+        "class4neopixels",
+        "class5motors",
+        "class6accelerometers",
+        "class7github",
+        "class8finalprojects",
+        "home",
+        "links",
+        "replicators",
+        "trashrobotlibrary"
     ]
 }
