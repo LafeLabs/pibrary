@@ -1,0 +1,16 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/geometronmagic/symbolset/",
+    "symbols": [
+        "30-60-90.svg",
+        "equilateral.svg",
+        "goldengnomon.svg",
+        "goldentriangle.svg",
+        "isoc120.svg",
+        "isocright.svg",
+        "protractor.svg",
+        "ruler.svg",
+        "rulers.svg",
+        "shapeset.svg",
+        "square.svg"
+    ]
+}
