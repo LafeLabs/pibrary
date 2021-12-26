@@ -6,4 +6,27 @@
  - free computers
  - free network
  - free power
- - free books
+ - [free books](scrolls/magicbooks)
+
+## Free Computers
+
+We build Raspberry Pi computers using donated Raspberry Pi’s and give them out to the community at large to use as a shared free technological resource.
+
+Each Raspberry Pi has a web server installed along with the PHP language, and a basic cyber magic replicator which can replicate any of the systems of electronic documents described here.
+
+Some Raspberry Pi’s exist out in public spaces to be used as general purpose computers.  Others exist in places indoors where they can be plugged into the wall and online using a home or office business Internet connection.  These can be used as servers visible to the outside world. They can be linked to from global web pages, and replicate to them and back.  
+
+We also set up domains with paid hosting which all host self-replicating document sets, and these freely replicate to one another and from each other to raspberry pi’s and from raspberry pi’s back to them.  
+
+## Free Internet
+
+We provide free wireless Internet in public spaces.  This can be done simply by making a private network public with a widely distributed password, using a space with existing free Internet, or more elaborate means of creating wireless repeater chains with directional antennas from one place to another across the land.  To create free internet in an area with good data coverage we can simply pay for a data plan on a mobile phone and use it to make a hot spot with a password we give out to everyone in the area. 
+
+
+## Free Power
+
+We will build solar, water, and wind power connected to batteries and charging electronics.  This includes both the electronics required to charge the battery in our system and the proper outputs to run various devices, mainly 12 V and 5 volt USB for mobile devices.  Larger installations will have inverters to plug in AC line cord devices.
+
+
+
+
