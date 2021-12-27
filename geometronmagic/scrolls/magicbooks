@@ -3,6 +3,9 @@
 
 # magicbooks
  
+
+A Magic Book is a collection of self-replicating files organized into a "book" metaphor under a unified title and structure.  The text is on "scrolls" which are text documents.  A book can also have attached to it other self-replicating sets of files such as images, symbols, 
+
  - book replication
  - library replication
  - book evolution

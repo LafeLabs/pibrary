@@ -6,6 +6,7 @@
         "bookofgeometronfirst",
         "bookofscales",
         "fileset",
+        "geometronmagic",
         "gutenberg",
         "pibrary",
         "tmacb",
