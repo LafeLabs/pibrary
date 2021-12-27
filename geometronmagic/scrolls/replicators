@@ -4,10 +4,10 @@
 
   - [create full Geometron thing in "thing/"](mkdir.php?dir=thing&replicator=https://raw.githubusercontent.com/LafeLabs/thing/master/php/replicator.txt)
  - [thing/](thing/)
- - [create laser shape set](mkdir.php?dir=lasershapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
- - [copy laser shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/lasershapeset/data/symbolset.txt&to=lasershapeset/data/symbolset.txt)
- - [lasershapeset/](lasershapeset/)
+ - [create shape set](mkdir.php?dir=shapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [shapeset/](shapeset/)
  - [create icon magic net set](mkdir.php?dir=iconmagicnetset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [copy shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/shapeset/data/symbolset.txt&to=iconmagicnetset/data/symbolset.txt)
  - [copy icon magic symbol set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/bookofgeometron/iconmagicnetset/data/symbolset.txt&to=iconmagicnetset/data/symbolset.txt)
  - [iconmagicnetset/](iconmagicnetset/)
  - [create icon magic image set](mkdir.php?dir=iconmagicimageset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt)
