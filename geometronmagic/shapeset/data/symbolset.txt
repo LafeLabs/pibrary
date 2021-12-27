@@ -2,15 +2,30 @@
     "server": "/",
     "symbols": [
         "30-60-90.svg",
+        "306090construction.svg",
+        "306090lines.svg",
         "equilateral.svg",
+        "equilateralconsctruction.svg",
         "goldengnomon.svg",
+        "goldengnomon2.svg",
+        "goldengnomonlines.svg",
+        "goldenratio.svg",
         "goldentriangle.svg",
+        "goldentrianglelines.svg",
+        "inflage45.svg",
+        "inflate120.svg",
         "isoc120.svg",
+        "isoc120consctruction.svg",
+        "isoc120lines.svg",
         "isocright.svg",
+        "isocrightlines.svg",
         "protractor.svg",
         "ruler.svg",
         "rulers.svg",
         "shapeset.svg",
-        "square.svg"
+        "square.svg",
+        "squareconstruction.svg",
+        "squarediagonal.svg",
+        "squarelines.svg"
     ]
 }
