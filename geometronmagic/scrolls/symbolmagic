@@ -3,12 +3,65 @@
 
 # symbolmagic
 
- - [If there is no symbol set, click the replicator for symbol set at symbolset/replicator.php](symbolset/replicator.php)
- - [go into the symbolset directory symbolset/](symbolset/)
- - [create new symbol set with name shape set](mkdir.php?dir=shapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
- - [shapeset/](shapeset/)
+We create self-replicating sets of symbols in the web browser.  The editor which creates them is self-replicating code the same as all the [cyber magic](scrolls/cybermagic) elements of this system.  
+
+[If there is no symbol set, click the replicator for symbol set at symbolset/replicator.php](symbolset/replicator.php)
+
+
+### [go into the symbolset directory symbolset/](symbolset/)
+
   
 To make symbols, you want a Geometron keyboard.  You can tape on labels or use paint pen to add the appropriate symbols to a keyboard:
+
+![](https://i.imgur.com/b8IlcdE.png)
+
+To move the cursor use the move actions:
+
+![](https://i.imgur.com/AuYbT9L.png)
+
+To change the symmetry use the angle actions:
+
+![](https://i.imgur.com/Mj7PoDM.png)
+
+To change the scale use the scale actions:
+
+![](https://i.imgur.com/dHlaMut.png)
+
+To draw use the draw actions:
+
+![](https://i.imgur.com/aIEBhLV.png)
+
+To change the layer/color use the upper case number line:
+
+![](https://i.imgur.com/iQdhiQo.png)
+
+Paths can be made with the path actions:
+
+![](https://i.imgur.com/qNEohte.png)
+
+And Bezier curves can be started and terminated with y and u:
+
+![](https://i.imgur.com/OkzxEKQ.png)
+
+Zoom and pan the view with keys in the lower right of the keybaord:
+
+![](https://i.imgur.com/Y9fXUSN.png)
+
+Cursor dot position shows scale:
+
+![](https://i.imgur.com/SvdvmCH.png)
+
+Cursor line segments show symmetry/angle:
+
+![](https://i.imgur.com/ftDenRJ.png)
+
+
+
+
+This is the menu bar on the Geometron symbol editor:
+
+![](https://i.imgur.com/dp8taSc.png)
+
 
 
  - self replicating set of symbols

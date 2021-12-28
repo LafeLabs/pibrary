@@ -2,7 +2,6 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/symbolserver/",
     "symbols": [
         "chaos.svg",
-        "circles.svg",
-        "uplink.svg"
+        "circles.svg"
     ]
 }
