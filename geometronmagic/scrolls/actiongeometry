@@ -43,18 +43,38 @@ The shapes are as follows:
 
 ![](shapeset/symbolfeed/equilateral.svg)
 
-This can be constructed from 
+![](https://i.imgur.com/BtOx3D1.jpg)
+
+
+This can be constructed from three intersecting circles:
+
+![](shapeset/symbolfeed/equilateralconsctructioncircles.svg)
  
+And the inner triangles constructed by dropping perpendicular segments from each corner to each side:
+
+![](shapeset/symbolfeed/equilateralconsctruction.svg)
+
+The square:
 
 ![](shapeset/symbolfeed/square.svg)
+
+![](https://i.imgur.com/oCXWSGN.jpg)
+
+A Square can be made from equilateral triangles as follows:
+
+![](shapeset/symbolfeed/squareconsctruction.svg)
+
+A square can be cut diagonally by drawing a straight line between opposite corners. This makes an isosceles right triangle, which has two 45 degree angles, a 90 degree angle, and a square root of two ratio between the legs and the base.  One of these triangles can be used repeatedly to fill in more and more triangles on another one, filling in a fractal of 45 degree lines, which decrease repeatedly by a factor of the square root of two as they go down:
+
 ![](shapeset/symbolfeed/isocright.svg)
+
+
 ![](shapeset/symbolfeed/isoc120.svg)
 ![](shapeset/symbolfeed/30-60-90.svg)
 ![](shapeset/symbolfeed/goldentriangle.svg)
 ![](shapeset/symbolfeed/goldengnomon.svg)
 
 
-![](https://i.imgur.com/oCXWSGN.jpg)
 ![](https://i.imgur.com/Tp6xtV6.jpg)
 ![](https://i.imgur.com/TD5Sqs6.jpg)
 ![](https://i.imgur.com/vkUCCZP.jpg)

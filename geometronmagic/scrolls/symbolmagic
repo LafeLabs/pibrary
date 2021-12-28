@@ -78,3 +78,11 @@ From left to right these icons mean:
 
 Save symbols to the feed, then to reload them click on the .svg file in the feed.  You can download .svg files from any Geometron symbol feed, upload them to any other server, click on them to load, and then edit and resave and so on.  This is how symbols replicate and evolve from server to server. Click the big red X's to delete permanently.  Saves also save the .png bitmap format images.  Symbol set replicators replicate sets from one server to another.  
 
+Actions:
+
+ - create a symbol, save it to the feed
+ - save it locally, upload it to another server
+ - load it, edit it, save it, upload, repeat
+ - create a symbol set with chaos icon link
+ - replicate a symbol set from one server to another
+ 

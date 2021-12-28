@@ -42,6 +42,7 @@
         "home",
         "hyperlinks.md",
         "iconfactory.md",
+        "iconmagic",
         "iconmagic.md",
         "installation",
         "lasercutshapes",

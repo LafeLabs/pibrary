@@ -6,6 +6,7 @@
         "306090lines.svg",
         "equilateral.svg",
         "equilateralconsctruction.svg",
+        "equilateralconsctructioncircles.svg",
         "goldengnomon.svg",
         "goldengnomon2.svg",
         "goldengnomonlines.svg",
