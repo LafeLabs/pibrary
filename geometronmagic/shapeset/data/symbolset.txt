@@ -1,5 +1,5 @@
 {
-    "server": "/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/shapeset/",
     "symbols": [
         "30-60-90.svg",
         "306090construction.svg",
@@ -10,6 +10,7 @@
         "goldengnomon2.svg",
         "goldengnomonlines.svg",
         "goldenratio.svg",
+        "goldenrectangleconstruction.svg",
         "goldentriangle.svg",
         "goldentrianglelines.svg",
         "inflage45.svg",

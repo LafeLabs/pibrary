@@ -1,22 +1,12 @@
 
 ## [HOME](scrolls/home)
 
+# geometron
+ 
+
+## [HOME](scrolls/home)
+
 # symbolmagic
-
- - [If there is no symbol set, click the replicator for symbol set at symbolset/replicator.php](symbolset/replicator.php)
- - [go into the symbolset directory symbolset/](symbolset/)
- - [create new symbol set with name shape set](mkdir.php?dir=shapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
- - [shapeset/](shapeset/)
-  
-To make symbols, you want a Geometron keyboard.  You can tape on labels or use paint pen to add the appropriate symbols to a keyboard:
-
-
- - self replicating set of symbols
- - replicate the set
- - edit the set
- - make directory replicator
- - the set are the shapes of [Action Geometry]
-
 
 Symbols are geometry with meaning. The symbol is perhaps the most
 general idea that exists in human thought, since everything we do is
@@ -422,3 +412,4 @@ traversethat world, interacting with and improving documents as you go
 as you interact with people in the physical world. The hardware
 architecture to realize this will be discussed in its own chapter on
 Full Stack Geometron.
+ 

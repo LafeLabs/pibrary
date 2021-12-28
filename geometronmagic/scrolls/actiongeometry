@@ -2,20 +2,52 @@
 ## [HOME](scrolls/home)
 
 # Action Geometry
+<!-- 
+[
+    "30-60-90.svg",
+    "306090construction.svg",
+    "306090lines.svg",
+    "equilateral.svg",
+    "equilateralconsctruction.svg",
+    "goldengnomon.svg",
+    "goldengnomon2.svg",
+    "goldengnomonlines.svg",
+    "goldenratio.svg",
+    "goldentriangle.svg",
+    "goldentrianglelines.svg",
+    "inflage45.svg",
+    "inflate120.svg",
+    "isoc120.svg",
+    "isoc120consctruction.svg",
+    "isoc120lines.svg",
+    "isocright.svg",
+    "isocrightlines.svg",
+    "protractor.svg",
+    "ruler.svg",
+    "rulers.svg",
+    "shapeset.svg",
+    "square.svg",
+    "squareconstruction.svg",
+    "squarediagonal.svg",
+    "squarelines.svg"
+-->
+
 
 Action Geometry is a method of construction using a set of seven self-replicating shapes which contain universal scales and symmetries.  These symmetries and scales allow us to construct these shapes using the language of Geometron, using the tools of classical geometric construction(compass and straight edge) or analytic geometry. 
 
 The simplest way to construct a physical shape set is to already have one and to replicate the whole new set from the old set.  Outlines are traced and cut.  The old shapes are then used to draw the interior lines.
 
+The shapes are as follows:
 
+### Equilateral Triangle
+
+![](shapeset/symbolfeed/equilateral.svg)
+
+This can be constructed from 
  
- - shape set
- - artbox cardboard factory
- - methods of using the shapes
 
 ![](shapeset/symbolfeed/square.svg)
 ![](shapeset/symbolfeed/isocright.svg)
-![](shapeset/symbolfeed/equilateral.svg)
 ![](shapeset/symbolfeed/isoc120.svg)
 ![](shapeset/symbolfeed/30-60-90.svg)
 ![](shapeset/symbolfeed/goldentriangle.svg)
@@ -27,3 +59,7 @@ The simplest way to construct a physical shape set is to already have one and to
 ![](https://i.imgur.com/TD5Sqs6.jpg)
 ![](https://i.imgur.com/vkUCCZP.jpg)
 ![](https://i.imgur.com/BtOx3D1.jpg)
+
+ - shape set
+ - artbox cardboard factory
+ - methods of using the shapes
