@@ -43,6 +43,8 @@ The shapes are as follows:
 
 ![](shapeset/symbolfeed/equilateral.svg)
 
+### Laser cut acrylic shape:
+
 ![](https://i.imgur.com/BtOx3D1.jpg)
 
 
@@ -58,28 +60,60 @@ The square:
 
 ![](shapeset/symbolfeed/square.svg)
 
+### Laser cut acrylic shape:
+
 ![](https://i.imgur.com/oCXWSGN.jpg)
 
 A Square can be made from equilateral triangles as follows:
 
-![](shapeset/symbolfeed/squareconsctruction.svg)
+![](shapeset/symbolfeed/squareconstruction.svg)
 
 A square can be cut diagonally by drawing a straight line between opposite corners. This makes an isosceles right triangle, which has two 45 degree angles, a 90 degree angle, and a square root of two ratio between the legs and the base.  One of these triangles can be used repeatedly to fill in more and more triangles on another one, filling in a fractal of 45 degree lines, which decrease repeatedly by a factor of the square root of two as they go down:
 
 ![](shapeset/symbolfeed/isocright.svg)
 
+### Laser cut acrylic shape:
+
+![](https://i.imgur.com/Tp6xtV6.jpg)
+
+This is how we construct the isosceles 120 degree triangle from the equilateral triangle:
+
+![](shapeset/symbolfeed/isoc120consctruction.svg)
+
+With that triangle as a source of a 30 degree angle and the square as a 90 degree angle the 30 60 90 right triangle can be constructed from any segment of unit length(including the side of an equilateral triangle):
+
+![](shapeset/symbolfeed/306090construction.svg)
 
 ![](shapeset/symbolfeed/isoc120.svg)
 ![](shapeset/symbolfeed/30-60-90.svg)
+
+### Laser cut acrylic shapes:
+
+![](https://i.imgur.com/vkUCCZP.jpg)
+
+This is how one constructs the Golden Gnomon from the square:
+
+![](shapeset/symbolfeed/goldenrectangleconstruction.svg)
+
 ![](shapeset/symbolfeed/goldentriangle.svg)
 ![](shapeset/symbolfeed/goldengnomon.svg)
 
+### Laser cut acrylic shapes:
 
-![](https://i.imgur.com/Tp6xtV6.jpg)
 ![](https://i.imgur.com/TD5Sqs6.jpg)
-![](https://i.imgur.com/vkUCCZP.jpg)
-![](https://i.imgur.com/BtOx3D1.jpg)
 
- - shape set
- - artbox cardboard factory
- - methods of using the shapes
+This set of shapes is self-replicating.  The set taken together can be used to make another set like it from paper, cardboard, or any other material we can cut and draw on.  It can also be inflated and deflated, using the shapes and straight edges to make larger or smaller copies of the whole set with the "unit" having any scale.  This document is part of the larger self-replicating set that is this book.  The electronic files which are used to make laser cut shapes or printed and cut out shapes are replicated using the symbol set replicator as with everything else in Geometron.  The links below are used to create the relevant directory for the set, to replicate the symbol set server into that directory, to copy the data which points from the set on Github, and finally to go to the set replicator page which will replicate the shape set.  From there you can load any shape into the symbol editor, edit it, and save it to download and print on paper or with a laser cutter. 
+
+ - [shapeset/ geometron symbol set](shapeset/)
+ - [create shape set](mkdir.php?dir=shapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
+ - [copy shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/shapeset/data/symbolset.txt&to=shapeset/data/symbolset.txt)
+ - [shapeset/symbolset.html](shapeset/symbolset.html)
+
+
+So this is a set of self-replicating sets, all of which are used to create self-replicating geometric constructions out of trash.  Examples of this method are the ArtBox and the S-Hook from Action Geometry.  
+
+The methods of Action Geometry are to always use these primitive shapes to construct things of a wide range of materials and scales.  
+
+The other set we use for construction are the Platonic Solids: tetrahedron, cube, octahedron, dodecahedron, and icosahedron.  
+
+

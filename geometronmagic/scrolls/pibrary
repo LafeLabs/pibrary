@@ -22,6 +22,11 @@ We also set up domains with paid hosting which all host self-replicating documen
 
 We provide free wireless Internet in public spaces.  This can be done simply by making a private network public with a widely distributed password, using a space with existing free Internet, or more elaborate means of creating wireless repeater chains with directional antennas from one place to another across the land.  To create free internet in an area with good data coverage we can simply pay for a data plan on a mobile phone and use it to make a hot spot with a password we give out to everyone in the area. 
 
+## Free Web Pages
+
+We make freely replicating web pages made of freely replicating sets of documents which are on open(no private data) web pages accessible through generic domains.  These domains can point to Raspberry Pi servers with port forwarding or to paid hosting accounts(which can then point to the local pi servers).  We always choose domains which link to a physical space and then post public physical media in that space which points to the domain which has free books which engage with the space.
+
+
 
 ## Free Power
 
