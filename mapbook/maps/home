@@ -1,0 +1,68 @@
+[
+    {
+        "x": 0.05828571428571429,
+        "y": 0.053714285714285714,
+        "w": 0.9051428571428571,
+        "h": 0.9531428571428572,
+        "angle": 147,
+        "text": "CLICK TO DESIGN!!",
+        "href": "",
+        "src": "https://i.imgur.com/niV3C7n.jpg",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.3142857142857143,
+        "y": 0.2948571428571429,
+        "w": 0.36457142857142855,
+        "h": 0.4377142857142857,
+        "angle": 0,
+        "text": "CLICK TO DESIGN!!",
+        "href": "",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.3211428571428571,
+        "y": 0.216,
+        "w": 0.6297142857142857,
+        "h": 0.09142857142857143,
+        "angle": 0,
+        "text": "<span style=\"color:red\">Γ</span>     <span style=\"color:orange\">ε</span>     <span style=\"color:yellow\">ω</span>     <span style=\"color:green\">μ</span>     <span style=\"color:blue\">ε</span>     <span style=\"color:purple\">τ</span>     <span style=\"color:red\">ρ</span>     <span style=\"color:orange\">ο</span>     <span style=\"color:yellow\">ν</span>",
+        "href": "",
+        "src": "",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.6925714285714286,
+        "y": 0.5394285714285715,
+        "w": 0.4685714285714286,
+        "h": 0.056,
+        "angle": -7,
+        "text": "up",
+        "href": "../",
+        "src": "",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.4491428571428571,
+        "y": 0.8091428571428572,
+        "w": 0.43657142857142855,
+        "h": 0.4845714285714286,
+        "angle": -3,
+        "text": "foo map",
+        "href": "maps/foo",
+        "src": "",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.6171428571428571,
+        "y": 0.168,
+        "w": 0.4685714285714286,
+        "h": 0.056,
+        "angle": 19,
+        "text": "editor.php",
+        "href": "editor.php",
+        "src": "",
+        "maplinkmode": false
+    }
+]
