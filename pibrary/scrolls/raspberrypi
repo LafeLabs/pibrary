@@ -82,7 +82,7 @@ edit the /etc/hosts file on the remote pi terminal so that home/ and remote/ poi
 
 [link to setting up basic website with pi with external connection](http://unixetc.co.uk/2013/09/21/create-a-basic-website-on-a-raspberry-pi/)
 
-## Install arduino
+## Install arduino(not needed for web server only)
 
 ```
 sudo apt-get install arduino
@@ -134,7 +134,7 @@ sudo /opt/arduino-####/install.sh
 ```
 
 
-## Add python that we need
+## Add python that we need(not needed for basic web server)
 
 [https://matplotlib.org/](https://matplotlib.org/)
 

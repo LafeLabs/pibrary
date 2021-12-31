@@ -10,6 +10,7 @@
         "elements",
         "freebooks",
         "github",
+        "grantproposal",
         "home",
         "iconset",
         "introduction",
