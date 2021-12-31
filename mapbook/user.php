@@ -45,21 +45,19 @@
 <div id = "mainmap"></div>
 <div id = "scrollscroll"></div>
 
-<div id = "modebutton" class = "button">LIGHT<br>DARK</div>
-<div id = "hidebutton" class = "button"><span id  = "hideshow">SHOW</span><br>MENU</div>
-<div id = "margin">
-    <div id = "marginbutton">⇳⇳⇳⇳⇳⇳⇳⇳⇳⇳⇳</div>
-    <div id  = "mapsbox">
-        <input id = "mapinput"/>
-        <a id = "mapeditorlink" href = "mapeditor.html">
-            <img style = "width:50px;display:block;margin:auto;padding-top:1em" src = "iconsymbols/edit.svg"/>
-        </a>    
-        
-    </div>
+<div id = "modebutton" class = "button">
+    <img src= "iconsymbols/lightdark.svg"/>
+</div>
+
+<div id  = "mapsbox">
+    <input id = "mapinput"/>
+    <a id = "mapeditorlink" href = "mapeditor.php">
+        <img style = "width:50px;display:block;margin:auto;padding-top:1em" src = "iconsymbols/edit.svg"/>
+    </a>    
 </div>
 <div id = "scrollsbox">
     <input id = "scrollinput"/>
-    <a id  = "scrolleditorlink" href = "scrolleditor.html">
+    <a id  = "scrolleditorlink" href = "scrolleditor.php">
         <img style = "width:50px;display:block;margin:auto;padding-top:1em" src = "iconsymbols/edit.svg"/>
     </a>
 </div>
@@ -67,6 +65,13 @@
     
 if(isset($_GET["map"])){
     echo $_GET["map"];
+}
+
+?></div>
+<div class = "data" id = "scrolldiv"><?php
+    
+if(isset($_GET["scroll"])){
+    echo $_GET["scroll"];
 }
 
 ?></div>
@@ -88,10 +93,11 @@ if(innerWidth > innerHeight){
     document.getElementById("scrollscroll").style.left = (0.5*(innerWidth - innerHeight) + 10).toString() + "px"; 
 
     document.getElementById("scrollscroll").style.width = (innerHeight - 20).toString() + "px";     
+    
     document.getElementById("mainmap").style.left = (0.5*(innerWidth - innerHeight)).toString() + "px"; 
     mainmap = new Map(innerHeight,innerHeight,document.getElementById("mainmap"));
 
-    document.getElementById("margin").style.left = (innerHeight + 0.5*(innerWidth - innerHeight)).toString() + "px";
+    document.getElementById("mapsbox").style.left = (innerHeight + 0.5*(innerWidth - innerHeight)).toString() + "px";
     
     document.getElementById("scrollsbox").style.right = (innerHeight + 0.5*(innerWidth - innerHeight)).toString() + "px";    
 
@@ -101,26 +107,23 @@ else{
     menuhide = true;
 
     mainmap = new Map(innerWidth,innerWidth,document.getElementById("mainmap"));    
+
+
+    document.getElementById("mainmap").style.top = (0.5*(innerHeight - innerWidth)).toString() + "px"; 
+    document.getElementById("scrollscroll").style.top = (0.5*(innerHeight - innerWidth)).toString() + "px"; 
+        
+    document.getElementById("scrollscroll").style.height = (innerWidth - 20).toString() + "px";     
     
-    document.getElementById("margin").style.display = "none";
-    document.getElementById("margin").style.height = (innerHeight - innerWidth - 150).toString() + "px";
-    document.getElementById("margin").style.bottom = "0px";
+    
+    document.getElementById("mapsbox").style.height = (0.5*(innerHeight - innerWidth) - 10).toString() + "px";
+    
+    document.getElementById("mapsbox").style.bottom = "0px";
+    
+    document.getElementById("scrollscroll").style.height = (innerWidth - 20).toString() + "px";     
+    
     
 }
 
-
-document.getElementById("hidebutton").onclick = function(){
-    menuhide = !menuhide;
-    if(menuhide){
-        document.getElementById("hideshow").innerHTML = "SHOW";
-        document.getElementById("margin").style.display = "none";
-
-    }
-    else{
-        document.getElementById("hideshow").innerHTML = "HIDE";
-        document.getElementById("margin").style.display = "block";
-    }
-}
 
 
 scroll = "";
@@ -137,8 +140,18 @@ converter.setOption('tables', 'true')
 filename = "maps/home";
 mapname = "maps/home";
 scrollname = "scrolls/home";
-loadmap(mapname);
 
+if(document.getElementById("scrolldiv").innerHTML.length > 0){
+    loadscroll(document.getElementById("scrolldiv").innerHTML);
+}
+
+if(document.getElementById("mapdiv").innerHTML.length > 0){
+    loadmap(document.getElementById("mapdiv").innerHTML);
+}
+
+if(document.getElementById("mapdiv").innerHTML.length == 0 && document.getElementById("scrolldiv").innerHTML.length == 0){
+    loadmap(mapname);
+}
 
 ismap = false;
 localfile = true;
@@ -178,12 +191,23 @@ function loadmap(mapname){
             //			MathJax.Hub.Typeset();//tell Mathjax to update the math
             for(var index = 0;index < mainmap.linkArray.length;index++){
                 if(mainmap.array[index].maplinkmode == true){
-                    
-                    
+                    mainmap.linkArray[index].style.color  = "#ff2cb4";
                     mainmap.linkArray[index].onclick = function(){
                         var localmap = this.getElementsByClassName("maplink")[0].innerHTML;
-                        loadmap(this.getElementsByClassName("maplink")[0].innerHTML);                               
-                    }
+                        if(localmap.includes("scrolls/")){
+                            var localscroll = "scrolls/" + localmap.split("scrolls/")[1];
+                            loadscroll(localscroll);
+                        }
+                        if(localmap.includes("scroll(")){
+                            var localscroll = localmap.split("scroll(")[1].split(")")[0];
+                            loadscroll(localscroll);
+                        }
+                        if(!localmap.includes("scroll(") && !localmap.includes("scrolls/")){
+                            loadmap(this.getElementsByClassName("maplink")[0].innerHTML);                                
+                        }
+
+                    }                    
+
                 }
             }
 
@@ -436,10 +460,19 @@ input{
 .boxlink{
     padding-left:1em;
     cursor:pointer;
+    
 }
 .boxlink:hover{
     background-color:#808080;
 }
+.scrolllink{
+    color:#ff2cb4;
+    cursor:pointer;
+}
+.scrolllink:hover{
+    background-color:#ff2cb490;
+}
+
 #mainmap{
     position:absolute;
     left:0px;
@@ -458,6 +491,8 @@ h1,h2,h3,h4{
     text-align:center;
 }
 #modebutton{
+    bottom:0px;
+    right:0px;
     position:absolute;
     background-color:white;
     color:black;
@@ -466,14 +501,8 @@ h1,h2,h3,h4{
     border-radius:5px;
     text-align:center;
 }
-#hidebutton{
-    position:absolute;
-    background-color:white;
-    color:black;
-    cursor:pointer;
-    border:solid;
-    border-radius:5px;
-    text-align:center;
+#modebutton img{
+    width:50px;
 }
 .button:hover{
     background-color:green;
@@ -481,7 +510,7 @@ h1,h2,h3,h4{
 .button:active{
     background-color:yellow;
 }
-#margin{
+#mapsbox{
     position:absolute;
     right:0px;
     bottom:0px;
@@ -501,7 +530,6 @@ h1,h2,h3,h4{
 #mapsbox{
     position:absolute;
     left:0px;
-    top:0px;
     bottom:0px;
     right:0px;
     color:black;
@@ -534,18 +562,14 @@ h1,h2,h3,h4{
 
 
 @media only screen and (orientation: landscape) {
-    #margin{
+    #mapsbox{
+        top:0px;
+    }
+    #mapsbox{
         top:0px;
     }
     #scrollsbox{
         bottom:0px;
-    }
-    #modebutton{
-        right:5px;
-        top:5px;
-    }
-    #hidebutton{
-        display:none;
     }
     #scrollscroll{
         bottom:0px;
@@ -553,27 +577,30 @@ h1,h2,h3,h4{
 }
 
 @media only screen and (orientation: portrait) {
-    #modebutton{
-        right:0px;
-        bottom:0px;
-    }
     #scrollscroll{
+        left:0px;
+        right:0px;
+    }   
+    #scrollsbox{
         right:0px;
     }
-    #margin{
+    #mapsbox{
         bottom:0px;
         left:0px;
+        right:0px;
     }
-    #margin img{
-        width:50px;
-    }
-    #hidebutton{
-        left:0px;
-        bottom:0px;
-    }
-    .button{
-        font-size:2em;
-    }
+
+}
+
+#mapsbox{
+    bottom:0px;
+    left:0px;
+}
+#mapsbox img{
+    width:50px;
+}
+.button{
+    font-size:2em;
 }
 </style>
 </body>

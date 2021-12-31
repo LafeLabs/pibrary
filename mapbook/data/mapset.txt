@@ -4,5 +4,8 @@
         "foo",
         "home"
     ],
-    "images": []
+    "images": [],
+    "scrolls": [
+        "home"
+    ]
 }

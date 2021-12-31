@@ -151,7 +151,7 @@ function loadmap(mapname){
             for(var index = 0;index < mainmap.linkArray.length;index++){
                 if(mainmap.array[index].maplinkmode == true){
                     
-                    
+                    mainmap.linkArray[index].style.color  = "#ff2cb4";    
                     mainmap.linkArray[index].onclick = function(){
                         var localmap = this.getElementsByClassName("maplink")[0].innerHTML;
                         loadmap(this.getElementsByClassName("maplink")[0].innerHTML);                               

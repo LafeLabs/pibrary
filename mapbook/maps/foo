@@ -20,5 +20,27 @@
         "href": "",
         "src": "https://i.imgur.com/No1wukK.png",
         "maplinkmode": false
+    },
+    {
+        "x": 0.7051428571428572,
+        "y": 0.14057142857142857,
+        "w": 0.32571428571428573,
+        "h": 0.04342857142857143,
+        "angle": 0,
+        "text": "home scroll",
+        "href": "scrolls/home",
+        "src": "",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.7714285714285715,
+        "y": 0.4,
+        "w": 0.32571428571428573,
+        "h": 0.04342857142857143,
+        "angle": 0,
+        "text": "home map",
+        "href": "maps/home",
+        "src": "",
+        "maplinkmode": true
     }
 ]

@@ -49,8 +49,8 @@
         "w": 0.43657142857142855,
         "h": 0.4845714285714286,
         "angle": -3,
-        "text": "foo map",
-        "href": "maps/foo",
+        "text": "home scroll",
+        "href": "scrolls/home",
         "src": "",
         "maplinkmode": true
     },
@@ -63,6 +63,17 @@
         "text": "editor.php",
         "href": "editor.php",
         "src": "",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.68,
+        "y": 0.5725714285714286,
+        "w": 0.9051428571428571,
+        "h": 0.5337142857142857,
+        "angle": -13,
+        "text": "CLICK TO DESIGN!!",
+        "href": "",
+        "src": "uploadimages/map1.png",
         "maplinkmode": false
     }
 ]

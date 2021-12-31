@@ -73,8 +73,28 @@ var httpc = new XMLHttpRequest();
         
                         images = JSON.parse(this.responseText);
                         mapset.images = images;
-                        document.getElementById("textio").value = JSON.stringify(mapset,null,"    ");
-                        savejson();
+                        
+                        
+                        var httpc13 = new XMLHttpRequest();
+                        httpc13.onreadystatechange = function() {
+                            if (this.readyState == 4 && this.status == 200) {
+                
+                                scrolls = JSON.parse(this.responseText);
+                                mapset.scrolls = scrolls;
+                                
+                        
+                                document.getElementById("textio").value = JSON.stringify(mapset,null,"    ");
+                                savejson();
+                                
+                                
+                            };
+                        }
+                        
+                        httpc13.open("GET", "dir.php?filename=scrolls", true);
+                        httpc13.send();
+
+                        
+                        
                     };
                 }
                 
