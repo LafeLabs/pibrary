@@ -75,5 +75,16 @@
         "href": "",
         "src": "uploadimages/map1.png",
         "maplinkmode": false
+    },
+    {
+        "x": -0.26857142857142857,
+        "y": -0.2102857142857143,
+        "w": 0.3931428571428571,
+        "h": 0.44114285714285717,
+        "angle": 147,
+        "text": "fork.html",
+        "href": "fork.html",
+        "src": "",
+        "maplinkmode": false
     }
 ]

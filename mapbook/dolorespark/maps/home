@@ -1,0 +1,68 @@
+[
+    {
+        "x": 0.17485714285714285,
+        "y": 0.5885714285714285,
+        "w": 0.68,
+        "h": 0.4605714285714286,
+        "angle": 0,
+        "text": "map1",
+        "href": "",
+        "src": "uploadimages/dolores1.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.744,
+        "y": 0.4685714285714286,
+        "w": 0.43657142857142855,
+        "h": 0.061714285714285715,
+        "angle": 74,
+        "text": "home scroll",
+        "href": "scrolls/home",
+        "src": "",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.1417142857142857,
+        "y": 0.08685714285714285,
+        "w": 0.68,
+        "h": 0.5485714285714286,
+        "angle": 0,
+        "text": "map1",
+        "href": "",
+        "src": "uploadimages/dolores2.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.10171428571428572,
+        "y": -0.3222857142857143,
+        "w": 0.68,
+        "h": 0.52,
+        "angle": 0,
+        "text": "map1",
+        "href": "",
+        "src": "uploadimages/dolores3.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.4102857142857143,
+        "y": 0.7554285714285714,
+        "w": 0.11542857142857142,
+        "h": 0.1382857142857143,
+        "angle": 0,
+        "text": "CLICK TO DESIGN!!",
+        "href": "maps/map1",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.35314285714285715,
+        "y": 0.32,
+        "w": 0.11542857142857142,
+        "h": 0.1382857142857143,
+        "angle": 0,
+        "text": "CLICK TO DESIGN!!",
+        "href": "maps/map2",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": true
+    }
+]

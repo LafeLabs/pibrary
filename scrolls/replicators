@@ -2,8 +2,7 @@
 ## [HOME](scrolls/home)
 
 # replicators
- 
- 
+  
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [pibraryreplicator.php](pibraryreplicator.php)
  - [pibrarygenerator.php](pibrarygenerator.php)
@@ -11,9 +10,13 @@
  - [iconset/replicator.php](iconset/replicator.php)
  - [codeset/replicator.php](codeset/replicator.php)
  - [imageset/replicator.php](imageset/replicator.php)
- - [mapset/replicator.php](mapset/replicator.php)
+ - [mapbook/replicator.php](mapbook/replicator.php)
  - [symbolset/replicator.php](symbolset/replicator.php)
-
+ - [convert this replicator to mapbook](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt&to=replicator.php)
+ - [php/replicator.txt](php/replicator.txt)
+ - [replicator.php](replicator.php)
+ - [scroll set](scrollset.html)
+ 
 
 Book Replicators:
 

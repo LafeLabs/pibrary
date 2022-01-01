@@ -1,0 +1,11 @@
+{
+    "server": "http://10.0.0.27/dolorespark/mapbook/",
+    "maps": [
+        "foo",
+        "home"
+    ],
+    "images": [],
+    "scrolls": [
+        "home"
+    ]
+}
