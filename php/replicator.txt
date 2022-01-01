@@ -19,7 +19,7 @@
     mkdir("imageset");
     mkdir("symbolset");
     mkdir("codeset");
-    mkdir("mapset");
+    mkdir("mapbook");
     mkdir("iconset");
     mkdir("fileset");
 
@@ -30,7 +30,7 @@
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/php/replicator.txt","fileset/replicator.php");    
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt","symbolset/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/php/replicator.txt","codeset/replicator.php");
-    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapset/php/replicator.txt","mapset/replicator.php");
+    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt","mapset/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconset/php/replicator.txt","iconset/replicator.php");
     
     
