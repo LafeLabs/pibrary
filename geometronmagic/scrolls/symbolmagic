@@ -3,12 +3,19 @@
 
 # symbolmagic
 
-Symbol magic might be the wrong thing, 2 chapters might still be more clear, one being GVM and hypercube and geometric programming and the other being vector graphics in the web browser.  These might be just updates of the chapters in the first book.  SHOULD BE.
+Symbol magic are sets of self-replicating web graphics using cyber magic to make vector graphics and also bitmaps to be replicated across the geometron network.
 
- - geometric programming as a concept
  - geometric programming in the browser with cyber magic
  - how symbol magic is contrasted with applications like adobe suite
- - how the hypercube and GVM work 
+ - work flow 
+ - keyboard and soft key controls
+ - all the types of action 
+ - JSON and how it works, relationship between JSON and SVG, XML structure
+ - style
+ - building symbolic languages into the hypercube
+ - examples: schematic diagrams
+ - specifically making the web icons
+ - links for replication 
  - replication of symbols, how the replication works
 
 We create self-replicating sets of symbols in the web browser.  The editor which creates them is self-replicating code the same as all the [cyber magic](scrolls/cybermagic) elements of this system.  

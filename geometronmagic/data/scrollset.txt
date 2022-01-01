@@ -34,6 +34,7 @@
         "freestuff",
         "fullstack.md",
         "future",
+        "geometricprogramming",
         "geometron",
         "geometron3d.md",
         "globaldomain",
