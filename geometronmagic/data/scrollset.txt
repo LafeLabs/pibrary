@@ -33,6 +33,7 @@
         "freenet",
         "freestuff",
         "fullstack.md",
+        "future",
         "geometron",
         "geometron3d.md",
         "globaldomain",

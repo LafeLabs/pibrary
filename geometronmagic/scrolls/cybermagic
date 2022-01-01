@@ -3,8 +3,8 @@
 
 # cybermagic
 
+All code is self-replicating.  We never use native code except for hardware control. (even language model work should all get converted to PHP if we are going to do that, which we should not).  People should always control machines, we remove the man behind the curtain with our system, every part of the system can be created, replicated, edited, and destroyed from the client side of the web browser.  what is a web browser?  what is a a web server? what is html? what is php? Css? javascript? geometron bytecode 
 
- 
  - definitions
  - basic code replication set
  - all the other sets
@@ -24,11 +24,12 @@
  - create a new file, add it to dna
  - copy a file 
  - replicate the new version to another server
- - create a document set replicator, replicate a document set: scrolls, icons, symbols, maps, generic files, images, new types of file
+ - create a document set replicator, replicate a document set: scrolls, icons, symbols, maps, generic files, images, new types of file 
  - replicate from a server to github and from github to server
  - replicate from one pi to another
  - replicate from a pi to a global web page
  - replicate from a global web page to a pi
+
 
  We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
 
