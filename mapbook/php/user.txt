@@ -45,9 +45,13 @@
 <div id = "mainmap"></div>
 <div id = "scrollscroll"></div>
 
-<div id = "modebutton" class = "button">
-    <img src= "iconsymbols/lightdark.svg"/>
-</div>
+<span id = "modebutton" class = "button">
+    <img style = "cursor:pointer;width:50px;position:absolute;right:10px;bottom:10px" src= "iconsymbols/lightdark.svg"/>
+</span>
+
+<a href = "mapset.html">
+    <img style = "width:50px;position:absolute;right:10px;bottom:60px;background-color:#808080" src = "iconsymbols/chaos.svg"/>
+</a>
 
 <div id  = "mapsbox">
     <input id = "mapinput"/>
@@ -489,20 +493,6 @@ input{
 }
 h1,h2,h3,h4{
     text-align:center;
-}
-#modebutton{
-    bottom:0px;
-    right:0px;
-    position:absolute;
-    background-color:white;
-    color:black;
-    cursor:pointer;
-    border:solid;
-    border-radius:5px;
-    text-align:center;
-}
-#modebutton img{
-    width:50px;
 }
 .button:hover{
     background-color:green;
