@@ -32,6 +32,7 @@
         "flag",
         "freenet",
         "freestuff",
+        "fullgeometron",
         "fullstack.md",
         "future",
         "geometricprogramming",
