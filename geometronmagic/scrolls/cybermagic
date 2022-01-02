@@ -14,14 +14,6 @@ All code is self-replicating.  We never use native code except for hardware cont
  - image sets
  - map sets
  - install on android, ios, mac, windows, linux, openwrt
-
-
-link to create a minimal cyber magic set:
-
-[mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt](mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt)
-
-## Actions:
-
  - fork a new server
  - destroy the server
  - edit the server
@@ -34,8 +26,7 @@ link to create a minimal cyber magic set:
  - replicate from a pi to a global web page
  - replicate from a global web page to a pi
 
-
- We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
+We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
 
 Every single piece of information we store on any computer ever in our system must be part of this.  Whether it's saving files to a server, collecting data from an environmental sensor, programming a robot for industrial automation, putting up a useful web application or calculating physical quantities, *all* these programs are part of our system of self-replication.    This system of self-replicating digital media includes all the programs which control the machines which make all the things in our system.  Our intention is to replace all existing automation and fabrication technology with systems programmed using Geometron, and for all the documents which program these machines to be incorporated into these self-replicating sets of files.
 
@@ -104,7 +95,6 @@ php replicator.php
 Now all the code is copied and you can push the whole thing to your github repository, which you can call pibrary if you want, or immediately fork to something new. 
 
 To run the local PHP server, you can type from the command line
-
 ```
 sudo php -S localhost:80
 ```
@@ -117,3 +107,8 @@ alias s = 'sudo php -S localhost:80'
 ```
 as well as the line to change into the directory you're working in automatically with `cd`.
 
+
+
+link to create a minimal cyber magic set:
+
+[mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt](mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt)
