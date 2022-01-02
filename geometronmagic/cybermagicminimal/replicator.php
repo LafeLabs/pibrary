@@ -14,7 +14,7 @@
     mkdir("data");
     mkdir("php");
 
-
+    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt","replicator.php");
 
 
     foreach($dna->html as $value){
