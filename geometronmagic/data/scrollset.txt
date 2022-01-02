@@ -66,6 +66,7 @@
         "ontology.md",
         "organicmedia.md",
         "pastebin",
+        "path",
         "pendant.md",
         "penrose",
         "pentagon",
