@@ -1,1 +1,1 @@
-{"w":0.9988571428571429,"x":-0.7885714285714286,"y":0.8434285714285714,"angle":0,"src":"https://i.imgur.com/qIdr2zT.jpg"}
+{"w":0.8228571428571428,"x":0.08914285714285715,"y":0.022857142857142857,"angle":0,"src":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/1920px-SVG_Logo.svg.png"}
