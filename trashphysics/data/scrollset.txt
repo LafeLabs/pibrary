@@ -9,6 +9,7 @@
         "hall",
         "home",
         "introduction",
+        "lifeinphysics",
         "main.tex",
         "mechanics",
         "nist",
