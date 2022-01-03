@@ -3,10 +3,15 @@
 
 # pibrary
  
+ - free books
  - free computers
  - free network
  - free power
- - [free books](scrolls/magicbooks)
+
+## Free Books
+
+Free books are the heart of this medium.  The "book" here is somewhat of a metaphor, and generally consists of a set of documents which are bound together by a topic with the logic of a book.  When we say "free books" we mean books which are not covered by copyright, which are released into the Public Domain with no restrictions whatsoever to be replicated again and again from one free server to the next.
+
 
 ## Free Computers
 
@@ -26,7 +31,7 @@ We provide free wireless Internet in public spaces.  This can be done simply by 
 
 We make freely replicating web pages made of freely replicating sets of documents which are on open(no private data) web pages accessible through generic domains.  These domains can point to Raspberry Pi servers with port forwarding or to paid hosting accounts(which can then point to the local pi servers).  We always choose domains which link to a physical space and then post public physical media in that space which points to the domain which has free books which engage with the space.
 
-
+Physical media points to the web pages.  These are flags, coins, signs, any kind of print media which people can freely replicate.
 
 ## Free Power
 
