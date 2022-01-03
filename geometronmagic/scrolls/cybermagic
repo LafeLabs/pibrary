@@ -107,6 +107,34 @@ alias s = 'sudo php -S localhost:80'
 ```
 as well as the line to change into the directory you're working in automatically with `cd`.
 
+```
+{
+    "html": [
+        "index.html"
+    ],
+    "data": [
+        "dna.txt"
+    ],
+    "php": [
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "replicator.txt",
+        "text2php.txt"
+    ]
+}
+```
+
+
+ - [cybermagicminimal/index.html](cybermagicminimal/)
+ - [cybermagicminimal/data/dna.txt](cybermagicminimal/data/dna.txt)
+ - [cybermagicminimal/php/dnagenerator.txt](cybermagicminimal/php/dnagenerator.txt)
+ - [cybermagicminimal/php/editor.txt](cybermagicminimal/php/editor.txt)
+ - [cybermagicminimal/php/fileloader.txt](cybermagicminimal/php/fileloader.txt)
+ - [cybermagicminimal/php/filesaver.txt](cybermagicminimal/php/filesaver.txt)
+ - [cybermagicminimal/php/replicator.txt](cybermagicminimal/php/replicator.txt)
+ - [cybermagicminimal/php/text2php.txt](cybermagicminimal/php/text2php.txt)
 
 
 link to create a minimal cyber magic set:
