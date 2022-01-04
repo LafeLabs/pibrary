@@ -2,9 +2,40 @@
 
 # Trash Magic
 
+Trash Magic is a mode of existence in which we can replicate everything we need to live a good life locally using the waste streams of the existing consumer system.  We are using the word "magic" as in the rest of this work to refer to the replication of the desire to replicate things made from trash.
+
+Full Trash Magic is the ultimate objective of all this work.  Under full trash magic, all people, everywhere in the world, can get food, shelter, medicine, media, sanitation, water, heating and cooling, and the machines to produce all these for free locally.  We will abolish all mining, all oil and gas extraction and all global physical supply chains.  
+
+In order to achieve this objective we begin small, with something that immediately provides value, and scale up based on replication of the thing which provides value.  If we can do even the simplest thing which just barely provides a small amount of value from trash but *replicates* and *evolves* with intent, we can then simply guide that evolution and growth to navigate to the complete system as we engage more and more people with more and more specialized skills and resources.
+
+  To start all this, we turn to the industrial revolution as a guide.  Much of what powered the industrial revolution was using new energy sources in the form of coal and steam to build machines which build other machines.  Also, textiles have always played a central role in technology replication, as their products become central to people's culture, which replicates and brings the textile production machines along with them.  
+
+In analogy to all this, we want to build the smallest possible factory, which we call a Trash Factory, which mimics this pattern but without mining.  We want to build machines that can build machines, or a machine shop, powered by the local forces of the Sun, wind, and flowing water.  A machine shop is a collection of tools which can work metal into the forms needed to make more machines.  Machine shops are how metal machines traditionally replicate themselves.  We need to be able to melt metal waste into metal ingots then process that into bars, sheets, rods, wires and blocks.  Then we need milling machines, lathes and drill presses to machine them into desired shapes.  We need the tools of sheet metal work like the brake and bender.  We need an arc welder, torches and some other basic tools for soldering, welding and brazing.  All this must be made from trash.  
+
+Building a machine shop can be based to a large extent on junk cars.  Cars have plenty of steel, plenty of parts to salvage without any melting or casting, and electrical tools which can be used for motors and so on.  As much as possible we will use things as we find them without reprocessing.  If we can, we'll just get donated old stuff that is broken and fix it.  The machine shop maintained by people good at fixing broken stuff is as old as the industrial revolution, we just aim to build this into the rest of our self-replicating media system.  
+
+The machine shop also needs to have tools for working plastics, with molding on metal molds created using the metal shop, and plastic welding and rework tools.  An electrical shop is needed for electric motors and generators.  
+
+A fully functioning machine shop which is optimized to build more machines from junk cars can be a self-replicating and self-sustaining factory just by selling machines.  We can sell drill presses, milling machines and the like for money which can support the people who build and maintain the system.  
+
+In addition to the machines which replicate themselves, we will build all the tools for creating trash-based clothes on site.  We will build or fix broken sewing machines, and use them to create fashionable and functional original clothing of all kids for all people for free to those in the most need.  If our story replicates as we hope it does, and people believe in our mission, we should be able to support all the work to build the system, to operate it, and to deliver the free clothes to those in need by selling high end fashion to those who can afford it.  All clothes are made on site with waste clothing donated from those in physical proximity to the Trash Factory.
+
+All the motive power for Trash Factories is provided by one of three main sources: heat engines, water drive, and wind.  An essential technology which must be integrated into the first generation of Trash Factory is the trash-built Stirling Engine.  This is a very simple heat engine developed in the 1800s and used widely ever since which can turn heat into mechanical motion by compressing and decompressing a gas in a sealed chamber with a piston.  These engines have been overshadowed by the internal combustion engine or the giant steam turbines used in large scale commercial power plants, but they work well and are well understood and simple.  The primary means of driving a heat engine in Trash Magic(without setting things on fire) is using the energy of the sun focused via mirrors onto a heat absorber.  Large arrays of mirrors can be built from trash which track the sun and maintain the focus of the sun over a large area onto the absorber. The other robotics technology that is part of Geometron(Arduino-driven stepper motors) can be used to steer the mirrors as the angle of the sun changes. Stirling engines can also be run backwards, creating a heat pump when the shaft is turned.  This means they can be used to cool things, being the basis of solar-powered air conditioning and solar-powered refrigeration.  Solar powered air conditioners sound almost too good to be true, but this has been demonstrated well over 100 years ago, it is just not used today for economic and social reasons.  The heat engines are also a very good commercial product which can be sold(as an off-grid power source) for money to support the rest of Factory operations.
+
+Water and wind are both pretty traditional: we simply build rotors for both from trash and source the drive trains and generators from trash.  Water can be waves, tide or streams/rivers/creeks.  In all cases, we envision a factory which has between 1 and 5 people using it at a time using between 1 kW and 100 kW.  
+
+The absolute maximum available solar power is about 1 kW per square meter so at 100% efficiency(which will never happen) this is up to about a 100 square meters.  If we imagine getting a pessimistic 10% efficiency, that's up to 1000 square meters, which is about 30 meters on a side or about 100 feet on a side square(about a quarter acre or 0.1 hectares).  
+
+A reasonable site for a Trash Factory will be about 1 acre, or about 4000 square meters or 0.4 hectares.  This will be enough space for a machine shop, the power station, and the various staging areas we need for incoming waste streams and outgoing product streams.
+
+
  - goals: abolish extraction, everything free
  - the trash feed and existence proof
  - the complete set 
+ - toilets
+ - medicine
+ - local horticulture
+ - locally closed loops
  - core of trash magic: replication of desire to build it
  - the books, trash robot
  - social media and magic, this document and its descendants 
@@ -17,7 +48,6 @@
  - the trash factory architecture: machine shop and textile mill
  - energy storage: water pumps and electrolytic energy cells
  - an analysis of the global Trash Feed and how we aim to use it overall by channel
-
 
 
 We will build a world of both comfort and adventure from the waste streams of the old world.  We will use the trash we find everywhere to build all the things of a good life right where we are.  We will power this technology only with the sun, wind and water.  We will abolish all mining, oil, and gas by 2050.
