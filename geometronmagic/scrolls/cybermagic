@@ -9,8 +9,8 @@ All code is self-replicating.  We never use native code except for hardware cont
  - basic code replication set
  - all the other sets
  - how to build replicator links(copy, mkdir, dnagenerator, set pages, set replicators)
- - code sets
- - file sets
+ - code sets(examples of arduino and web development and p5js)
+ - file sets(example of jupyter notebooks)
  - image sets
  - map sets
  - install on android, ios, mac, windows, linux, openwrt

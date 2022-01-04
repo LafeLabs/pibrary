@@ -8,6 +8,10 @@
  - free network
  - free power
 
+## Architecture
+
+One Raspberry Pi sits at home on the home wifi with port forwarding. The other Raspberry Pi is mobile, with battery and solar panel and is kept in a public space on a public wifi near many people.  That Pi has a flag and other media like self-replicating tokens pointing to a domain which mirrors the documents being edited.  Writers write books over the network onto the home pi, which replicates to the public web page and also to github backups.  
+
 ## Free Books
 
 Free books are the heart of this medium.  The "book" here is somewhat of a metaphor, and generally consists of a set of documents which are bound together by a topic with the logic of a book.  When we say "free books" we mean books which are not covered by copyright, which are released into the Public Domain with no restrictions whatsoever to be replicated again and again from one free server to the next.
