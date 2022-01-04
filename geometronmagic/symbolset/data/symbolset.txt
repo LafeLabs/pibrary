@@ -74,6 +74,9 @@
         "copy-two-cubes.svg",
         "copy-uparrow-spelling.svg",
         "copy-vesicapiscis.svg",
-        "copy-zoom-pan.svg"
+        "copy-zoom-pan.svg",
+        "geometron-magic-cover2.svg",
+        "geometron-magic-cover3.svg",
+        "geometron-magic-symbol.svg"
     ]
 }
