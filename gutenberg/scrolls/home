@@ -5,5 +5,7 @@
  - [Chaos Bible](chaosbible/)
  - [Alice in Wonderland](aliceinwonderland/)
  - [Alice Through the Looking Glass](alicethroughthelookinglass/)
+ - [pibrarygenerator.php](pibrarygenerator.php)
+ - [pibraryreplicator.php?pibrary=https://raw.githubusercontent.com/LafeLabs/pibrary/main/gutenberg/data/pibrary.txt](pibraryreplicator.php?pibrary=https://raw.githubusercontent.com/LafeLabs/pibrary/main/gutenberg/data/pibrary.txt)
 
 
