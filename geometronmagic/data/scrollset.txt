@@ -23,6 +23,7 @@
         "communitynetworking",
         "communityresources",
         "controller.md",
+        "cover",
         "cybermagic",
         "cybermagic.md",
         "designicon.md",
