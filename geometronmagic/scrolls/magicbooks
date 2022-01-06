@@ -1,8 +1,20 @@
 
 ## [HOME](scrolls/home)
 
-# magicbooks
+# Magic Books
  
+The media which drives this network is the Magic Book.  The Magic Book is a format for electronic books which lends itself to easy replication across the Internet and easy editing.  We use the term "magic" as in all other places in this work to mean that people replicate them themselves.   That is, with simply copy/pasting links and clicking on them in browsers anyone on a network can copy any book from any server to any other server.  
+
+This is not like Google Docs where documents are attached to "users" who log into a cloud server controlled by Google.  We use cloud hosting for public-facing web pages, but they are all able to be read by anyone anywhere in the world freely without any log ins or passwords.  And all these books are created, edited, and shared on the local Pibrary networks hosted on physical Raspberry Pi based web servers which are shared freely in our local physical community.
+
+Also, we are using "book" as a metaphor.  What is a book exactly? How is it different from other media?  A book can be physical or digital, can be a private document or public.  But what distinguishes it from things like articles or news is that it is self-contained and encapsulates a large body of knowledge in a coherent whole.  A book can evolve over time and can get re-written but it has a fundamentally different structure from the news feeds which dominate social media today. Also, we distinguish these books from wiki's like Wikipedia.  Wikis are databases of articles.  These articles are the fundamental element of the whole thing, and are not organized into book structures.  It is hard to write down a clear definition which distinguishes an article from a book, but for our purposes a book is a collection of chapters, each of which is a text document, and all of which add up to some coherent whole.  
+
+All books are released by their authors into the Public Domain with no restrictions whatsoever.  We do not use the kind of restricted licenses favored by Creative Commons or the Free Software Foundation, but explicitly release books under the Public Domain.  
+
+Books, like everything else in the work described here are self-replicating sets.  That is, collections of things which all replicate as a set easily by anyone on the network.   The main element of these sets are called scrolls and these are just text documents in the Markdown format.  Markdown is a very simple text format which is used in a wide range of online content, which in its simplest form is just raw text, but has a few simple additions like using asterisks for italic, double asterisks for bold, and number signs for headings.  While using a markup language like this with a little bit of syntax is in some ways more complex than the completely point-and-click driven editors like Word or Google Docs, this is designed to make the documents compatible with pure-text formats, which is important for making them easy to replicate and edit as we move them freely across our network.  
+
+
+
 THE BOOK OF THE STREET
 
 THE TRASH ROBOT PIBRARY(SELF REPLICATING SET OF BOOKS)
