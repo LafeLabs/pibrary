@@ -1,0 +1,65 @@
+\documentclass[ebook,12pt,openany]{memoir} %ebook
+
+%\documentclass[ebook,12pt,openany,onesided]{memoir} %physical book
+
+\usepackage[utf8x]{inputenc}
+\usepackage[english]{babel}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{imakeidx} % for how to use the index see https://www.sharelatex.com/learn/Indices
+\usepackage{hyperref}
+
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+\makeindex
+
+\title{Geometron Magic}
+\author{Trash Robot}
+
+\begin{document}
+\frontmatter
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=4in]{cover.png}
+\end{figure}
+
+\clearpage
+
+\clearpage
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+\maketitle
+
+\tableofcontents
+
+\listoffigures 
+
+%civilizations
+%
+
+\mainmatter
+
+\chapter{Magic}
+\input{scrolls/magic.tex}
+\chapter{Trash Magic}
+\input{scrolls/trashmagic.tex}
+\chapter{The Pibrary}
+\input{scrolls/pibrary.tex}
+\chapter{The Magic Books}
+\input{scrolls/magicbooks.tex}
+\chapter{The People of the Network}
+\input{scrolls/people.tex}
+
+%\printindex
+
+%https://www.sharelatex.com/learn/Glossaries
+
+\end{document}

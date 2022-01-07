@@ -116,4 +116,4 @@ The methods of Action Geometry are to always use these primitive shapes to const
 
 The other set we use for construction are the Platonic Solids: tetrahedron, cube, octahedron, dodecahedron, and icosahedron.  
 
-
+Also, the ArtBox is what we carry the art supplies in, and it is used both for the cardboard tool set which replicates the artbox itself and the clay and paint pen tool set which replicates all the clay elements. 

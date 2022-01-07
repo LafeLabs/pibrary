@@ -1,0 +1,15 @@
+
+## [HOME](scrolls/home)
+
+# pandoc
+
+
+```
+pandoc magic -f markdown -t latex -o magic.tex
+pandoc trashmagic -f markdown -t latex -o trashmagic.tex
+pandoc pibrary -f markdown -t latex -o pibrary.tex
+pandoc magicbooks -f markdown -t latex -o magicbooks.tex
+pandoc people -f markdown -t latex -o people.tex
+pandoc cybermagic -f markdown -t latex -o cybermagic.tex
+```
+

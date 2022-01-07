@@ -1,7 +1,13 @@
 
 ## [HOME](scrolls/home)
 
-# cybermagic
+# Cybermagic
+
+Cybermagic is self-replicating code which can all be replicated freely from one Geometron server to the next entirely from the Web Browser.  We do not "install" software.  We use only code which can be run from a browser without ever logging into a server.  To make a self-replicating set of computer programs we have some scripts which copy all the other ones, some files which load, save and delete files, and some which catalog them.   This set of files can combine with any other set of files, and together can build self-replicating sets of files, where the *entire* set is managed from a Web Browser over the network without ever logging into the server.   
+
+The main formats of files we copy are HTML, PHP, JavaScript, JSON, and .svg.  HTML, or HyperText Markup Language, is 
+
+
 
 All code is self-replicating.  We never use native code except for hardware control. (even language model work should all get converted to PHP if we are going to do that, which we should not).  People should always control machines, we remove the man behind the curtain with our system, every part of the system can be created, replicated, edited, and destroyed from the client side of the web browser.  what is a web browser?  what is a a web server? what is html? what is php? Css? javascript? geometron bytecode 
 
