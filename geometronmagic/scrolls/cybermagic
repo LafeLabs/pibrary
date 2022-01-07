@@ -3,11 +3,14 @@
 
 # Cybermagic
 
+
+We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
+
 Cybermagic is self-replicating code which can all be replicated freely from one Geometron server to the next entirely from the Web Browser.  We do not "install" software.  We use only code which can be run from a browser without ever logging into a server.  To make a self-replicating set of computer programs we have some scripts which copy all the other ones, some files which load, save and delete files, and some which catalog them.   This set of files can combine with any other set of files, and together can build self-replicating sets of files, where the *entire* set is managed from a Web Browser over the network without ever logging into the server.   
 
 This chapter will get a little technical. It is to explain to people who know some things about computer programs how the software here is structured. For those with limited technical knowledge but some interest, we try to describe all the terms in the hope that this can be an invitation to learn all these languages and become a Geometron developer.  Email the author with any questions.
 
-The main formats of files we copy are HTML, PHP, JavaScript, JSON, and .svg.  HTML, or HyperText Markup Language, is the primary language of all content which displays in a web browser.  It is the language made up of "tags" which are words or letters between angle brackets along with the raw text that makes up a web document.  The language used to talk about HTML is very clearly inspired already by the ideas of set theory, as the word "element" is used to describe all of the kinds of things which exist in a document, like paragraphs, images, links and so on.  HyperText refers to the way that documents can all link to each other, making the entire Web in some sense one giant document as long as documents all link to each other.  It is important to note that the "web", based on HTML is not the same as the Internet.  An HTML document can exist on a machine not connected to the Internet and much of what exists on the Internet(which is just the network of physical devices) is other kinds of traffic like phone calls, emails, and other data.  While the Internet was a creation of the US military back in the late 60s, the World Wide Web, browsers  and HTML were all created at the European particle physics lab CERN at the end of the 1980s as more of an academic project.
+The main formats of files we copy are HTML, PHP, JavaScript, JSON, and .svg.  HTML, or HyperText Markup Language, is the primary language of all content which displays in a web browser.  It is the language made up of "tags" which are words or letters between angle brackets along with the raw text that makes up a web document.  The language used to talk about HTML is very clearly inspired already by the ideas of set theory, as the word "element" is used to describe all of the kinds of things which exist in a document, like paragraphs, images, links and so on.  HyperText refers to the way that documents can all link to each other, making the entire Web in some sense one giant document as long as documents all link to each other.  It is important to note that the "web", based on HTML is not the same as the Internet.  An HTML document can exist on a machine not connected to the Internet and much of what exists on the Internet(which is just the network of physical devices) is other kinds of traffic like phone calls, emails, and other data.  While the Internet was a creation of the US military back in the late 60s, the World Wide Web, browsers  and HTML were all created at the European particle physics lab CERN at the end of the 1980s as more of an academic project.  By default, the file index.html is the one loaded as the home page on any given web address.  So if you point your browser to a domain name without a file name it just displays this file.  We always need an index.html file to exist and replicate for the system to run smoothly.
 
 JavaScript is the language which is part of the HTML standard which does actions, like making buttons or text inputs work, calculating things, or manipulating the HTML content on a page.  Whenever possible, our first choice in this system is to use JavaScript for all code that does things because that can exist either in an HTML file(in the "script" tag) or called directly from an HTML file.  
 
@@ -23,149 +26,14 @@ PHP programs can take inputs using the text you put into the address bar in the 
 
 This is anarchist software architecture, one of constant chaos.  There are no restrictions.  Any code can run anywhere any time by anyone. Any file can be deleted by anyone at any time with no log in, no password, just a click and you destroy anything. The same is true for replication.  Anyone can copy anything to anywhere at any time.  The only restrictions on what is "private" or "public" servers are based on physical network parameters.  Local networks can have servers which are not visible outside the the network.  This can allows for networks of servers to exist in a shared public space, with constant local replication, as well as replication *from* all globally available servers, but without anyone outside the local network able to interact with the servers.  One can think of a server only on a local network as having a one way valve for information from the global Internet to the local server.  We can build communities of constant co-replication and co-creation of documents over a local network.  It is wifi anarcho-communism: a wifi network which abolishes the concept of property, the concept of the "user", all private data, all private code, all private documents, all restrictions on user actions, and indeed the concept of the "self" itself.  This is a universe of files without property and without individual identity.  
 
-A stripped down set of the absolute minimum collection of files can be useful for understanding the structure.  This can be viewed at https://github.com/LafeLabs/pibrary/tree/main/geometronmagic/cybermagicminimal 
+A stripped down set of the absolute minimum collection of files can be useful for understanding the structure.  This can be viewed at [https://github.com/LafeLabs/pibrary/tree/main/geometronmagic/cybermagicminimal](https://github.com/LafeLabs/pibrary/tree/main/geometronmagic/cybermagicminimal).  It's just the home page index.html, the replicator, editor, dnagenerator, txt2php, filesaver, fileloader, and dna.txt. 
 
+The sets of files we replicate can include any of a few different file types, each of which has their own self-replicating infrastructure to support it.  This includes the image set, which is a set of images people can upload to a server, delete from the server, and replicate as a set.  There is also a symbol set replicator which includes the whole Geometron system for creating and editing graphics and saving them to .svg and .png files.  There is a generic file set replicator which has not specific format specified.  This is useful for files like CAD layout files for circuits or programs other than those in the cybermagic system.  One example of this kind of file we will use a lot is the Jupyter notebook, which is a very useful tool for all kinds of science and math calculations and education, already widely used in many fields.  
 
+The Map Books are combinations of scrolls and maps which can create swarms of documents which are graphical and text all linked with each other and all of which replicate together.  The Map Book can form the basis of physical hypertext documents, which are documents combining maps of physical spaces with hyperlinks to text documents relating to those spaces which can link back to other physical spaces and documents, and so on.  Physical places can have physical media pointing to a domain which hosts copies of map books which have links to documents which act to change that space by guiding people to alter it themselves along with the documents.  This creates feedback loops of physical media in physical spaces, mediated by our digital media, which can be a powerful transformative force.  This mixed reality media can also form the basis of complex games of many kinds, the structure of them is left to your imagination.  
 
+Any set exists at some point on a server and that can fork down to sets in directories, which can fork again and again, making more sets which can be Magic Books, sets of code, sets of symbols, images, or any other file or document.  All this happens with a page called fork.html, which allows us to create forks of whatever name we want and replicate the book down a level, and the book can be replaced with any other set using another replicator.  Any fork can be deleted along with all its sub-fork instantly at any time by anyone.  
 
+The only thing that preserves any information in our system is constant replication, just like life, which constantly reproduces in the face of constant death.  This is living media.  We walk the Earth in the physical world carrying our web servers and our physical media and constantly replicate swarms of code and documents from person to person in our physical space.  And we remember that the magic is not in the code or machines but in that spark that jumps from one person to the next when we are able to project our desire to build this free network into the minds and hearts of new people.  This is cybermagic.  Code which carries the media which replicates the desire to replicate the code which replicates the media which describes how to replicate the code, all on physical infrastructure which replicates with us, the People of the Network.
 
-
-All code is self-replicating.  We never use native code except for hardware control. (even language model work should all get converted to PHP if we are going to do that, which we should not).  People should always control machines, we remove the man behind the curtain with our system, every part of the system can be created, replicated, edited, and destroyed from the client side of the web browser.  what is a web browser?  what is a a web server? what is html? what is php? Css? javascript? geometron bytecode 
-
- - definitions
- - basic code replication set
- - all the other sets
- - how to build replicator links(copy, mkdir, dnagenerator, set pages, set replicators)
- - code sets(examples of arduino and web development and p5js)
- - file sets(example of jupyter notebooks)
- - image sets
- - map sets
- - install on android, ios, mac, windows, linux, openwrt
- - fork a new server
- - destroy the server
- - edit the server
- - create a new file, add it to dna
- - copy a file 
- - replicate the new version to another server
- - create a document set replicator, replicate a document set: scrolls, icons, symbols, maps, generic files, images, new types of file 
- - replicate from a server to github and from github to server
- - replicate from one pi to another
- - replicate from a pi to a global web page
- - replicate from a global web page to a pi
-
-We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
-
-Every single piece of information we store on any computer ever in our system must be part of this.  Whether it's saving files to a server, collecting data from an environmental sensor, programming a robot for industrial automation, putting up a useful web application or calculating physical quantities, *all* these programs are part of our system of self-replication.    This system of self-replicating digital media includes all the programs which control the machines which make all the things in our system.  Our intention is to replace all existing automation and fabrication technology with systems programmed using Geometron, and for all the documents which program these machines to be incorporated into these self-replicating sets of files.
-
-We also specify that all programs must be able to replicate from within a web browser.  Once the basic system is installed on any given machine, it is possible to replicate, edit and delete all files on the system from the browser. This includes all the replicator, editor, and deletor files themselves.  
-
-There are five basic languages we use for this, which we loosely connect with the archetypes of the five elements of alchemy.  These are:
-
-***HTML***.  HTML is short for Hyper Text Markup Language.  This is the main content language of the whole Web, which is why it is associated with Water, the most fundamental element of life.  We symbolize this with a blue equilateral triangle pointed down.
-
-***CSS***. CSS stands for Cascaded Style Sheets, and represents the code which sets styles on the web, like colors and fonts and positioning of objects in the browser window.  This is associated with the Air element, symbolized by a yellow downward-pointing equilateral triangle with a horizontal line through the center.
-
-***JavaScript.*** JavaScript(not to be mistaken for Java, an unrelated language) is the language which is used for *doing things* in a web browser.  This is the language all the Geometron apps are written in, such as calculators, art programs, robot programming etc.  We associate the actions of JavaScript with the Fire element, symbolized by a red equilateral triangle with the point up.
-
-***PHP.*** PHP stands for PHP Hypertext Preprocessor, and is the only server-side language we use in the system.  We use the absolute bare minimum server-side code, and no databases at all.  PHP is used to make the little helper programs we need to create, replicate, edit and delete files on the server one at a time.  The PHP is what replicates the entire rest of the system! Because of it's transformative role in the system we associate it with the Aether element, symbolized by a purple circle with a dot in the middle(like the Sun).
-
-***Geometron.*** We refer here narrowly to the geometric programming language. This is the language documented in this book which we will ultimately use to control *all* our machines.  This can be used to program the motion of machines which make things, as well as to program the geometry of displays for human communication, making it a universal language for all technology control.  Because of its extremely physical nature we associate this with the Earth element, symbolized by a brown equilateral triangle pointed down with a cross bar through the middle.
-
-The following are showing the symbols for the five basic languages using the Icon Magic philosophical language documented in this work:
-
-![](imageset/uploadimages/code-elements-symbols.jpg)
-![](imageset/uploadimages/code-elements.jpg)
-
-The first thing we do with *all* information in this system is replicate.  All replication starts with a PHP script called replicator.php.  This program contains a the url of a file called dna.txt which exists on whatever server we are copying all the files from.  This file contains a list of all the files in the system to be copied.  Replicator then uses this list to generate the specific urls of every file in the system and copy them all over to the local server.  Part of what is copied in this process is the file dna.txt, and this new copy of the file can then be added to the new copy of replicator.php, which can then be loaded on yet another server, and the whole thing is then replicated along with no reference to the original code.  
-
-All the code is edited with the code editor called editor.php.  This code editor uses the JavaScript library [Ace.js](https://ace.c9.io/) for syntax highlighting and two very small PHP scripts to save and load the files it edits.   All the PHP scripts are stored in a directory called php, with the ending .txt instead of .php.  This allows them to edit copies of themselves, the editor.php file is editing the copy of it stored in php/editor.txt.  Then all these .txt files in php/ are copied into the main web directory and changed from .txt to .php using a script called text2php.php.  When the replicator replicates the system to another server, two copies are then made of each php script, one in the main directory ending with .php and one in the php directory ending with .txt.  
-
-The dna.txt file is in the [JSON(JavaScript Object Notation) format](https://www.json.org/json-en.html), and is generated using the PHP script dnagenerator.php.  Data for various Geometron applications are stored in the JSON format in files ending in .txt(to make them load in a web browser) in the "data" directory.  Thus for example dna.txt is in [data/dna.txt](data/dna.txt).   Various applications in Geometron can have various other directories and types of information, as long as any new directories are created in the code in replicator.php using "mkdir" and the appropriate JSON entries are added using dnagenerator.php. 
-
-Editor.php can be used to edit any file on the server, including itself. Take a look at the code for that.  To create a new file you can point the browser to editor.php?newfile=[name of new file] and you'll be able to scroll down and click on the new file to edit it.  You can then click the link for dnagenerator.php and the new file you created will be added to the dna.txt for replication to the next server. 
-
-More specific editors are used to edit the scrolls like this document and the various other elements of our system.  All of them are based on this same very simple system of small(just a few lines of code) PHP scripts which save, load, copy and delete files.  
-
-The most basic cyber magic system possible has PHP scripts to save, load, delete, replicate, and edit, and just replicates that system.  In order for any system to replicate it has to include the human readable media which tells you how to replicate.  This is what scrolls are for.  The most basic self-replicating set beyond the basic PHP code set is a scroll set.  
-
-
-
- - what is magic.
- - set magic.
- - five elements of code
- - all the other languages: python, arduino, javascript, latex, markdown, JSON, HTML, CSS, PHP
- - editor.php
- - replicator.php
- - latex work flow, pandoc, pdf, etc
- - structure of PHP scripts
- - set replicator
- - scroll set replicator
- - file set replicator
- - code set replicator
- - delete file
- - recursive delete
- - nuke it all from orbit and start again
- - github work flow
- - building new apps and replicating them, editing the replicator
- - getting the system working on other platforms
- - cybermagic apps
- - web calculators
-
-## Replication on Github
-
-Part of the replication of the Pibrary system involves replicating and forking the code.  To fork all the code in a Cybermagic code set, start a new Github Repository with a CC0 PUBLIC DOMAIN license, and clone it to your computer.  Get PHP working from the command line on that computer.  It is already installed on a Mac.  On PC install Ubuntu under Windows and then install PHP.  Create a new file in the new directory called replicator.php and copy the code in [php/replicator.txt](php/replicator.txt) into it.  Then run from the command line:
-
-```
-php replicator.php
-```
-
-Now all the code is copied and you can push the whole thing to your github repository, which you can call pibrary if you want, or immediately fork to something new. 
-
-To run the local PHP server, you can type from the command line
-```
-sudo php -S localhost:80
-```
-Then point any web browser to [http://localhost/](http://localhost/).  Now you can edit all the code using [editor.php](editor.php) and read about how to work with the code system in [the cybermagic scroll](scrolls/cybermagic).
-
-To make things easier edit the file in `~/.bashrc` to include the line:
-
-```
-alias s = 'sudo php -S localhost:80'
-```
-as well as the line to change into the directory you're working in automatically with `cd`.
-
-```
-{
-    "html": [
-        "index.html"
-    ],
-    "data": [
-        "dna.txt"
-    ],
-    "php": [
-        "dnagenerator.txt",
-        "editor.txt",
-        "fileloader.txt",
-        "filesaver.txt",
-        "replicator.txt",
-        "text2php.txt"
-    ]
-}
-```
-
-
- - [cybermagicminimal/index.html](cybermagicminimal/)
- - [cybermagicminimal/data/dna.txt](cybermagicminimal/data/dna.txt)
- - [cybermagicminimal/php/dnagenerator.txt](cybermagicminimal/php/dnagenerator.txt)
- - [cybermagicminimal/php/editor.txt](cybermagicminimal/php/editor.txt)
- - [cybermagicminimal/php/fileloader.txt](cybermagicminimal/php/fileloader.txt)
- - [cybermagicminimal/php/filesaver.txt](cybermagicminimal/php/filesaver.txt)
- - [cybermagicminimal/php/replicator.txt](cybermagicminimal/php/replicator.txt)
- - [cybermagicminimal/php/text2php.txt](cybermagicminimal/php/text2php.txt)
-
-
-link to create a minimal cyber magic set:
-
-[mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt](mkdir.php?dir=cybermagicminimal&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt)
-
-[cybermagicminimal/](cybermagicminimal/)
+To replicate this system, see the installation instructions in the pibrary Github repository at https://github.com/LafeLabs/pibrary.  
