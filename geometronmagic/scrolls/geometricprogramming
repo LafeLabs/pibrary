@@ -21,17 +21,14 @@ The virtual machine can also do physical things based on each address.  This is 
 
 The Turing model ignores the human operator. It imagines an infinite tape which can in theory run programs forever, ignoring the humans who operate it and the physical mater it interacts with.  In Geometron the human has multiple roles.  It starts with a human pushing some kind of "start" button which starts the main tape being read, and we generally assume the tape is finite and that it only runs one way, once(as opposed to infinite, and running forever).  Each address on the tape has a corresponding symbol which is in a human readable format, where by "readable" we mean that it has some clear meaning to the human operator.  These symbols are themselves constructions of Geometron.   We aim for these symbols to *be* the language used for programming the machines which make all our technology.  
 
-Our lexicon of human readable symbols includes the entirety of whatever written language a human operator is normally using, such as English.    For instance, for English we have addresses in the Hypercube for each of the printable letters on the English computer keyboard, and each of these represents a sequence of geometric actions which taken together draw that character. In the current software, this means actions taken in a web browser which control where pixels are in a graphic, a physical construction on a computer screen using the programming methods of the browser.
+Our lexicon of human readable symbols we put in the Geometron Hypercube includes the entirety of whatever written language a human operator is normally using, such as English.    For instance, for English we have addresses in the Hypercube for each of the printable letters on the English computer keyboard, and each of these represents a sequence of geometric actions which taken together draw that character. In the current software, this means actions taken in a web browser which control where pixels are in a graphic, a physical construction on a computer screen using the programming methods of the browser.  This is called a font, just as in other computer software.  A big part of what makes these methods powerful is how they can be mixed and matched with different physical means of geometric action.  For instance, a font can be constructed out of discrete movements and drawing of pixels which can be cloned from a robot which impresses dots into clay with a nail to a bitmap on a computer screen to spray paint dots on a wall to microscopic laser burns with no change in the code.  
+
+
+This ability to move geometric construction from one physical fabrication machine 
+to another goes to the heart of why Geometron is a critical enabling idea for Trash Magic.  When we build our fabrication technology from parts of machines we find in the trash, having this geometric description of what the machine does independent of the details of the machine makes it much easier to adapt programs from one machine to the next as our system evolves.  A program to make a square with a tool which consists of "start drawing, move left, move down, move right, move up" can be done at any size with any tool once we build a virtual machine model which maps those movements to what the motors do.  
+
+Of course this is all still based on computer programming languages on machines that do arithmetic.  But the purpose of computer programming languages is not just to control machines but to make it easier for our minds to think about how to control them, and that is where Geoemtron really does things Turing machines don't, by integrating the process of designing languages, controlling automation, controlling fabrication, and building abstract language structures.  
+
+We *choose* to consider geometry to be more fundamental than arithmetic. We believe that this choice is not just a mathematical one but a moral and philosophical one.  We believe it represents a shift from an information economy based on replication instead of production, communication instead of domination and control.  We use the slogan "no war but the math war" to represent this idea, that we believe that the ideology of numbers is integrated into the ideology of permanent war that dominates the world today, and that shifting away from that way of thinking requires this change in mathematical philosophy.  The war machine of today is needed to project power over the long distances required to keep the supply chains flowing which keep material moving from the mines to the consumers.  Free replication of geometric constructions in locally sourced trash represents a shift away toward empires of control and towards global abundance.
 
  
-
-
- - all technology is geometry
- - the logo turtle, how this is similar but different
- - robots of all kinds, automation in general, farm automation
- - survey of applications: microfab, circuit fab, metal fab, wood fab, 
- - the browser
- - geometry vs. arithmetic as different views of the same thing
- - geometric actions and the GVM
- - the hypercube, pure geometric programming, the mathematical definitions
- - how geometric programming can do everything without exceptions 
