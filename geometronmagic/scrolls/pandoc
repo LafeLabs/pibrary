@@ -11,5 +11,6 @@ pandoc pibrary -f markdown -t latex -o pibrary.tex
 pandoc magicbooks -f markdown -t latex -o magicbooks.tex
 pandoc people -f markdown -t latex -o people.tex
 pandoc cybermagic -f markdown -t latex -o cybermagic.tex
+pandoc geometricprogramming -f markdown -t latex -o geometricprogramming.tex
 ```
 
