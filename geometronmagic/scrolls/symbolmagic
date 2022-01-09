@@ -1,7 +1,16 @@
 
 ## [HOME](scrolls/home)
 
-# symbolmagic
+# Symbol Magic
+
+Symbol Magic, like all the "magics" of this work, refers to self-replicating symbols, which people freely copy using the media network we are building.  All our media is designed to be created, edited, and replicated entirely in a web browser.  The media we use to control *all* machines in full Trash Magic is to be built this way.  Be it a cutting tool, a laser, an agricultural robot, pixels on a screen, or any other movement of any machine used to impart form onto mater, we aim to create all the programs to control this in the browser using symbols also made in this system.
+
+As with all our systems, this begins with the ability of the system to create itself.  This means we need to be able to make the web graphics used for buttons and links in our web-based media.  If you're using this system to read this book, you have already seen these.  Using simple square symbols to represent things they link to or actions they cause to happen is a fundamental element of what makes the web work.
+
+We also must now take a moment to define "symbol" in the broad sense used in this work.  We define "symbol" to be *any* geometric construction which has meaning to people.  This means a building is a symbol.  A pie is a symbol. A culvert or dam is a symbol.  A microelectronic circuit is a symbol.  All of these things have meaning to people and are constructed with geometry.  If the materials used to make a symbol are available locally everywhere in the world and the symbol can be replicated from one web browser to the next, those things can all be replicated.  If the system of symbols, which we can think of as a language, also impart the *desire* to replicate a thing, that is where the magic happens, where the things can spread freely from one local community of people to the next across the globe.
+
+The language of Geometron in the web browser is more completely documented in the First Book of Geometron.  Here we just discuss how it works and what it can do and what we plan to do with it as the system grows.
+
 
 Symbol magic are sets of self-replicating web graphics using cyber magic to make vector graphics and also bitmaps to be replicated across the geometron network.
 
