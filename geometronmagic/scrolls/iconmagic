@@ -33,96 +33,13 @@ All this might sound somewhat abstract, and must be illustrated with some exampl
 
 Another example is just game pieces, which are actual physical products with value which are replicated along with everything else.  We can make self-replicating chess sets which are carried in a bag and used on cardboard chess sets with sharpie based squares.  Each chess board can act as an Action Geometry shape to replicate and make another chess board on more cardboard.  As with all sets, we have three bags, and can use the prints to replicate stamps and the stamps to replicate pieces.  So one printed set on a robot can create thousands of fully functional chess sets, and whole networks of people replicating the sets, playing chess with them, and replicating them again.  
 
-We also use the tokens as game pieces in the mixed reality environment
+We also use the tokens as game pieces in the mixed reality environment, placing them in various locations in a public space.  This mixed reality can involved cardboard with geometry and web addresses, hash tags or contact info and game tokens, all left in public spaces linked to by public facing web pages.  This represents a complex network of media which is always a hybrid between physical and digital and all outside of the property system, left in public without any personal possession.  All of it is self-replicating, as pages all replicate from server to server, tokens replicate with clay and cardboard replicates with Action Geometry.  
 
+We may think of this system as a philosophical language, a universal system for representing structures of human thought.  This is something that various philosophers have worked on in the past, but our goals are different.  When philosophers like Gottfried Wilhelm Leibniz worked on this problem the goal of all that work was still to express "truth". The goal of both philosophy and science in that time was to create as many statements as possible which were as true as possible.  This is not our goal.  Our goal is to create the collection of information which taken together allows us to create a fully self-replicating system of technology from only trash, the sun, water, and the living Earth for all people to live a good life for free everywhere.  We will create the structure of our linguistic and philosophical tools around this.  
 
- - the idea, relation to Leibniz's plan
- - copy and paste sections from wikipedia on goedel's conspiracy theory
- - no war but the math war: self-replicating sets and symbols vs. numbers
- - self-replicating sets depicted by self-replicating icons on self replicating boards
- - board layouts, geometron nets, trash magic construction of rainbow duct tape, action geometry connection, artbox
- - bag of boards with trash magic/ action geometry
- - how to create an icon
- - the clay replication path
- - how to create boards with AG
- - how to use them in the field, carrying the bags, printing other media(resin, silicone, plastics, trash printing)
- - practical uses for philosophy, currency, religion and magical practice, mathematics, games, white rabbits, challenge coins, hyperlinks, business cards
+We have created a universal symbolic language as a tool for creating a new mode of human existence based on replication instead of mining.   This is not exactly "technology".  This system is philosophy, it represents an approach to interacting with each other and with things, not a specific technology.  It could easily be replicated using methods from thousands of years ago with clay and sticks.  Indeed, we can probably think of early human stone tools as examples of self-replicating media in this way.  When the first people figured out stone tools, in order for that to replicate enough to have a global impact on humanity they have to travel in a replication economy.  One person chipping stones in one creek bed with one special type of stone doesn't scale.  A culture of stone-chipping replication does scale.  And each spear with a stone point is media which advertises its own replication.  Its product in the form of animals to eat naturally replicated the desire to replicate the thing.  
 
-## Elements of Geometron Magic
+This type of media and economy was consumed by the mine system everywhere in the world as the mine-users created machines of war, used them to get more land for more mines and competed to keep doing that until the whole world is one giant mine feeding one giant war machine.
 
- 1. [Magic: 8 chaos arrows](scrolls/magic)
- 2. [Trash Magic: trash can](scrolls/trashmagic)
- 3. [The Pibrary: raspberry pi logo](scrolls/pibrary)
- 4. [The Magic Books: free books logo](scrolls/magicbooks)
- 5. [The People of the Network: ](scrolls/people)
- 6. [Cybermagic: pentagram](scrolls/cybermagic)
- 7. [Symbol Magic](scrolls/symbolmagic)
- 8. [Action Geometry: three triangles](scrolls/actiongeometry)
- 9. [Icon Magic](scrolls/iconmagic)
- 10. [The Future of Geometron](scrolls/future)
-
-
-## Elements of Icon Magic(icon with chaos magic symbol)
-
-- history and philosophy, relation to other things  
-- origins in geometron, the geometron geometric programming language
-- boards in bags
-- icons in bags
-- icon bag layout, design
-- robots in bags, with servers in bags
-- clay replication path
-
-## Action Geometry
-
- - shapes
- - laser cutting
- - skeletron
- - artbox
- - s hook
- - trash robot
- - trash ties
- - pyramid
-
-
-## Pibrary 
- 
- - scrolls
- - magic
- - solar power
- - batteries
- - wifi and wireless links
- - world wide web, internet
- - raspberry pi
- - free books
-
-## Cybermagic
-
- - languages: javascript, html, css, php, geometron, latex, markdown, json, arduino, python
- - self-replicating sets: twiddle brackets, images, symbols, scrolls, maps, files, AG
- - geometron boards
- - printer robot: arduino, DVD, upcycle, pololu, pcbway
- - icon token bags
- 
-
-## Boards
-
-![](iconmagicnetset/symbolfeed/two.svg)
-![](iconmagicimageset/uploadimages/two.jpg)
-![](iconmagicnetset/symbolfeed/three.svg)
-![](iconmagicimageset/uploadimages/three.jpg)
-![](iconmagicnetset/symbolfeed/four.svg)
-![](iconmagicimageset/uploadimages/four.jpg)
-![](iconmagicnetset/symbolfeed/five.svg)
-![](iconmagicimageset/uploadimages/five.jpg)
-![](iconmagicnetset/symbolfeed/six.svg)
-![](iconmagicimageset/uploadimages/six.jpg)
-![](iconmagicnetset/symbolfeed/seven.svg)
-![](iconmagicimageset/uploadimages/seven.jpg)
-![](iconmagicnetset/symbolfeed/eight.svg)
-![](iconmagicimageset/uploadimages/eight.jpg)
-![](iconmagicnetset/symbolfeed/nine.svg)
-![](iconmagicimageset/uploadimages/nine.jpg)
-![](iconmagicnetset/symbolfeed/ten.svg)
-![](iconmagicimageset/uploadimages/ten.jpg)
-
+This book must itself be part of a self-replicating set using Icon Magic and Action Geometry.  Every single thing described here must be replicated this way, including this book itself, which documents replicating all the things.  Everything is recursive in that it points back to itself by replication.  
 
