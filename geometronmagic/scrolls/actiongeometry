@@ -2,42 +2,20 @@
 ## [HOME](scrolls/home)
 
 # Action Geometry
-<!-- 
-[
-    "30-60-90.svg",
-    "306090construction.svg",
-    "306090lines.svg",
-    "equilateral.svg",
-    "equilateralconsctruction.svg",
-    "goldengnomon.svg",
-    "goldengnomon2.svg",
-    "goldengnomonlines.svg",
-    "goldenratio.svg",
-    "goldentriangle.svg",
-    "goldentrianglelines.svg",
-    "inflage45.svg",
-    "inflate120.svg",
-    "isoc120.svg",
-    "isoc120consctruction.svg",
-    "isoc120lines.svg",
-    "isocright.svg",
-    "isocrightlines.svg",
-    "protractor.svg",
-    "ruler.svg",
-    "rulers.svg",
-    "shapeset.svg",
-    "square.svg",
-    "squareconstruction.svg",
-    "squarediagonal.svg",
-    "squarelines.svg"
--->
 
+In the geometry we learn in school, constructions are through "classical construction", using only the compass and straight edge(without markings, not a ruler).  This somewhat artificial and academic and represents a method of construction which teaches ideas about geometry but is unlikely to be of practical use.  Conversely, in most practical situations, geometry is generally done using numbers and algebraic equations acting on numbers to describe shapes.  This makes sense for computer technology and robotics controlled by computers.  In a purely number-driven system, the ability to describe a shape with numbers of inches or degrees is all you need and the machine can go to any coordinate in its available range and precision.  
 
-Action Geometry is a method of construction using a set of seven self-replicating shapes which contain universal scales and symmetries.  These symmetries and scales allow us to construct these shapes using the language of Geometron, using the tools of classical geometric construction(compass and straight edge) or analytic geometry. 
+Action Geometry is a method of geometric construction which uses sets of standard shapes and constructions designed to physically replicate themselves using practical physical media.  We can make these shapes from acrylic, plastics of all kinds, thin cardboard, thick cardboard, wood, paper or stone.  We design constructions which can be replicated based on a sequence of tracing actions using these shapes, and then since we can replicate the shapes and also use them to replicate the construction, we have a fully self-replicating system.  This set of shapes is indented to be as practical and universal as possible.  
 
-The simplest way to construct a physical shape set is to already have one and to replicate the whole new set from the old set.  Outlines are traced and cut.  The old shapes are then used to draw the interior lines.
+The shapes include a 6 inch by 1 inch ruler, a three inch square, a three inch equilateral triangle, an isosceles 120 degree triangle with a three inch base, a 30-60-90 triangle with a three inch long leg, a Golden Triangle with a 3 inch leg, and a Golden Gnomon with a three inch base.
 
-The shapes are as follows:
+This set can all be generated in the web browser using the symbol magic system, which can save the SVG files which can print from a laser cutter. This is how we can create self-replicating artifacts from trash in a web browser: design shapes in the browser, save to SVG, and either print on a printer, cut out and laminate or print on a laser cutter, then those are used for construction on trash with a marker, a box cutter and duct tape.
+
+This is getting closer and close to our ideal for trash magic of self-replicating media which includes trash.  We are constantly working to close loops of media replication.  For example, we can make cardboard signs with sharpies and Action Geometry constructions which advertise web pages which have scrolls and symbol sets which describe the constructions, which replicate to more cardboard signs which replicate to web pages and so on, creating a loop between cardboard signs with geometry and self-replicating web-based graphics. 
+
+All the shapes can also be constructed using Classical Geometry, or numerical layout with an art or engineering program or a protractor and ruler.  
+
+Examples of the  shapes are as follows:
 
 ### Equilateral Triangle
 
@@ -109,11 +87,17 @@ This set of shapes is self-replicating.  The set taken together can be used to m
  - [copy shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/shapeset/data/symbolset.txt&to=shapeset/data/symbolset.txt)
  - [shapeset/symbolset.html](shapeset/symbolset.html)
 
+So this is a set of self-replicating sets, all of which are used to create self-replicating geometric constructions out of trash.  
 
-So this is a set of self-replicating sets, all of which are used to create self-replicating geometric constructions out of trash.  Examples of this method are the ArtBox and the S-Hook from Action Geometry.  
+The shape set can be used to construct the ArtBox, which is a box made from trash used to carry around sets of art supplies which are used to replicate other sets of things made from trash.  The details of this kind of Action Geometry construction of self-replicating sets are described in the First Book of Geoemtron, and include building structures out of 6 foot bamboo poles and a system of hooks to carry things from them, along with various cloth artifacts for the system.
 
-The methods of Action Geometry are to always use these primitive shapes to construct things of a wide range of materials and scales.  
+We also use Action Geometry to make textile crafts, including wearable crafts like shirts and pants and hats which also form self-replicating media, as they are constructed with the tools of Action Geometry and cut out of trash clothing, making lines of clothing which are themselves self-replicating media made out of trash.
 
-The other set we use for construction are the Platonic Solids: tetrahedron, cube, octahedron, dodecahedron, and icosahedron.  
+Acrylic shape sets and rulers cut out on a laser cutter are a useful physical product to create and distribute in bulk as we scale the Geometron network.  It costs about a dollar a shape to get them made at Ponoko.com.
 
-Also, the ArtBox is what we carry the art supplies in, and it is used both for the cardboard tool set which replicates the artbox itself and the clay and paint pen tool set which replicates all the clay elements. 
+As with everything else, the most general and simple self-replicating media is always the most powerful.  For Action Geoemtry this is just using the art supplies we carry around in ArtBox including the shape set to create physical products which people can see which point to the rest of our media.  Cardboard and paper are the two easiest physical media.  Cardboard and sharpie are already one of the most powerful forms of self-replicating media used in society by the most marginalized to communicate with a wide range of passerby.  We are building another layer of self-replicating media on this existing information channel, creating recognizable geometric patterns on cardboard with sharpie using our tool set.
+
+Making arbitrary geometric patterns on cardboard is a form of generalized game board construction.  The next section will show how we can use generic game boards to combine with generic icon tokens which can mean anything to create a general symbolic language.
+
+
+
