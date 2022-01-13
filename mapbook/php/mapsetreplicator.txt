@@ -32,7 +32,7 @@ foreach($images as $value){
 
 }
 
-echo json_encode($maps,JSON_PRETTY_PRINT);
+echo json_encode($remotemapset,JSON_PRETTY_PRINT);
     
 ?>
 </pre>

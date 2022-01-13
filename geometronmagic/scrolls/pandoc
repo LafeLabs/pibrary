@@ -17,3 +17,7 @@ pandoc actiongeometry -f markdown -t latex -o actiongeometry.tex
 pandoc iconmagic -f markdown -t latex -o iconmagic.tex
 ```
 
+
+lulu press size guide(note pocket book):
+
+[https://xpress.lulu.com/our-products](https://xpress.lulu.com/our-products)
