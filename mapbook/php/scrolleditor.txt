@@ -393,9 +393,7 @@ var httpc = new XMLHttpRequest();
                 
                                 scrolls = JSON.parse(this.responseText);
                                 mapset.scrolls = scrolls;
-                                
-                        
-                                document.getElementById("textio").value = JSON.stringify(mapset,null,"    ");
+                            
                                 savejson();
                                 
                                 

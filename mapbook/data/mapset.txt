@@ -1,8 +1,11 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/",
     "maps": [
+        "bigmap",
         "foo",
-        "home"
+        "home",
+        "medmap",
+        "smallmap"
     ],
     "images": [
         "arduino.png",
@@ -22,6 +25,7 @@
         "waterbag.png"
     ],
     "scrolls": [
+        "here",
         "home"
     ]
 }
