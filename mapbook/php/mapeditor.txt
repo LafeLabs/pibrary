@@ -937,6 +937,79 @@ var httpc = new XMLHttpRequest();
     }
 };
 
+
+mapset = {};
+
+var httpc = new XMLHttpRequest();
+    httpc.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        mapset = JSON.parse(this.responseText);
+        if(mapset.server.charAt(mapset.server.length-1) != "/"){
+            mapset.server = mapset.server + "/"; 
+        }
+        var httpc9 = new XMLHttpRequest();
+        httpc9.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+
+                maps = JSON.parse(this.responseText);
+                mapset.maps = maps;
+                
+                var httpc11 = new XMLHttpRequest();
+                httpc11.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+        
+                        images = JSON.parse(this.responseText);
+                        mapset.images = images;
+                        
+                        
+                        var httpc13 = new XMLHttpRequest();
+                        httpc13.onreadystatechange = function() {
+                            if (this.readyState == 4 && this.status == 200) {
+                
+                                scrolls = JSON.parse(this.responseText);
+                                mapset.scrolls = scrolls;
+                                
+                        
+                                document.getElementById("textio").value = JSON.stringify(mapset,null,"    ");
+                                savejson();
+                                
+                                
+                            };
+                        }
+                        
+                        httpc13.open("GET", "dir.php?filename=scrolls", true);
+                        httpc13.send();
+
+                        
+                        
+                    };
+                }
+                
+                httpc11.open("GET", "dir.php?filename=uploadimages", true);
+                httpc11.send();
+
+                
+
+            };
+        }
+        
+        httpc9.open("GET", "dir.php?filename=maps", true);
+        httpc9.send();
+        
+    }
+};
+httpc.open("GET", "fileloader.php?filename=data/mapset.txt", true);
+httpc.send();
+
+
+function savejson(){
+    var url = "filesaver.php";        
+    var httpc2 = new XMLHttpRequest();
+    httpc2.open("POST", url, true);
+    httpc2.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    httpc2.send("data="+encodeURIComponent(JSON.stringify(mapset,null,"    "))+"&filename=data/mapset.txt");//send text to filesaver.php
+}
+
 </script>
 <style>
 #iotable .button{

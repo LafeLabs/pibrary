@@ -1,0 +1,13 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/",
+    "maps": [
+        "foo",
+        "home"
+    ],
+    "images": [
+        "map1.png"
+    ],
+    "scrolls": [
+        "home"
+    ]
+}

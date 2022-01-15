@@ -15,6 +15,10 @@ pandoc geometricprogramming -f markdown -t latex -o geometricprogramming.tex
 pandoc symbolmagic -f markdown -t latex -o symbolmagic.tex
 pandoc actiongeometry -f markdown -t latex -o actiongeometry.tex
 pandoc iconmagic -f markdown -t latex -o iconmagic.tex
+pandoc fullgeometron -f markdown -t latex -o fullgeometron.tex
+pandoc actions -f markdown -t latex -o actions.tex
+pandoc path -f markdown -t latex -o path.tex
+
 ```
 
 

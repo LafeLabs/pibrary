@@ -55,11 +55,17 @@ foreach($dna->php as $value){
 }
 
 foreach($dna->maps as $value){
-    copy($baseurl."maps/".$value,"maps/".$value);
+    
+    if($value == "home"){
+        copy($baseurl."maps/".$value,"maps/".$value);
+    }
+    
 }
 
 foreach($dna->scrolls as $value){
-    copy($baseurl."scrolls/".$value,"scrolls/".$value);
+    if($value == "home"){
+        copy($baseurl."scrolls/".$value,"scrolls/".$value);
+    }
 }
 
 
