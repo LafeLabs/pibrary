@@ -5,7 +5,21 @@
         "home"
     ],
     "images": [
-        "map1.png"
+        "arduino.png",
+        "balt-wash.png",
+        "chaos8.png",
+        "earthbag.png",
+        "firebag.png",
+        "flag.png",
+        "foo.png",
+        "laurel.png",
+        "map1.png",
+        "maplelawn.png",
+        "maplelawncommercial.png",
+        "raspberrypi.png",
+        "solarpanel.png",
+        "trashrobot.png",
+        "waterbag.png"
     ],
     "scrolls": [
         "home"
