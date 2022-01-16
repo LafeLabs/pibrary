@@ -1,8 +1,12 @@
 {
     "forks": [
+        "actionmagic",
+        "arduino",
         "bookofgeometron",
+        "bookofgeometronfirst",
         "bookofscales",
         "fileset",
+        "geometronmagic",
         "gutenberg",
         "pibrary",
         "tmacb",

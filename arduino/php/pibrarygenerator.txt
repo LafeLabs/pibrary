@@ -15,7 +15,7 @@ dna.txt is a json formatted file which points to all the files in this system, w
     $forks = [];
     
     foreach($files as $value){
-        if(is_dir($value) && $value != "symbolset"&& $value != "mapset" && $value != "iconset" && $value != "imageset" && $value != "codeset" && $value[0] != "." && $value != "scrolls" && $value != "php" && $value != "data" && $value != "iconsymbols"){
+        if(is_dir($value) && $value != "symbolset"&& $value != "mapset" && $value != "mapbook" && $value != "iconset" && $value != "imageset" && $value != "codeset" && $value[0] != "." && $value != "scrolls" && $value != "php" && $value != "data" && $value != "iconsymbols"){
             array_push($forks,$value);
         }
     }

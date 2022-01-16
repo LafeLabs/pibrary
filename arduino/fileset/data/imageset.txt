@@ -1,10 +1,11 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/arduino/fileset/",
     "images": [
-        "example-jupyter.ipynb",
+        "arduino-shield-xyz-stepper-v2.brd",
+        "arduino-shield-xyz-stepper-v2.sch",
+        "spietz-library.lbr",
         "unoshield-v5-bom.xlsx",
         "unoshield-v5.brd",
-        "unoshield-v5.sch",
-        "unoshield.png"
+        "unoshield-v5.sch"
     ]
 }

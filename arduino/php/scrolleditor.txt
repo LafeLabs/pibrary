@@ -363,6 +363,42 @@ document.getElementById("menubutton").onclick = function(){
     }
 }
 
+
+scrollset = {};
+
+var httpc = new XMLHttpRequest();
+    httpc.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        scrollset = JSON.parse(this.responseText);
+        if(scrollset.server.charAt(scrollset.server.length-1) != "/"){
+            scrollset.server = scrollset.server + "/"; 
+        }
+        var httpc9 = new XMLHttpRequest();
+        httpc9.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+
+                scrolls = JSON.parse(this.responseText);
+                scrollset.scrolls = scrolls;
+                savejson();
+
+            };
+        }
+        
+        httpc9.open("GET", "dir.php?filename=scrolls", true);
+        httpc9.send();
+        
+    }
+};
+httpc.open("GET", "fileloader.php?filename=data/scrollset.txt", true);
+httpc.send();
+
+function savejson(){
+    var url = "filesaver.php";        
+    var httpc2 = new XMLHttpRequest();
+    httpc2.open("POST", url, true);
+    httpc2.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    httpc2.send("data="+encodeURIComponent(JSON.stringify(scrollset,null,"    "))+"&filename=data/scrollset.txt");//send text to filesaver.php
+}
 </script>
 <style>
 #prototype{

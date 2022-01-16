@@ -1,11 +1,10 @@
 ## [home](scrolls/home)
 
-# [THE BOOK OF PIBRARY](https://www.pibrary.org)
+# [Pibrary](https://github.com/LafeLabs/pibrary)
 
-## Created by [Trash Robot](http://trashrobot.org/)
+by [trash robot](https://www.trashrobot.org)
 
 The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.    
-
 
 [replicator.txt global link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
 
@@ -153,3 +152,4 @@ sudo pip3 install --upgrade pip
 reboot
 sudo pip3 install jupyter
 ```
+
