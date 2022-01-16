@@ -1,6 +1,7 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/arduino/",
     "scrolls": [
+        "boards",
         "class1blink",
         "class2blink",
         "class3buttonsknobs",
