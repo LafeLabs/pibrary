@@ -1,7 +1,6 @@
 ## [home](scrolls/home)
 
-
-# Pibrary
+# [Pibrary](https://github.com/LafeLabs/pibrary)
 
 by [trash robot](https://www.trashrobot.org)
 
