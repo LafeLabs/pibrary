@@ -1,8 +1,4 @@
-click the eight arrows of chaos to enter the Map Book:
-
-[![](https://i.imgur.com/punvNNF.png)](mapbook/)
-
-# PIBRARY
+# [PIBRARY](https://github.com/LafeLabs/pibrary/blob/main/README.md)
 
 The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.    
 
@@ -12,11 +8,11 @@ Books written by [TRASH ROBOT](https://www.trashrobot.org) are PUBLIC DOMAIN wit
 
 This is a library of books created by Trash Robot:
 
- - [Book of Geometron 2: Magic](geometronmagic/)
+ - [Geometron Magic](geometronmagic/)
  - [Trash Magic Manifesto .pdf](https://lafelabs.github.io/Trash_Magic_Manifesto.pdf)
  - [Trash Magic Action Coloring Book](tmacb/)
- - [Book of Geometron First Edition pibrary format](bookofgeometronfirst/)
- - [Book of Geometron First Edition letter size .pdf](https://github.com/LafeLabs/bookofgeometron/raw/main/main-bigpaper.pdf)
- - [Book of Geometron first edition hard copy purchase](https://www.lulu.com/en/us/shop/lafe-spietz/geometron/paperback/product-qqk98g.html)
+ - [First Book of Geometron pibrary format](bookofgeometronfirst/)
+ - [First Book of Geometron letter size .pdf](https://github.com/LafeLabs/bookofgeometron/raw/main/main-bigpaper.pdf)
+ - [First Book of Geometron bound copy purchase](https://www.lulu.com/en/us/shop/lafe-spietz/geometron/paperback/product-qqk98g.html)
  - [Map Book](mapbook/)
 
