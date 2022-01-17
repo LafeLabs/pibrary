@@ -1,0 +1,18 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/",
+    "images": [
+        "306090.png",
+        "chaos.png",
+        "chaosconstruction.png",
+        "equilateral.png",
+        "goldengnomon.png",
+        "goldentriangle.png",
+        "hexagram.png",
+        "hexboard.png",
+        "isoc120.png",
+        "isocright.png",
+        "pentagram.png",
+        "ruler.png",
+        "square.png"
+    ]
+}

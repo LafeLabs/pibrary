@@ -3,6 +3,7 @@
 
 # pandoc
 
+do not forget to remove the unused links back to home
 
 ```
 pandoc magic -f markdown -t latex -o magic.tex
