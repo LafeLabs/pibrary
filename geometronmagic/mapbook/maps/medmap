@@ -1,0 +1,35 @@
+[
+    {
+        "x": 0.02413793103448276,
+        "y": -0.016091954022988506,
+        "w": 0.9781609195402299,
+        "h": 1.0206896551724138,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/laurel.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.41724137931034483,
+        "y": 0.43103448275862066,
+        "w": 0.11149425287356322,
+        "h": 0.11149425287356322,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/smallmap",
+        "src": "https://i.imgur.com/punvNNF.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.01954022988505747,
+        "y": 0.006896551724137931,
+        "w": 0.11149425287356322,
+        "h": 0.11149425287356322,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "iconsymbols/home.svg",
+        "maplinkmode": true
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "x": -0.08505747126436781,
+        "y": -0.19540229885057472,
+        "w": 1.067816091954023,
+        "h": 1.067816091954023,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "https://i.imgur.com/Qg40z9U.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.2103448275862069,
+        "y": 0.1793103448275862,
+        "w": 0.15747126436781608,
+        "h": 0.15747126436781608,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.6896551724137931,
+        "y": 0.1528735632183908,
+        "w": 0.15747126436781608,
+        "h": 0.18850574712643678,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.167816091954023,
+        "y": 0.7758620689655172,
+        "w": 0.15747126436781608,
+        "h": 0.18850574712643678,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.6931034482758621,
+        "y": 0.6632183908045977,
+        "w": 0.15747126436781608,
+        "h": 0.18850574712643678,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.4632183908045977,
+        "y": 0.03103448275862069,
+        "w": 0.15747126436781608,
+        "h": 0.19655172413793104,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/waterbag.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.8103448275862069,
+        "y": 0.4425287356321839,
+        "w": 0.15747126436781608,
+        "h": 0.15402298850574714,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/trashrobot.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.07931034482758621,
+        "y": 0.49770114942528737,
+        "w": 0.15747126436781608,
+        "h": 0.18045977011494252,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/raspberrypi.png",
+        "maplinkmode": false
+    },
+    {
+        "x": -0.009195402298850575,
+        "y": 0,
+        "w": 0.19195402298850575,
+        "h": 0.19195402298850575,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "iconsymbols/home.svg",
+        "maplinkmode": true
+    }
+]

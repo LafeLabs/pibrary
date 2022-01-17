@@ -1,0 +1,31 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/mapbook/",
+    "maps": [
+        "bigmap",
+        "foo",
+        "home",
+        "medmap",
+        "smallmap"
+    ],
+    "images": [
+        "arduino.png",
+        "balt-wash.png",
+        "chaos8.png",
+        "earthbag.png",
+        "firebag.png",
+        "flag.png",
+        "foo.png",
+        "laurel.png",
+        "map1.png",
+        "maplelawn.png",
+        "maplelawncommercial.png",
+        "raspberrypi.png",
+        "solarpanel.png",
+        "trashrobot.png",
+        "waterbag.png"
+    ],
+    "scrolls": [
+        "here",
+        "home"
+    ]
+}

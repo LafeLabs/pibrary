@@ -1,0 +1,46 @@
+[
+    {
+        "x": -0.08735632183908046,
+        "y": 0.047126436781609195,
+        "w": 1.1436781609195403,
+        "h": 1.1436781609195403,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/maplelawncommercial.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.2988505747126437,
+        "y": 0.3448275862068966,
+        "w": 0.12758620689655173,
+        "h": 0.12758620689655173,
+        "angle": 0,
+        "text": "text",
+        "href": "../geometronmagic/",
+        "src": "https://i.imgur.com/punvNNF.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.013793103448275862,
+        "y": 0.04482758620689655,
+        "w": 0.12758620689655173,
+        "h": 0.12758620689655173,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "iconsymbols/home.svg",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.39655172413793105,
+        "y": 0.3390804597701149,
+        "w": 0.06091954022988506,
+        "h": 0.06091954022988506,
+        "angle": 0,
+        "text": "text",
+        "href": "scrolls/here",
+        "src": "iconsymbols/scroll.svg",
+        "maplinkmode": true
+    }
+]

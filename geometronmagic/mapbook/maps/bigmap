@@ -1,0 +1,35 @@
+[
+    {
+        "x": -0.12183908045977011,
+        "y": -0.020689655172413793,
+        "w": 1.1781609195402298,
+        "h": 1.0011494252873563,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/balt-wash.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.49310344827586206,
+        "y": 0.34367816091954023,
+        "w": 0.10689655172413794,
+        "h": 0.10689655172413794,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/medmap",
+        "src": "uploadimages/chaos8.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.014942528735632184,
+        "y": 0.006896551724137931,
+        "w": 0.10689655172413794,
+        "h": 0.10689655172413794,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "iconsymbols/home.svg",
+        "maplinkmode": true
+    }
+]
