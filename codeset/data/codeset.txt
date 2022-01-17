@@ -1,5 +1,5 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/codeserver/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/",
     "code": [
         "ace.html",
         "aspectratio.css",
