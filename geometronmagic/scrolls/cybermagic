@@ -3,8 +3,7 @@
 
 # Cybermagic
 
-
-We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic".
+Cybermagic refers to sets of computer files which include scripts to replicate the whole set as well as both documents on *how* to replicate the set and also on *why* we want to replicate it.  We use the term "magic" here to mean sets of things which include the *desire* to replicate the set.  The files and hardware themselves never warrant the term "magic".  We apply that term only to refer to the property which makes people actually have the desire to choose to replicate the set.  It is this human intention which animates technology, and that is what we call "magic". 
 
 Cybermagic is self-replicating code which can all be replicated freely from one Geometron server to the next entirely from the Web Browser.  We do not "install" software.  We use only code which can be run from a browser without ever logging into a server.  To make a self-replicating set of computer programs we have some scripts which copy all the other ones, some files which load, save and delete files, and some which catalog them.   This set of files can combine with any other set of files, and together can build self-replicating sets of files, where the *entire* set is managed from a Web Browser over the network without ever logging into the server.   
 
