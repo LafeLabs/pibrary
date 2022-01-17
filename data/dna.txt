@@ -28,6 +28,7 @@
         "hyperreplicator.txt",
         "ipaddress.txt",
         "mapeditor.txt",
+        "mathuser.txt",
         "mkdir.txt",
         "pibrarygenerator.txt",
         "pibraryreplicator.txt",
@@ -43,6 +44,8 @@
     ],
     "scrolls": [
         "home",
+        "links",
+        "replicators",
         "trashrobotlibrary"
     ],
     "iconsymbols": [
