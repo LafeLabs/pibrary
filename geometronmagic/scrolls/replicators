@@ -12,6 +12,7 @@
  - [imageset/replicator.php](imageset/replicator.php)
  - [mapbook/replicator.php](mapbook/replicator.php)
  - [symbolset/replicator.php](symbolset/replicator.php)
+ - [copy geometron magic image set](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/imageset/data/imageset.txt&to=imageset/data/imageset.txt)
  - [map book replicator global url](https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt)
  - [convert this replicator to mapbook](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt&to=replicator.php)
  - [php/replicator.txt](php/replicator.txt)
