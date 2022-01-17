@@ -7,6 +7,7 @@
         "icon3d.html",
         "index.html",
         "programarduino.html",
+        "programarduinoxyz.html",
         "qrcode.html",
         "readme.html",
         "scrolleditor.html",
@@ -19,6 +20,7 @@
     "data": [
         "alignimage.txt",
         "arduinocode.txt",
+        "arduinocodexyz.txt",
         "coin.txt",
         "dna.txt",
         "glyph3d.txt",

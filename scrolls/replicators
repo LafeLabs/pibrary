@@ -1,7 +1,7 @@
 
 ## [HOME](scrolls/home)
 
-# replicatorshttp://localhost/user.php?scroll=scrolls/replicators
+# replicators
   
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [pibraryreplicator.php](pibraryreplicator.php)
@@ -15,5 +15,5 @@
  - [map book replicator global url](https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt)
  - [convert this replicator to mapbook](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt&to=replicator.php)
  - [php/replicator.txt](php/replicator.txt)
- - [replicator.php](replicator.php)
- - [scroll set](scrollset.html)
+ - [cybermagic minimal replicator](https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/cybermagicminimal/php/replicator.txt)
+ - [create voxel fork with proper replicator](mkdir.php?dir=voxel&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/voxel/php/replicator.txt)

@@ -1,0 +1,27 @@
+{
+    "html": [
+        "README.md",
+        "index.html",
+        "shapes3d.html",
+        "shapes3dsymbols.html",
+        "three.html",
+        "threejs.html"
+    ],
+    "javascript": [
+        "geometron.js"
+    ],
+    "iconsymbols": [],
+    "data": [
+        "dna.txt",
+        "glyph3d.txt",
+        "hypercube.txt"
+    ],
+    "php": [
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "replicator.txt",
+        "text2php.txt"
+    ]
+}
