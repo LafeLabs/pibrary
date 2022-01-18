@@ -3,116 +3,74 @@
 
 # Action Geometry
 
-In the geometry we learn in school, constructions are through "classical construction", using only the compass and straight edge(without markings, not a ruler).  This represents a method of construction which teaches ideas about geometry but is unlikely to be of practical use.  Conversely, in most practical situations, geometry is generally done using numbers and algebraic equations acting on numbers to describe shapes(analytic geometry).  This makes sense for computer technology and robotics controlled by computers.  In a purely number-driven system, the ability to describe a shape with numbers of inches or degrees is all you need and the machine can go to any coordinate in its available range and precision.  
-
 Action Geometry is a method of geometric construction which uses sets of standard shapes and constructions designed to physically replicate themselves using practical physical media.  We can make these shapes from acrylic, plastics of all kinds, thin cardboard, thick cardboard, wood, paper or stone.  We design constructions which can be replicated based on a sequence of tracing actions using these shapes, and then since we can replicate the shapes and also use them to replicate the construction, we have a fully self-replicating system.  This set of shapes is indented to be as practical and universal as possible.  
+
+This is in direct contrast to the two dominant systems of geometric construction, which are classical constructions and analytic geometry.  In classical construction all constructions are done using *only* a compass and straight edge.  This straight edge is *not* a ruler, it is simply a straight object which is used for drawing lines, and all measuring is done with the compass.  In school this is sometimes used along with the protractor and the 30-60-90 right triangle, but it is mostly with the artificially difficult system of just the two tools.   The main purpose of these constructions is "mathematics education", totally disconnected from building practical objects.  Analytic geometry consists of geometric construction using numbers and equations which describe numbers.  It is the dominant method used by most computer systems, including our system under the hood.  
+
+These methods of either "pure" geometry or numbers-driven geometry are intended to be as general as possible.  Generality is not our goal, however.  In all the work here our goal is *replication*.  We want to construct things from the most readily available materials which are as easy as possible to replicate.  And of course we always want to be focusing on working with trash. 
+
+Action Geometry is a system of fabrication from flat trash items, starting with cardboard and plastic.  It is also a set of products, the shapes, which can be replicated again and again from any flat and stiff material.  We make these shapes from laser cut acrylic, and they can form an attractive and practical "product" for free distribution and sales for donation to promote and expand our system.  We can also construct them using classical geometry and cut them out and trace them to replicate them.  We create the patterns for the laser cut shapes using the geometric programming in the web browser we use for all two dimensional design in Geometron.  
+
+Having made the shape set, the next thing we make is the ArtBox, which is a cardboard carrying case for the tools used to make things from cardboard.  The box is itself self-replicating in that it contains the tools used to make another box.  Along with a series of rolls of duct tape and cut and taped sections of clothesline, this forms our geometric trash factory which can make arbitrary useful things from cardboard, plastic, and duct tape.  The exact patterns and instructions for all this are covered in the First Book of Geometron and are really best transmitted through in person hands on learning.  
+
+The primary product of all this, the one we make the most of immediately, is cardboard with geometric patterns on it as a form of media.  These patterns can be thought of as both advertisements for the Geometron open(no property) brand.  They can also be thought of as part of a generalized game board which is integrated into physical spaces as part of mixed reality games we construct using the Map Book in the Pibrary.
 
 The shapes include a 6 inch by 1 inch ruler, a three inch square, a three inch equilateral triangle, an isosceles 120 degree triangle with a three inch base, a 30-60-90 triangle with a three inch long leg, a Golden Triangle with a 3 inch leg, and a Golden Gnomon with a three inch base.
 
-This set can all be generated in the web browser using the symbol magic system, which can save the SVG files which can print from a laser cutter. This is how we can create self-replicating artifacts from trash in a web browser: design shapes in the browser, save to SVG, and either print on a printer, cut out and laminate or print on a laser cutter, then those are used for construction on trash with a marker, a box cutter and duct tape.
+This set can all be generated in the web browser using the symbol magic system, which can save the SVG files which can print from a laser cutter. This is how we can create self-replicating artifacts from trash in a web browser: design shapes in the browser, save to SVG, and either print on a printer, cut out and laminate or print on a laser cutter, then those are used for construction on trash with a marker, a box cutter and duct tape.  Acrylic shape sets and rulers cut out on a laser cutter are a useful physical product to create and distribute in bulk as we scale the Geometron network.  It costs about a dollar a shape to get them made at Ponoko.com.
 
-This is getting closer and close to our ideal for trash magic of self-replicating media which includes trash.  We are constantly working to close loops of media replication.  For example, we can make cardboard signs with sharpies and Action Geometry constructions which advertise web pages which have scrolls and symbol sets which describe the constructions, which replicate to more cardboard signs which replicate to web pages and so on, creating a loop between cardboard signs with geometry and self-replicating web-based graphics. 
-
-All the shapes can also be constructed using Classical Geometry, or numerical layout with an art or engineering program or a protractor and ruler.  
 
 
 ![](imageset/uploadimages/equilateral.png)
+The first shape is the equilateral triangle with a three inch side.  Drawn lines are along a 60 degree angle at the half way marks.
+
 ![](imageset/uploadimages/square.png)
+The second set is a three inch square, with lines showing factors of two down from three inches.  Just having factors of two from some unit with right angles can be used to make an infinite number of constructions which are easy to repeat.  The shape can be used to make another one just like it and each one can be used to replicate arbitrary patterns.
+
 ![](imageset/uploadimages/isocright.png)
+The isosceles right triangle is a common tool in drafting and school geometry and is also one of our most useful tools.  What makes our shape distinct from the ones you buy in a store is the square root of two based fractal lines.  These are useful for scaling objects by the square root of two, just as we do in the geometric programming in the web browser.
+
 ![](imageset/uploadimages/isoc120.png)
+The isosceles 120 degree triangle is another part of our decomposition of the hexagon and all of its geometric elements.  This contains scaling lines for the square root of three.  The long edge is three inches.  This makes it possible to use this with the equilateral triangle to very quickly draw all parts of a hexagon.
+
 ![](imageset/uploadimages/306090.png)
+The 30 60 90 right triangle has a three inch leg on the long leg. That makes the short leg three inches over the square root of three, and the hypotenuse equal to double the length of the short leg.  Again, this has the square root of three scaling for convenient decomposition of all geometry related to hexagons or sixfold symmetry.
+
 ![](imageset/uploadimages/goldentriangle.png)
+The Golden Triangle is an isosceles triangle where the legs are each three inches and the base is three inches divided by the golden ratio.  The Golden Ratio is fundamental to the structure of anything with fivefold symmetry.  It is how we get from a pentagon to a pentagram.  It is the basis also of all the fantastically complex and beautiful fivefold tiling patterns which can be created with Penrose tiles, and are also present in Islamic geometry patterns.  The Golden Ratio is believed to have all sort of wildly exaggerated properties, but it is very useful and can make attractive things quickly.  The Golden Ratio is represented by the fractal lines drawn on this triangle.  The angles are 36 and 72 degrees.
+
 ![](imageset/uploadimages/goldengnomon.png)
+The Golden Gnomon is the other isosceles triangle made from the Golden Ratio, this time with the base being three inches long and the two legs being three inches divided by the Golden Ratio.  This combined with the Golden Triangle can make pentagons and pentagrams very easily and quickly just as the other triangles do with hexagons.
+
 ![](imageset/uploadimages/ruler.png)
-![](imageset/uploadimages/pentagram.png)
-![](imageset/uploadimages/hexboard.png)
+The ruler design we use is a little bit different from most commercial rulers.  It is one inch wide and six inches long, and has factors of two on one side and tenths on the other for maximum versatility.  
+
+![](imageset/uploadimages/artbox.png)
+The ArtBox is folded up from 6 inch triangles as shown.
+
+These shapes are all printed out on a laser cutter, cut out of cardboard, or cut and laminated from paper, and then carried around in the ArtBox along with a box cutter, sharpies of various colors, and a pair of scissors.  We start making all our cardboard things with making this thing and teaching other to replicate it.
+
+![](imageset/uploadimages/pentagram.png) 
+A fractal pentagram colored in.
+
+The pentagram and pentagon are beautiful, and very distinct when drawn with tools versus freehand.  A cardboard sign with a fractal pentagram colored in with colored markers is a powerful self-replicating symbol which can be used to spread our memes in the world.  We use it to spread our system initially just spreading the domain which points to the main Pibrary of Trash Robot at www.trashrobot.org.  These can be made in large numbers with cardboard trash we find on the street or in dumpsters, and can be placed in public spaces as part of our complex mixed reality social media for gaming and community building.  These are also boards on which we can place the pieces discussed in the Icon Magic chapter.
+
 ![](imageset/uploadimages/hexagram.png)
-![](imageset/uploadimages/chaosconstruction.png)
+A hexagram colored in.
+
+The hexagram is another beautiful and simple shape which can be drawn easily with our tool set but which is hard to draw well freehand.  Again, this is used as an open brand, a sign to draw people in and promote our network, and a generic board for placing other symbols.
+
+
+![](imageset/uploadimages/hexboard.png)
+The hex board is a generic game board which can be used for placing generic icon pieces as documented in the next chapter.  This can be used as a space for generalized organization of thought.  Construct with the equilateral triangle.
+
 ![](imageset/uploadimages/chaos.png)
+The eight arrows of chaos represents the idea of self-replication in the abstract.  This is the symbol on the cover of this book, and when combined with the replicated and rotated pairs of two circles represents Geometron Magic, this book and its contents.
 
+![](imageset/uploadimages/chaosconstruction.png)
+The construction of the Geometron Magic symbol.  Each circle has diameter of three inches.  Centers of circles are all 3/4 inches out from center.  Arrows are drawn with the Golden Triangle.  Use a compass, an optional tool of the ArtBox, or a drink lid and create a shape set to match its size.
 
-
-Examples of the  shapes are as follows:
-
-### Equilateral Triangle
-
-![](shapeset/symbolfeed/equilateral.svg)
-
-### Laser cut acrylic shape:
-
-![](https://i.imgur.com/BtOx3D1.jpg)
-
-
-This can be constructed from three intersecting circles:
-
-![](shapeset/symbolfeed/equilateralconsctructioncircles.svg)
- 
-And the inner triangles constructed by dropping perpendicular segments from each corner to each side:
-
-![](shapeset/symbolfeed/equilateralconsctruction.svg)
-
-The square:
-
-![](shapeset/symbolfeed/square.svg)
-
-### Laser cut acrylic shape:
-
-![](https://i.imgur.com/oCXWSGN.jpg)
-
-A Square can be made from equilateral triangles as follows:
-
-![](shapeset/symbolfeed/squareconstruction.svg)
-
-A square can be cut diagonally by drawing a straight line between opposite corners. This makes an isosceles right triangle, which has two 45 degree angles, a 90 degree angle, and a square root of two ratio between the legs and the base.  One of these triangles can be used repeatedly to fill in more and more triangles on another one, filling in a fractal of 45 degree lines, which decrease repeatedly by a factor of the square root of two as they go down:
-
-![](shapeset/symbolfeed/isocright.svg)
-
-### Laser cut acrylic shape:
-
-![](https://i.imgur.com/Tp6xtV6.jpg)
-
-This is how we construct the isosceles 120 degree triangle from the equilateral triangle:
-
-![](shapeset/symbolfeed/isoc120consctruction.svg)
-
-With that triangle as a source of a 30 degree angle and the square as a 90 degree angle the 30 60 90 right triangle can be constructed from any segment of unit length(including the side of an equilateral triangle):
-
-![](shapeset/symbolfeed/306090construction.svg)
-
-![](shapeset/symbolfeed/isoc120.svg)
-![](shapeset/symbolfeed/30-60-90.svg)
-
-### Laser cut acrylic shapes:
-
-![](https://i.imgur.com/vkUCCZP.jpg)
-
-This is how one constructs the Golden Gnomon from the square:
-
-![](shapeset/symbolfeed/goldenrectangleconstruction.svg)
-
-![](shapeset/symbolfeed/goldentriangle.svg)
-![](shapeset/symbolfeed/goldengnomon.svg)
-
-### Laser cut acrylic shapes:
-
-![](https://i.imgur.com/TD5Sqs6.jpg)
-
-This set of shapes is self-replicating.  The set taken together can be used to make another set like it from paper, cardboard, or any other material we can cut and draw on.  It can also be inflated and deflated, using the shapes and straight edges to make larger or smaller copies of the whole set with the "unit" having any scale.  This document is part of the larger self-replicating set that is this book.  The electronic files which are used to make laser cut shapes or printed and cut out shapes are replicated using the symbol set replicator as with everything else in Geometron.  The links below are used to create the relevant directory for the set, to replicate the symbol set server into that directory, to copy the data which points from the set on Github, and finally to go to the set replicator page which will replicate the shape set.  From there you can load any shape into the symbol editor, edit it, and save it to download and print on paper or with a laser cutter. 
-
- - [shapeset/ geometron symbol set](shapeset/)
- - [create shape set](mkdir.php?dir=shapeset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt)
- - [copy shape set JSON](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/shapeset/data/symbolset.txt&to=shapeset/data/symbolset.txt)
- - [shapeset/symbolset.html](shapeset/symbolset.html)
-
-So this is a set of self-replicating sets, all of which are used to create self-replicating geometric constructions out of trash.  
-
-The shape set can be used to construct the ArtBox, which is a box made from trash used to carry around sets of art supplies which are used to replicate other sets of things made from trash.  The details of this kind of Action Geometry construction of self-replicating sets are described in the First Book of Geoemtron, and include building structures out of 6 foot bamboo poles and a system of hooks to carry things from them, along with various cloth artifacts for the system.
 
 We also use Action Geometry to make textile crafts, including wearable crafts like shirts and pants and hats which also form self-replicating media, as they are constructed with the tools of Action Geometry and cut out of trash clothing, making lines of clothing which are themselves self-replicating media made out of trash.
 
-Acrylic shape sets and rulers cut out on a laser cutter are a useful physical product to create and distribute in bulk as we scale the Geometron network.  It costs about a dollar a shape to get them made at Ponoko.com.
-
-As with everything else, the most general and simple self-replicating media is always the most powerful.  For Action Geoemtry this is just using the art supplies we carry around in ArtBox including the shape set to create physical products which people can see which point to the rest of our media.  Cardboard and paper are the two easiest physical media.  Cardboard and sharpie are already one of the most powerful forms of self-replicating media used in society by the most marginalized to communicate with a wide range of passerby.  We are building another layer of self-replicating media on this existing information channel, creating recognizable geometric patterns on cardboard with sharpie using our tool set.  Since this is using an existing flow of cardboard trash and sharpie, if we can create self-replicating geometric constructions on these existing cardboard trash pieces(flying signs), we can create a whole feed of self-replicating media out on the physical street which is outside the property system.  All these signs point to domains which host all the documents in our system which points back to replication of the whole thing.
-
 Making self-replicating geometric art on cardboard is also a soothing ritual, a form of art anyone can do anytime anywhere for any purpose.  The creation of a ritual like this helps to spread our culture and civilization.  Many geometric constructions on cardboard spreading along the streets of the world form a global-sized game board on which game tokens can be placed.  These tokens will be discussed in the Icon Magic chapter.  Complex networks of interlinked maps and text documents  integrate the physical street and its media with our digital self-replicating media.  The Path of Geometron, described in a later chapter, tells how we will build these Street Books using the Map Book format, on our Geometron Magic book tour.
-
