@@ -5,6 +5,7 @@
         "fork.html",
         "globalimagefeed.html",
         "icon3d.html",
+        "icon64.html",
         "index.html",
         "programarduino.html",
         "programarduinoxyz.html",
