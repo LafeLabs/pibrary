@@ -2,6 +2,12 @@
 
 # Book of Arduino
 
+ - blink
+ - shields
+ - motors
+ - sensors
+ - neopixels
+ - printer robots
  - [replicators](scrolls/replicators)
  - [symbol set](symbolset/)
  - [icon set](iconset/)
