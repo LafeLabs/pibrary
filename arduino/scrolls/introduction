@@ -1,0 +1,16 @@
+
+## [HOME](scrolls/home)
+
+# What is Arduino?
+
+ - [wikipedia page](https://en.wikipedia.org/wiki/Arduino)
+ 
+Arduino is an open source hardware platform.  It describes a whole range of products from a whole range of companies which can all be programmed from any computer(mac, windows or Linux) using free software.  There are many versions, but the most basic is the Uno, which is a circuit board about the size of a small deck of cards, costing about 10-20 dollars, which can be connected to a computer by way of a standard USB printer cable.  It has rows of sockets to plug wires into or extensions called "shields" which are designed to augment the Arduino.  
+
+These pins can be programmed to do pretty much any physical thing, both input and output.  We can use the Arduino to measure things like temperature, pressure, light, sound, magnetic field or motion.  We can use it to control motors both large and small, lights, sound, valves, pumps or any other mechanical or electrical device. They can control dozens of different complex things, and connect them all together.  
+
+The software is designed to be as simple as possible.  Programs can be copy/pasted from online tutorials without understanding them, making it possible to create a wide range of practical devices without actually learning the code.  They all consist of two basic functions: one which runs when you turn the board on and one which runs in a loop forever after the setup.  That's all!  This is not a computer with an operating system, just a device which does some task over and over until you turn it off. That said, it is a full programming language which can be used to do complex tasks like calculations or complex responses to different inputs.  
+
+We use the Arduino in Trash Magic, Trash Factories, Geometron etc as the generic driver for all hardware.  We use it to drive all robots, all fabrication machines, light displays, or any motorized device with any kind of control(speed control, control panel, or any other mechanism).  We use it as the sensor platform for all of our environmental monitoring of air, water and soil. We use it for all our systems for interfacing with the human body including things like control panels and knobs or any other novel control device.  In our path to Trash Magic, we will replace the Arduino with an all-trash-based version.  This can be a gradual process where we start by using reprogrammed microprocessors extracted from old electronics and end up building our own replacements from the ground up with our own fabrication methods.
+
+The core elements you need to learn to use this technology are buttons, knobs, motor control for various kinds of motors, control of blinking lights, and reading of sensors. This book, the Book of Arduino, is a Pibrary book which documents all these parts, has a repository of example code to copy paste for most applications, and tells how to build some specific things we use in our system. 

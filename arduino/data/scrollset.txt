@@ -11,7 +11,10 @@
         "class7github",
         "class8finalprojects",
         "home",
+        "introduction",
         "links",
+        "motors",
+        "raspberrypi",
         "replicators",
         "trashrobotlibrary"
     ]

@@ -2,13 +2,14 @@
 
 # Book of Arduino
 
- - what is arduino?
+ - [what is arduino?](scrolls/introduction)
  - blink
  - shields
  - motors
  - sensors
  - neopixels
  - printer robots
+ - [install on raspberry pi](scrolls/raspberrypi)
  - [replicators](scrolls/replicators)
  - [symbol set](symbolset/)
  - [icon set](iconset/)
