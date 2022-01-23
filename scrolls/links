@@ -10,6 +10,12 @@
  - [pibraryreplicator.php](pibraryreplicator.php)
  - [pibrarygenerator.php](pibrarygenerator.php)
  - [editor.php](editor.php)
+ - [symbolset/](symbolset/)
+ - [fileset/](fileset/)
+ - [iconset/](iconset/)
+ - [imageset/](imageset/)
+ - [mapbook/](mapbook/)
+ - [voxel/](voxel/)
  
 
 # Other library links
