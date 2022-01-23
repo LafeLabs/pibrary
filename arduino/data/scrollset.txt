@@ -2,6 +2,7 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/arduino/",
     "scrolls": [
         "boards",
+        "chaospixels",
         "class1blink",
         "class2blink",
         "class3buttonsknobs",
@@ -14,6 +15,8 @@
         "introduction",
         "links",
         "motors",
+        "openarduino",
+        "parts",
         "raspberrypi",
         "replicators",
         "trashrobotlibrary"
