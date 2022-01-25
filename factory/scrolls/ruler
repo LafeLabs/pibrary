@@ -1,10 +1,34 @@
 
 ## [HOME](scrolls/home)
 
-# ruler
- 
+# Geometron Ruler
+
+The Geometron Ruler is one inch by six inches. One side has tenths and the other halves, quarters and eights. The highest quality rulers are made from quarter inch neon green acrylic with a laser cutter.  Any ruler can be used to make more rulers.  Cereal box cardboard is a good material.  Find a maker space with a laser cutter.  Dig through the waste bin to find extra acrylic.  Place the outlines and etch and make rulers.  Give them away and spread the word of Geometron, Trash Magic, Trash Robot and so on.  Also you can use Ponoko.com to get large numbers of rulers made and can sell those if you so choose.  All of this work is in the PUBLIC DOMAIN with no restrictions whatsoever, so you are free to remix this and brand it for whatever you're dong, and sell or give away the branded rulers.  No payments are ever asked for this, no agreements, no contracts, just copy and use as you wish.  
+
+Using Ponoko.com is only cost effective if you have a budget of over 1000 dollars, then the cost per ruler can drop to about a dollar and a half.  Also, Ponoko only has eight inch acrylic and quarter inch is the nicest.  
+
+
+Ruler Outline SVG file:
+
+[![](rulerimageset/uploadimages/ruleroutline.svg)](rulerimageset/uploadimages/ruleroutline.svg)
+
+Ruler Etch pattern PNG file:  
+
+[![](rulerimageset/uploadimages/ruleretch.png)](rulerimageset/uploadimages/ruleretch.png)
+
+Ruler 2 color SVG file for Ponoko.com:
+
+[![](rulerimageset/uploadimages/ruler2color.svg)](rulerimageset/uploadimages/ruler2color.svg)
+
+Set of 8 rulers in one SVG file for Ponoko.com:
+
+[![](rulerimageset/uploadimages/rulers8.svg)](rulerimageset/uploadimages/rulers8.svg)
+
+ - [rulerimageset/](rulerimageset/)
  - photograph of acrylic ruler
  - copy the global link for the image set to the local image set
+ - [imageset/](imageset/)
+ - [imageset/replicator.php](imageset/replicator.php)
  - link to ponoko
  - svg with 2 colors
  - svg of outline

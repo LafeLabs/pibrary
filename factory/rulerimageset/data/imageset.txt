@@ -1,6 +1,9 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/",
     "images": [
-        "foo.png"
+        "ruler2color.svg",
+        "ruleretch.png",
+        "ruleroutline.svg",
+        "rulers8.svg"
     ]
 }
