@@ -4,6 +4,7 @@
         "ruler2color.svg",
         "ruleretch.png",
         "ruleroutline.svg",
-        "rulers8.svg"
+        "rulers8.svg",
+        "rulersphoto.jpg"
     ]
 }

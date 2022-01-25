@@ -1,0 +1,10 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidscode/",
+    "code": [
+        "chaos.ino",
+        "gyratorxy.ino",
+        "gyratorz.ino",
+        "index.html",
+        "speedcontrol.ino"
+    ]
+}

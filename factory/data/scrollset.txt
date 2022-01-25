@@ -3,6 +3,7 @@
     "scrolls": [
         "home",
         "links",
+        "pyramids",
         "ruler"
     ]
 }

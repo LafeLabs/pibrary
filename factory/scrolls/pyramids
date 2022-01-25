@@ -1,0 +1,56 @@
+
+## [HOME](scrolls/home)
+
+# pyramids
+ 
+## bill of materials
+
+ - cardboard trash
+ - plastic milk bottle trash
+ - big steel nuts 
+ - big DC brushed motor from old broken computer printer
+ - black duct tape
+ - pink duct tape
+ - geometry tools: golden triangle, ruler, square, triangle, box cutter, sharpies
+ - clothesline
+ - big dual conductor power cord
+ - 12 volt wall power supply with barrel connectors
+ - barrel power connectors
+ - Arduino UNO
+ - LIS3DH accleration sensor
+ - Motor controller board
+ - male/female pin/socket jumper wires
+ - breadboard jumper kit
+ - soldering iron, solder
+ - random male headers
+ - solderless breadboard
+
+## Shapes
+
+ - Golden Triangle with 3 inch base
+ - Trapezoid with 6 inch base, 3 inch top, 72 degrees in bottom angles and 108 degrees in top
+ - 6 inch square
+ - 3 inch square
+ - 1.5 inch square
+ - trapezoid with 3 inch bottom, 1.5 inch top, 60 degrees and 120 degrees
+
+
+## Constructions
+
+ - vibrating pyramid with plastic arch top
+ - control pyramid base
+ - control pyramid capstone
+ - weight assembly on motor
+
+## Code
+
+ - gyratorxy
+ - gyratorz
+ - speedcontrol
+ - chaos
+
+## Replicators
+
+ - code set
+ - image set
+ - scroll
