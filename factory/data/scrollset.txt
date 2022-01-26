@@ -1,9 +1,11 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/",
     "scrolls": [
+        "artbox",
         "home",
         "links",
         "pyramids",
-        "ruler"
+        "ruler",
+        "solarpower"
     ]
 }

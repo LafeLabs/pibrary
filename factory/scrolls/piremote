@@ -1,0 +1,18 @@
+
+## [HOME](scrolls/home)
+
+# Pi Remote
+ 
+
+Sew up a pi bag.  This system is for a Pi terminal which plugs into the wall.  The Solar Power Station can power this using a converter from the connector from the charger to barrel power.
+
+As of January 2022 it is suddenly impossible to buy these, they are all sold out everywhere.
+
+ - [Raspberry Pi 4 4 gb($55)](https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/)
+ - [microSD Card and SD adapter($7)](https://www.pishop.us/product/microsd-card-32-gb-class-10-blank/)
+ - [SD card reader($3)](https://www.pishop.us/product/high-speed-micro-sd-card-reader-maximum-128gb-black/)
+  - [$135 SunFounder 10" Display](https://www.sunfounder.com/collections/displays-monitors/products/10-inch-hdmi-monitor) 
+ - [raspberry pi keyboard and mouse, official, from sunfounder($36)](https://www.sunfounder.com/collections/keyboard-gamepad/products/keyboard-mouse)
+
+
+Set this up as both a server and a client. Use to program robots and other Arduino machines. Use it to record data using Arduino. Use it to get online.  Use it to
