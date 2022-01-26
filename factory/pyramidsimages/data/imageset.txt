@@ -1,0 +1,7 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsimages/",
+    "images": [
+        "pyramids-shapes-construction.svg",
+        "pyramids_shapes.svg"
+    ]
+}
