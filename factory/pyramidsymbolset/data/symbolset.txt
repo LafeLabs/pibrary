@@ -1,7 +1,6 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/symbolserver/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/factory/pyramidsymbolset/",
     "symbols": [
-        "chaos.svg",
-        "circles.svg"
+        "base-net.svg"
     ]
 }
