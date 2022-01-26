@@ -4,6 +4,7 @@
         "artbox",
         "home",
         "links",
+        "piremote",
         "pyramids",
         "ruler",
         "solarpower"
