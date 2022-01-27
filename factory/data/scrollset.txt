@@ -1,12 +1,15 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/",
     "scrolls": [
+        "android",
         "artbox",
+        "flags",
         "home",
         "links",
         "piremote",
         "pyramids",
         "ruler",
-        "solarpower"
+        "solarpower",
+        "windows"
     ]
 }

@@ -11,9 +11,14 @@ The factory is a set of things which we replicate.  Replicate the things and giv
  - golden triangle
  - penrose tiles
  - bags
- - flags
- - remote raspberry pi terminal
- - home raspberry pi server
+ - [Flags](scrolls/flags)
+ - raspberry pi mobile terminal
+ - raspberry pi home server
+ - free web hosting server at 000webhost
+ - paid hosting at a commercial web host with purchased domain
+ - [android geometron server](scrolls/android)
+ - [Windows or Mac Geometron server](scrolls/windows)
+ - ios geometron server
  - pyramids
  - neopixel
  - skeletron
