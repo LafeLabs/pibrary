@@ -4,11 +4,11 @@
 
 The factory is a set of things which we replicate.  Replicate the things and give them away.  Replicate them and use them.  Replicate them and sell them.  Replicate them and share them.  Replicate and teach others to replicate.  This is the magic book of the Trash Robot Factory.  
 
- - [Ruler](scrolls/ruler)
- - [Shape Set](scrolls/shapeset)
- - golden triangle
+ - [Geometron Ruler](scrolls/ruler)
+ - [Geometron/Action Geometry Shape Set](scrolls/shapeset)
+ - [Golden Triangle](scrolls/goldentriangle)
  - [Penrose Tiles](scrolls/penrose)
- - geometron protractor
+ - [Geometron Protractor](scrolls/protractor)
  - [ArtBox](scrolls/artbox)
  - [Bags](scrolls/bags)
  - [Flags](scrolls/flags)
@@ -20,7 +20,8 @@ The factory is a set of things which we replicate.  Replicate the things and giv
  - [android geometron server](scrolls/android)
  - [Windows or Mac Geometron server](scrolls/windows)
  - ios geometron server
- - pyramids
+ - Cybermagic Github developer environment
+ - The Pyramids
  - neopixel
  - skeletron
  - pants
