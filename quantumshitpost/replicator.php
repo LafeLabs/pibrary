@@ -1,6 +1,6 @@
     <?php
     
-    $dnaurl = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/quantmshitpost/data/dna.txt";
+    $dnaurl = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/quantumshitpost/data/dna.txt";
     
     if(isset($_GET["dna"])){
         $dnaurl = $_GET["dna"];
@@ -25,7 +25,7 @@
 
 
 
-    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/quantmshitpost/php/replicator.txt","replicator.php");
+    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/quantumshitpost/php/replicator.txt","replicator.php");
     
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt","imageset/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/php/replicator.txt","fileset/replicator.php");    
