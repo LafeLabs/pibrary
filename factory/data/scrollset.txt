@@ -3,6 +3,7 @@
     "scrolls": [
         "android",
         "artbox",
+        "bags",
         "flags",
         "home",
         "links",
