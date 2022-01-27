@@ -7,6 +7,7 @@
         "flags",
         "home",
         "links",
+        "penrose",
         "piremote",
         "pyramids",
         "ruler",
