@@ -10,6 +10,7 @@
         "piremote",
         "pyramids",
         "ruler",
+        "shapeset",
         "solarpower",
         "windows"
     ]

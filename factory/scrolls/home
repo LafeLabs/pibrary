@@ -5,13 +5,14 @@
 The factory is a set of things which we replicate.  Replicate the things and give them away.  Replicate them and use them.  Replicate them and sell them.  Replicate them and share them.  Replicate and teach others to replicate.  This is the magic book of the Trash Robot Factory.  
 
  - [Ruler](scrolls/ruler)
- - [Solar power station](scrolls/solarpower)
- - [ArtBox](scrolls/artbox)
- - shape set
+ - [shape set](scrolls/shapeset)
  - golden triangle
  - penrose tiles
+ - geometron protractor
+ - [ArtBox](scrolls/artbox)
  - [Bags](scrolls/bags)
  - [Flags](scrolls/flags)
+ - [Solar power station](scrolls/solarpower)
  - raspberry pi mobile terminal
  - raspberry pi home server
  - free web hosting server at 000webhost
