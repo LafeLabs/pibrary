@@ -1,8 +1,7 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/goldentriangle/",
     "symbols": [
-        "chaos.svg",
-        "circles.svg",
-        "symbol1640814454.svg"
+        "goldentriangle-outline.svg",
+        "goldentriangle.svg"
     ]
 }

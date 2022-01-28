@@ -31,11 +31,3 @@ Set of 8 rulers in one SVG file for Ponoko.com:
 
 [![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/rulers8.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/rulers8.svg)
 
-
-## Replicators on Pibrary
-
- - [create the directory rulerimageset](mkdir.php?dir=rulerimageset&replicator=https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt)
- - [copy image set to image set replicator](copy.php?from=https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/data/imageset.txt&to=rulerimageset/data/imageset.txt)
- - [rulerimageset/](rulerimageset/)
- - [global factory book scroll set link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/data/scrollset.txt)
- - [ruler at trashrobot.org](trashrobot.org/factory/user.php?scroll=scrolls/ruler)
