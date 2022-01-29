@@ -3,6 +3,46 @@
 
 # The Pyramids
  
+## notes on the name
+
+Golden Pyramids? Pink Pyramids? or just The Pyramids?  
+
+Symmetron, Golden Section, divine proportion, divine section, capstone, divine pyramid
+
+
+## Curriculum
+
+ - what is trash magic?
+ - what is geometron? 
+ - Symmetry and scale: 3 fold 4 fold, 5 fold, 2 and phi
+ - self-replicating geometry from trash, geometron
+ - construct the pyramids
+ - take apart a printer and harvest the motors
+ - soldering
+ - arduino 101
+ - electronics build
+ - the mathematics of the gyrator sensor
+ - physics of vibrators
+ - learning python in jupyter, going through all math and then taking sensor data from actual machine in action and analyzing it
+ - neopixels
+ - build the trash robot and use it
+ - raspberry pi 101 for geometron
+ - geometron for laser cutting
+
+## What are the Pyramids?
+
+ - open source hardware
+ - based on arduino, teach the basics of arduino 
+ - a whole curriculum of hands on STEAM education: geometry, building things from trash, arduino, math, coding, electronics, raspberry pi,
+ - self replicating hardware: you learn to teach others to copy, anyone can copy on their own
+ - built from trash and geometry, demonstrate the principles of 
+ - geometric body extension, outside not just gender binary but biological body shape
+ - upcycle electronics, reclaim broken printers, connect to Trash Robot network
+ - part of the geometron network, and a demonstration of trash magic as a production/replication system to replace the consumer capitalist system
+ - educational events, seminars to do all the builds
+ - sacred geometry, a way to connect with the fundamental symmetries of the universe
+ - ritual activities combining sex, technology, crafts, and geometry
+
 ## bill of materials
 
  - cardboard trash
@@ -16,6 +56,7 @@
  - [$9 12 volt wall power supply with barrel connectors](https://www.amazon.com/COOLM-Transformer-100V-240V-Switching-Wireless/dp/B07H4DCHQ2/)
  - [$10 barrel power connectors 10 pack](https://www.amazon.com/43x2pcs-Connectors-Security-Lighting-MILAPEAK/dp/B072BXB2Y8/)
  - [power cable spool(or use trash)](https://www.amazon.com/American-Gauge-Copper-Wire/dp/B0791B4ZRW/)
+ - [toggle switch](https://www.amazon.com/dp/B08P64QZQK)
  - [Arduino UNO](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/)
  - [LIS3DH accleration sensor](https://www.adafruit.com/product/2809)
  - [Motor controller board](https://www.adafruit.com/product/2448)
