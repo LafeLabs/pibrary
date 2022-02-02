@@ -9,6 +9,7 @@
         "home",
         "links",
         "penrose",
+        "pimobile",
         "piremote",
         "protractor",
         "pyramids",

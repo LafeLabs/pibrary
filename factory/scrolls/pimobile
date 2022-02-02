@@ -1,0 +1,8 @@
+
+## [HOME](scrolls/home)
+
+# Pimobile
+ 
+The hardest part of making self contained mobile Pi terminal is choosing the screen.  We recommend the screens from [Sunfounder](https://www.sunfounder.com/).  There are various choices, often many things are out of stock. [The choices can be found here](https://www.sunfounder.com/collections/displays-monitors).  We want one with a 12 volt power supply which then also powers the pi.  
+
+In addition to the display, we need to buy or find a USB mouse and a USB keyboard.  
