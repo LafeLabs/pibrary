@@ -5,6 +5,7 @@
         "gyratorxy.ino",
         "gyratorz.ino",
         "index.html",
+        "pyramids-buttons.ino",
         "pyramids.ino",
         "speedcontrol.ino"
     ]

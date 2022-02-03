@@ -93,6 +93,7 @@ Symmetron, Golden Section, divine proportion, divine section, capstone, divine p
 
 ## Code
 
+ - [pyramids-buttons.ino](github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids-buttons.ino)
  - [pyramids.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids.ino)
  - [gyratorxy.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/gyratorxy.ino)
  - [gyratorz.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/gyratorz.ino)

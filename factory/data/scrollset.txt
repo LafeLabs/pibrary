@@ -15,6 +15,7 @@
         "pyramids",
         "ruler",
         "shapeset",
+        "shield",
         "solarpower",
         "windows"
     ]
