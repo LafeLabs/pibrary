@@ -2,12 +2,22 @@
 ## [HOME](scrolls/home)
 
 # The Pyramids
- 
-## notes on the name
 
-Golden Pyramids? Pink Pyramids? or just The Pyramids?  
+We start with the ArtBox, which is a self-replicating geometric art factory. 
 
-Symmetron, Golden Section, divine proportion, divine section, capstone, divine pyramid
+[pyramids-buttons.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids-buttons.ino)
+
+Create two of these pyramid bases from thick corrugated cardboard. One gets black duct tape and the other pink.  Square base set is 3 inches on a side, as is equliateral traingle. Big base is 6 inches on a side.  Trapezoids are 3 inches, 6 inches, and 3 times the Golden Ratio inches and 72 and 108 degrees.  
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsymbolset/symbolfeed/base-net.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsymbolset/symbolfeed/base-net.svg)
+
+Create capstone for pyramid from four 3 inch equilateral triangles, finish with pink duct tape:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsymbolset/symbolfeed/capstone-net.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsymbolset/symbolfeed/capstone-net.svg)
+
+
+Affix pink capstone to black base.  cut square hole in top of pink pyramid, insert motor, tape tabs into place.  Add plastic backing behind the motor with duct tape.  Add plastic stimulation surface in arc across whole top of pink pyramid.  Attach base with a hinge. Tape Arduino to base with wires taped into place.  Tape all wires to avoid movement and protect solder joints.  Cut holes in pink pyramid near base to thread trash ties through. 
+
 
 
 ## scrolls
@@ -87,7 +97,6 @@ Symmetron, Golden Section, divine proportion, divine section, capstone, divine p
  - artbox to carry supplies and parts in 
 
 
-[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsimages/uploadimages/pyramids_shapes.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramidsimages/uploadimages/pyramids_shapes.svg)
 
 ![](https://i.imgur.com/7ijv54o.jpg)
 

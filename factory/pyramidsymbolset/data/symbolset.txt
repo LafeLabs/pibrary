@@ -1,6 +1,7 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pi/main/factory/pyramidsymbolset/",
     "symbols": [
-        "base-net.svg"
+        "base-net.svg",
+        "capstone-net.svg"
     ]
 }
