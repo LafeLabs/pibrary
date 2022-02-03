@@ -3,6 +3,7 @@
     "scrolls": [
         "alaska",
         "berkeley",
+        "brokenphysics",
         "builds ",
         "calculations",
         "china",
@@ -21,7 +22,9 @@
         "teamc",
         "teamc.tex",
         "textiles",
+        "theplan",
         "tma",
+        "trashphysicsdepartment",
         "trashphysicslibrary",
         "whatisphysics",
         "yale"
