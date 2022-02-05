@@ -4,6 +4,7 @@
 # links
  
  - [editor.php](editor.php) 
+ - [publicconvert.php](publicconvert.php)
  - [fileset/replicator.php](fileset/replicator.php)
  - [iconset/replicator.php](iconset/replicator.php)
  - [codeset/replicator.php](codeset/replicator.php)
@@ -17,8 +18,8 @@
  - [mapbook](mapbook/)
  - [symbolset](symbolset/)
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
+ - [user.php](user.php)
  - [mathuser.php](mathuser.php)
- - [publicconvert.php](publicconvert.php)
  - [pibraryreplicator.php](pibraryreplicator.php)
  - [pibrarygenerator.php](pibrarygenerator.php)
  - [replicator.php](replicator.php)
