@@ -3,8 +3,19 @@
 
 # links
  
- - [trashrobot.org](http://trashrobot.org/)
- - [pibrary.org](https://www.pibrary.org/)
+ - [editor.php](editor.php) 
+ - [fileset/replicator.php](fileset/replicator.php)
+ - [iconset/replicator.php](iconset/replicator.php)
+ - [codeset/replicator.php](codeset/replicator.php)
+ - [imageset/replicator.php](imageset/replicator.php)
+ - [mapbook/replicator.php](mapbook/replicator.php)
+ - [symbolset/replicator.php](symbolset/replicator.php)
+ - [fileset](fileset/)
+ - [iconset](iconset/)
+ - [codeset](codeset/)
+ - [imageset](imageset/)
+ - [mapbook](mapbook/)
+ - [symbolset](symbolset/)
  - [global replicator link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
  - [mathuser.php](mathuser.php)
  - [publicconvert.php](publicconvert.php)
@@ -12,13 +23,6 @@
  - [pibrarygenerator.php](pibrarygenerator.php)
  - [replicator.php](replicator.php)
  - [scrollsetreplicator.php](scrollsetreplicator.php)
- - [editor.php](editor.php)
- - [symbolset/](symbolset/)
- - [fileset/](fileset/)
- - [iconset/](iconset/)
- - [imageset/](imageset/)
- - [mapbook/](mapbook/)
- - [voxel/](voxel/)
  
 
 # Other library links
