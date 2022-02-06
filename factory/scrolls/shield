@@ -4,4 +4,23 @@
 # shield
  
  - [unoshield-v6.brd](https://github.com/LafeLabs/trashrobot5/blob/master/boards/unoshield-v6.brd)
- 
+
+
+Working on a better BOM which avoids the transistor which we can no longer get.  Trying to find  a substitute part.  
+
+ - [1 IRFL024NTRPBF MOSFET N-CH 55V 2.8A SOT223](https://www.digikey.com/en/products/detail/infineon-technologies/IRFL024NTRPBF/1928257)
+- [1 SMT Diode](https://www.digikey.com/en/products/detail/on-semiconductor/S1B/965719) 
+- [1 300 Ohm SMT resistors](https://www.digikey.com/en/products/detail/susumu/RR0816P-301-D/432711)
+  - [1 10k SMT Resistors](https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF3301V/1746762)
+ - [10k potentiometer](https://www.digikey.com/en/products/detail/bourns-inc/PTV09A-4225F-B103/3781155)
+ - [2 buttons](https://www.digikey.com/en/products/detail/e-switch/TL59AF100Q/1144808)
+ - [three position(on-off-on) SPDT switch](https://www.digikey.com/en/products/detail/nkk-switches/B13AP/379100)
+ - [electrolytic capacitor 1000 uF 35V](https://www.digikey.com/en/products/detail/rubycon/35PX1000MEFC10X20/3563769)
+ - [0.1" male header strips](https://www.digikey.com/en/products/detail/amphenol-icc-fci/93992-436HLF/4267891)
+ - switch to small axial resistors, which can go in 0.3 spacing holes
+ - add female to female 8 inch jumper wire kit from adafruit or amazon
+ - header kit from amazon and adafruit
+ - lis3dh sensor from adafruit and amazon
+ - bullet vibe from amazon
+ - neopixel strips
+ - 5 volt big power brick for long neopixels
