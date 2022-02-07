@@ -16,10 +16,10 @@ Working on a better BOM which avoids the transistor which we can no longer get. 
  - [2 buttons](https://www.digikey.com/en/products/detail/e-switch/TL59AF100Q/1144808)
  - [three position(on-off-on) SPDT switch](https://www.digikey.com/en/products/detail/nkk-switches/B13AP/379100)
  - [electrolytic capacitor 1000 uF 35V](https://www.digikey.com/en/products/detail/rubycon/35PX1000MEFC10X20/3563769)
- - [0.1" male header strips](https://www.digikey.com/en/products/detail/amphenol-icc-fci/93992-436HLF/4267891)
- - add female to female 8 inch jumper wire kit from adafruit or amazon
- - header kit from amazon and adafruit
- - lis3dh sensor from adafruit and amazon
- - bullet vibe from amazon
- - neopixel strips
- - 5 volt big power brick for long neopixels
+ - [0.1" male header strips from Adafruit](https://www.adafruit.com/product/392)
+ - [female to female 8 inch jumper wire kit from adafruit](https://www.adafruit.com/product/1919)
+ - [lis3dh sensor from Adafruit](https://www.adafruit.com/product/2809)
+ - [Neopixel strips from Adafruit](https://www.adafruit.com/product/1460)
+ - [5 volt big power brick for long neopixels 10 Amps](https://www.adafruit.com/product/658)
+ - [5 volt 2 amp supply](https://www.adafruit.com/product/276)
+ - [shorter array of Neopixels which runs on 2 A](https://www.adafruit.com/product/3919)
