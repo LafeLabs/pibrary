@@ -24,14 +24,6 @@ The pibrary is a self-replicating knowledge network of free books propagated usi
 
 ![](https://i.imgur.com/N4ItAdo.jpg) 
 
-## Solar power kit
-
- - [solar panel and charger, (Amazon $60)](https://www.amazon.com/SOLPERK-Controller%EF%BC%8C-Automotive-Motorcycle-Powersports/dp/B07TTMF3FZ)
- - [barrel connector pigtails ($10 for 10 pack)](https://www.amazon.com/dp/B0915T6NLL)
- - [12 V 9 A-h lead acid battery($40 Amazon)](https://www.amazon.com/Mighty-Max-Battery-Replacement-Electric/dp/B00KAVH1GU/)
- - [12 V to USB charger converter, (Amazon $16)](https://www.amazon.com/dp/B09FKHK5MY)
- - [adafruit panel voltmeter $8](https://www.adafruit.com/product/575)
-
 
 ##  Set up the Raspberry Pi
 
