@@ -1,41 +1,21 @@
 
 ## [HOME](scrolls/home)
 
-# What is physics?
-
-The elements of physics book knowledge
+# whatisphysics
  
- - classical mechanics
- - electromagnetism
- - quantum mechanics
- - physics of solids
- - atomic physics
- - nuclear physics
- - statistical mechanics
- - thermodynamics
+ - units, dimensional analysis, metrology
  - mathematical methods
- - computer methods, coding
- - relativity
-
-The methodology
-
- - reduce things to the simplest possible mathematical relation
- - build the simplest possible model
- - dimensional analysis
- - experimental jack of all trades
- - machining and machine design
- - electronics design, fab, trouble shooting
- - plumbing
- - reductionism
- - problem solving as a general process, building simple models and using them
-
-The culture
- 
-- arrogance
-- cult of the bomb
-- the culture of "my special machine"
-- open mindedness in certain specific situations
-- careerism 
-
-
-
+ - reductionism, generalism, system thinking
+ - classical mechanics calculations
+ - electromagnetism calculations
+ - optics
+ - statistical and thermal calculations
+ - quantum mechanics and atomic calculations
+ - gravity, curved space time, astronomy, astrophysics
+ - plasma physics
+ - the machine shop
+ - the electrical shop, electronics 
+ - plumbing, gasses, pumps, fluids, welding, brazing, soldering
+ - jupyter, python, anaconda
+ - a culture of experimentation, a rejection of professional boundaries
+ - a quest for the most general and most "fundamental" principles of the Universe

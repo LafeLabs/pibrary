@@ -1,33 +1,9 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/",
     "scrolls": [
-        "alaska",
-        "berkeley",
-        "brokenphysics",
-        "builds ",
-        "calculations",
-        "china",
-        "hall",
+        "history",
         "home",
-        "homepibackup",
-        "introduction",
-        "lifeinphysics",
-        "main.tex",
-        "mechanics",
-        "nist",
-        "old",
-        "patreon",
-        "pvnkt",
-        "quantum",
-        "support",
-        "teamc",
-        "teamc.tex",
-        "textiles",
-        "theplan",
-        "tma",
-        "trashphysicsdepartment",
-        "trashphysicslibrary",
-        "whatisphysics",
-        "yale"
+        "mic",
+        "whatisphysics"
     ]
 }
