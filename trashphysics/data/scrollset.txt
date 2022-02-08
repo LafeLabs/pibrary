@@ -9,6 +9,7 @@
         "china",
         "hall",
         "home",
+        "homepibackup",
         "introduction",
         "lifeinphysics",
         "main.tex",
