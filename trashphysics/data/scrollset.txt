@@ -1,8 +1,10 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/trashphysics/",
     "scrolls": [
+        "electricalshop",
         "history",
         "home",
+        "machineshop",
         "mic",
         "whatisphysics"
     ]
