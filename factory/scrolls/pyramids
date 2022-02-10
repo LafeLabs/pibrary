@@ -102,6 +102,7 @@ Affix pink capstone to black base.  cut square hole in top of pink pyramid, inse
 
 ## Code
 
+ - [pyramids-buttons.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/xy-gyrator-neopixel.ino)
  - [pyramids-buttons.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids-buttons.ino)
  - [pyramids.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids.ino)
  - [gyratorxy.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/gyratorxy.ino)
