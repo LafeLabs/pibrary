@@ -1,0 +1,13 @@
+
+## [HOME](scrolls/home)
+
+# edgephysics
+ 
+ - the more universal something is the more fundamental it is: water is more fundamental than something you can only see at CERN
+ - we build all our instruments using what is in our immediate environment
+ - we only build what we can directly share with people in our community(school teachers, college students, amateur scientists, science researchers, local people interested in science)
+ - we work to build *all* the tools of science using our methods from applied physics(pumps, valves, vacuum, imaging, engines, electronics, media)
+
+Full edge physics is when we have an understanding of our immediate physical environment based on knowledge we can teach to people locally and things we can measure locally using machines we build here.  
+
+Our research program consists of building the local network which puts all this together, including the scrap yards, junk yards, surplus facilities, waste managment companies and so on, then the shops to build things and labs to develop things and finally to actual people who will use them.  We document this system using the free and open source books documented in the [edge library](scrolls/library) on the [edge network](scrolls/network), so that the whole thing can freely replicate from one local edge to another.  

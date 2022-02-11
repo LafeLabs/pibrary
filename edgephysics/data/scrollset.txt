@@ -1,0 +1,17 @@
+{
+    "server": "http://10.0.0.27/street/",
+    "scrolls": [
+        "edgephysics",
+        "electrical",
+        "factory",
+        "funding",
+        "geometron",
+        "home",
+        "library",
+        "machine",
+        "me",
+        "measurement",
+        "network",
+        "team"
+    ]
+}

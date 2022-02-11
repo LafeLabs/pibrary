@@ -1,0 +1,8 @@
+
+## [HOME](scrolls/home)
+
+# library
+ 
+The edge library is an extension of any local public library systems to a more local level.  We share electronic books freely over Raspberry Pi's which are on public mesh networks in public spaces.  Sharing free books locally over wireless networks effectively extends the reach of the public library, but makes it more public and more open and free(since all of our books are produced outside of copyright to allow for unrestrained replication).
+
+This is the ultimate *product* of all of our research.  We figure out how to build things and document them in electronic books on the Geometron system.  We then spread the edge network, and that allows us to freely spread the books in our library.  These books are used to teach other communities how we build things and then they can add to them, and so on.  We will build a massive global network of extremely local libraries.  As many as billions of nodes might exist, each with its own little web server with just a few dozen books on it representing the current efforts of that local lab/factory/shop. 

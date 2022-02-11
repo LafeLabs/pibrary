@@ -1,0 +1,16 @@
+
+## [HOME](scrolls/home)
+
+# network
+ 
+ - raspberry pi in a bag on the side of the road run from solar power
+ - free mesh networks in public spaces, run from off grid power
+ - software which replicates from one raspberry pi to the next, with no central data center of any kind
+ - shared freely copied resources like github, pastebin
+ - shared freely copied hosted domains representing a specific geographic location(e.g. southbroadway.net, maplelawn.net, kstreet.xyz), and physical media pointing to the domain
+ - all of this uses the software I have written which freely copies all the files from server to server entirely with client-side browser commands
+
+The network is self-supporting.  We use this network to create links of commerce and free exchange in a local community and ask for direct material support from the community who benefits.  The most sustainable way to do that is to simply train the local stake holders such as local government, small business, schools, and non profits in how to set up and operate the system.  
+
+The initial system consists of all off the shelf hardware: the raspberry pi, solar panels, mesh network nodes, commodity cloud storage, and physical media.  Eventually, as [the road map of the electrical research](scrolls/electrical) progresses, we will replace all of these off the shelf components with those we can create ourselves locally using waste streams.   
+

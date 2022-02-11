@@ -1,0 +1,17 @@
+
+## [HOME](scrolls/home)
+
+# geometron
+ 
+The media platform for all distribution is the Geometron system I have developed. 
+
+Geometron consists of self-replicating sets of documents.  That is to say, documents which contain scripts which copy themselves from one server to another as well as copy every other document.  The system, which all runs from the client side of a web browser, so that once any given server is loaded with the system, no further server side work of any kind is required, and documents can be both created and replicated entirely from the client side of the browser.  
+
+Documents include text documents, notebook files for mathematical and scientific computing, actual code for various tasks, programs which control robots for automation, and vector graphics for all the symbols we use to carry out arbitrary communication with people.   
+
+This is documented in the Book of Geometron.
+
+In addition to being a software platform and network, Geometron constists of the abstract language of geometric programming.  In geometric programming we represent discrete geometric constructions using symbols which are themselves geometric constructions.  We arrange all of these geometric actions and symbols in yet another geometric construction. Just as the Turing Machine uses numbers to program a machine which operates on numbers, the Geometron processor uses geometric symbols to program geometric actions which carry out geometric constructions and transformations.  This represents a fundamental paradigm shift from numerical "computing" go purely geometric processing as the metaphor we use for describing the machines we use for both media and fabrication and automation.
+
+This is the origin of the name: it is a machine driven by geometry and symbols, just as a computer is a machine driven by arithmetic and numbers. Hence we combine "geometry" with the "-tron" ending denoting machines.
+ 

@@ -1,0 +1,22 @@
+
+## [HOME](scrolls/home)
+
+# electrical
+ 
+The electrical shop, much like the machine shop, connects electronics waste and surplus people with our [edge physics research lab](scrolls/edgephysics), our [edge factory](scrolls/factory), and people in the community who can use what we make. 
+
+As with the machine shop, our initial goal in development of the electrical/electronic shop is to replicate the shop using locally sourced waste streams.  This means we need to be able to make all the tools of electrical measurement(like oscilloscopes) and fabrication(like soldering irons) from waste we can take in from the local community.  
+
+Again, we initially frame this as physics research, building instruments which we can provide directly to people locally who are learning physics of the kind we are using here.  And as the project grows, we build up a full media and electronics system entirely from local waste streams.
+
+Electronics Technology Roadmap
+
+ - replace the Arduino with a waste-based version
+ - replace the raspberry pi with a waste-based version
+ - develop an open standard for turning old pixels from broken displays into something with a modular connector we can build ourselves which can connect it to the  
+ - develop a modular lower energy density system of power cells we can build from waste streams and organic materials which can run public media infrastructure
+ - as we build public screens, servers, clients, and power, we will build more and more hardware in physically public spaces which are for general public use
+ - replace all the hardware in the mesh network with waste streams(old iot devices)
+ - create the geometron processor which replaces the existing general computing architecture, allowing for much slower and simpler electronics when the sole purpose is media replication
+ - use geometron processor as a generic control of all motors for manufacturing automation, merging the manufacturing and media elements of electronics
+ - as old systems die, replace more and more of the system with ab initio fabrication using Geometron architecture(discrete geometric programming)
