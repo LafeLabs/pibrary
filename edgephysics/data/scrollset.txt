@@ -12,6 +12,8 @@
         "me",
         "measurement",
         "network",
+        "possibleedges",
+        "research",
         "team"
     ]
 }
