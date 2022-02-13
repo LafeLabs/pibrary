@@ -14,3 +14,5 @@ The network is self-supporting.  We use this network to create links of commerce
 
 The initial system consists of all off the shelf hardware: the raspberry pi, solar panels, mesh network nodes, commodity cloud storage, and physical media.  Eventually, as [the road map of the electrical research](scrolls/electrical) progresses, we will replace all of these off the shelf components with those we can create ourselves locally using waste streams.   
 
+
+This section needs a breakdown of the budget for Starlink vs. if the same money was spent at the edge, with large numbers of 100-500 dollar investments rather than a centralized space based system.
