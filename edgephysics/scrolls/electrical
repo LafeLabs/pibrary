@@ -9,7 +9,7 @@ As with the machine shop, our initial goal in development of the electrical/elec
 
 Again, we initially frame this as physics research, building instruments which we can provide directly to people locally who are learning physics of the kind we are using here.  And as the project grows, we build up a full media and electronics system entirely from local waste streams.
 
-Electronics Technology Roadmap
+Electronics Technology Roadmap(50 years)
 
  - replace the Arduino with a waste-based version
  - replace the raspberry pi with a waste-based version
@@ -20,3 +20,4 @@ Electronics Technology Roadmap
  - create the geometron processor which replaces the existing general computing architecture, allowing for much slower and simpler electronics when the sole purpose is media replication
  - use geometron processor as a generic control of all motors for manufacturing automation, merging the manufacturing and media elements of electronics
  - as old systems die, replace more and more of the system with ab initio fabrication using Geometron architecture(discrete geometric programming)
+ - biolelectronic integration with fungi, bacteria, trees, slow fabrication, replace all numerical processors with geometric
