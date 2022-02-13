@@ -11,6 +11,7 @@
         "geometron",
         "home",
         "library",
+        "links",
         "machine",
         "me",
         "measurement",
