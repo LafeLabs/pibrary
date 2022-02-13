@@ -12,6 +12,7 @@
         "me",
         "measurement",
         "network",
+        "physics",
         "possibleedges",
         "research",
         "team"
