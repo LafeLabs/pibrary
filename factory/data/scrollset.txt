@@ -5,6 +5,7 @@
         "artbox",
         "bags",
         "brain",
+        "coinfactory",
         "controller",
         "flags",
         "geometronprinterchapter",
