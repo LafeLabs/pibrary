@@ -1,0 +1,9 @@
+
+## [HOME](scrolls/home)
+
+## [back to main robot scroll](scrolls/robot)
+
+# robotcode
+ 
+ - [basic bridge/nail/clay printer code](https://github.com/LafeLabs/trashrobot5/blob/master/arduinocode/arduino-trashrobot-coin-printer/arduino-trashrobot-coin-printer.ino)
+ - [independent xyz control robot code](https://github.com/LafeLabs/trashrobot5/blob/master/arduinocode/arduino-trashrobot-coin-printer-independent-xyz/arduino-trashrobot-coin-printer-independent-xyz.ino)
