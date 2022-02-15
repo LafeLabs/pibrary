@@ -5,6 +5,7 @@
         "economics",
         "edgephysics",
         "electrical",
+        "elevatorpitch",
         "energy",
         "factory",
         "funding",
@@ -20,6 +21,7 @@
         "possibleedges",
         "research",
         "robotics",
-        "team"
+        "team",
+        "theedge"
     ]
 }
