@@ -20,37 +20,18 @@ LANGUGE IS HOW THE MIND PARSES REALITY
 <META NAME="robots" CONTENT="noindex,nofollow">
 </head>
 <body>
-    
-        <a href = "../">
-            <img alt = "uplink" src = "iconsymbols/uplink.svg"/>
-        </a>
         <a href = "index.html">
-            <img alt = "home" src = "iconsymbols/home.svg">
+            HOME
         </a>
-
+        
 <table id = "newtable">
     <tr>
-        <td>new fork name:</td>
+        <td>new page name:</td>
         <td><input/><a id = "dirlink"></a></td>
     </tr>
     <tr id = "replicatorline">
         <td>external replicator url</td>
         <td><input/></td>
-    </tr>
-    <tr>
-        <td class = "button" id = "filesetbutton">file set replicator</td>
-    </tr>
-    <tr>
-        <td class = "button" id = "imagesetbutton">image set replicator</td>
-    </tr>
-    <tr>
-        <td class = "button" id = "codesetbutton">code set replicator</td>
-    </tr>
-    <tr>
-        <td class = "button" id = "symbolsetbutton">symbol set replicator</td>
-    </tr>
-    <tr>
-        <td class = "button" id = "mapbookbutton">map book replicator</td>
     </tr>
 </table>
 
@@ -59,17 +40,6 @@ LANGUGE IS HOW THE MIND PARSES REALITY
 </ul>
 <div id = "deleteonbutton">DELETE MODE ON</div>
 <script>
-dirlink = document.getElementById("dirlink");
-dir = "";
-replicator = "";
-
-filesetreplicator = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/fileset/php/replicator.txt";
-imagesetreplicator = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/imageset/php/replicator.txt";
-codesetreplicator = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/php/replicator.txt";
-symbolsetreplicator = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/symbolset/php/replicator.txt";
-mapbookreplicator = "https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt";
-
-
 
 deleteprotect = true;//set to false to enable deletion of directories
 
@@ -98,58 +68,24 @@ var httpc2 = new XMLHttpRequest();
 httpc2.open("GET", "dir.php?type=dir", true);
 httpc2.send();
 
-document.getElementById("filesetbutton").onclick = function(){
-    inputs[1].value = filesetreplicator;
-    dirlink.innerHTML = "mkdir; dir=" + dir + "; replicator=fileset"; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + filesetreplicator;
-}
 
-document.getElementById("imagesetbutton").onclick = function(){
-    replicator = imagesetreplicator;
-    inputs[1].value = replicator;
-    dirlink.innerHTML = "mkdir; dir=" + dir + "; replicator=imageset"; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + replicator;
-}
 
-document.getElementById("codesetbutton").onclick = function(){
-    replicator = codesetreplicator;
-    inputs[1].value = replicator;
-    dirlink.innerHTML = "mkdir; dir=" + dir + "; replicator=codeset"; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + replicator;
-}
-
-document.getElementById("symbolsetbutton").onclick = function(){
-    replicator = symbolsetreplicator;
-    inputs[1].value = replicator;
-    dirlink.innerHTML = "mkdir; dir=" + dir + "; replicator=symbolset"; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + replicator;
-}
-
-document.getElementById("mapbookbutton").onclick = function(){
-    replicator = mapbookreplicator;
-    inputs[1].value = replicator;
-    dirlink.innerHTML = "mkdir; dir=" + dir + "; replicator=mapbook"; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + replicator;
-}
 
 inputs = document.getElementById("newtable").getElementsByTagName("input");    
+
+inputs[0].onchange = function() {
+    var newa = document.getElementById("dirlink");
+    newa.innerHTML = "mkdir.php?dir=" + this.value;
+    newa.href = "mkdir.php?dir=" + this.value;
+}
 
 inputs[0].value = "";    
 inputs[1].value = "";
 
-inputs[0].onchange = function() {
-    inputs[1].value = "";
-    dir = this.value;
-    dirlink.innerHTML = "mkdir.php?dir=" + this.value;
-    dirlink.href = "mkdir.php?dir=" + this.value;
-}
-
-
 inputs[1].onchange = function(){
-    dir = inputs[0].value;
-    dirlink.innerHTML = "mkdir.php?dir=" + dir + "&replicator=" + this.value; 
-    dirlink.href = "mkdir.php?dir=" + dir + "&replicator=" + this.value;
-    
+    var newa = document.getElementById("dirlink");
+    newa.innerHTML += "&replicator=" + this.value; 
+    newa.href += "&replicator=" + this.value; 
 }
 
 
@@ -207,8 +143,8 @@ document.getElementById("deleteonbutton").onclick = function(){
     .button{
         cursor:pointer;
         color:red;
-        text-align:center;
-        border:solid;
+        font-family:courier;
+        font-size:1.5em;
     }
     #deleteonbutton{
         cursor:pointer;
