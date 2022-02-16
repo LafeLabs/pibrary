@@ -5,7 +5,6 @@
         "bookofgeometron",
         "bookofgeometronfirst",
         "bookofscales",
-        "chaos",
         "edgephysics",
         "factory",
         "fileset",
