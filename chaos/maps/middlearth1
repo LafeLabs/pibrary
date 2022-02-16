@@ -1,0 +1,35 @@
+[
+    {
+        "x": -0.8102857142857143,
+        "y": -0.048,
+        "w": 1.8525714285714285,
+        "h": 1.0411428571428571,
+        "angle": 0,
+        "text": "text",
+        "href": "",
+        "src": "uploadimages/middleearth.png",
+        "maplinkmode": false
+    },
+    {
+        "x": 0.616,
+        "y": 0.456,
+        "w": 0.09028571428571429,
+        "h": 0.10857142857142857,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": true
+    },
+    {
+        "x": 0.12342857142857143,
+        "y": 0.248,
+        "w": 0.09028571428571429,
+        "h": 0.10857142857142857,
+        "angle": 0,
+        "text": "text",
+        "href": "maps/home",
+        "src": "https://i.imgur.com/No1wukK.png",
+        "maplinkmode": true
+    }
+]
