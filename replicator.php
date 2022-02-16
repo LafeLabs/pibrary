@@ -20,6 +20,7 @@
     mkdir("symbolset");
     mkdir("codeset");
     mkdir("mapbook");
+    mkdir("chaos");
     mkdir("iconset");
     mkdir("fileset");
 
@@ -32,7 +33,7 @@
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/php/replicator.txt","codeset/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt","mapbook/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconset/php/replicator.txt","iconset/replicator.php");
-    
+    copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/chaos/php/replicator.txt","chaos/replicator.php");
     
     
     
