@@ -1,9 +1,11 @@
 {
     "server": "http://10.0.0.27/street/",
     "scrolls": [
+        "abstract",
         "budget",
         "economics",
         "edgephysics",
+        "edgephysicsbook",
         "electrical",
         "elevatorpitch",
         "energy",
@@ -11,6 +13,7 @@
         "funding",
         "geometron",
         "home",
+        "hourtalk",
         "library",
         "links",
         "machine",
@@ -18,10 +21,13 @@
         "measurement",
         "network",
         "physics",
+        "pitchdeck",
         "possibleedges",
         "research",
         "robotics",
         "team",
-        "theedge"
+        "tedtalk",
+        "theedge",
+        "whitepaper"
     ]
 }
