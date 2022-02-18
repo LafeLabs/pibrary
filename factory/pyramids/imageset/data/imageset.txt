@@ -1,0 +1,11 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/pyramids/imageset/",
+    "images": [
+        "construction1.png",
+        "construction2.png",
+        "construction3.png",
+        "construction4.png",
+        "construction5.png",
+        "construction6.png"
+    ]
+}
