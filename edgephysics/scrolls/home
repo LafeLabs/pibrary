@@ -1,26 +1,105 @@
 [up](../)
 
-## [edge physics white paper](scrolls/whitepaper)
+#  Edge Physics
 
-## Elements of Edge Physics Book
-  
- - [What is the Edge?](scrolls/theedge)
- - [What is physics?](scrolls/physics)
- - [Edge Physics](scrolls/edgephysics)
- - [Edge Measurement](scrolls/measurement)
- - [The Edge Machine Shop](scrolls/machine)
- - [The Edge Electrical shop](scrolls/electrical)
- - [The Edge Factory](scrolls/factory)
- - [Edge Energy](scrolls/energy)
- - [Edge Robotics](scrolls/robotics)
- - [The Edge Network](scrolls/network)
- - [Edge Economics](scrolls/economics)
- - [The Edge Library](scrolls/library)
- - [Geometron](scrolls/geometron)
- - [Research](scrolls/research)
- - [Edge Funding](scrolls/funding)
- - [The Team](scrolls/team)
- - [Dr. Lafe Spietz](scrolls/me)
+White Paper draft by Lafe Spietz
+
+## Introduction
+
+The global pandemic and accelerating climate crisis have shown the fragility of our centralized oil-driven global supply web. The last 300 years of exponentially increasing extraction and globalized manufacturing have distributed the exact same materials to every corner of the globe. Our aim leverage the power of this uniform distribution of waste streams to totally eliminate all oil, gas, and mining by 2050.
+
+We believe that the global supply web can be made more resilient against every potential threat in the future by moving out to the edges of the network. We seek to create a whole new civilization this way, building all elements of manufacturing from local waste streams and powered from local small-scale renewable energy. We aim to build everything this way: media, biotechnology, manufacturing, industrial automation, heating and cooling, everything we need to live a very high standard of living, but without any global supply web at all. 
+
+Building this new civilization is a long term project, in which progress will be measured in decades and centuries, not years.  In order to have the maximum impact on the long term trajectory of this process of transformation we focus on the most fundamental of all disciplines: physics.  We are redefining the structure of physics toward a new physics in which all equipment is fabricated using waste stream materials, and all our work is geared toward building a universal system of knowledge on which we can base our new civilization.
+
+
+## What is Edge Physics? 
+
+ - definition of fundamental
+ - values: life first
+ - definition of physics
+ - elements of physics
+ - curriculum
+ - recapturing "pure" physics of today in the Edge Physics of tomorrow 
+ - tools and methods: arduino, raspberry pi, math, free open documents, jupyter, applied math
+ - product: media for replication of experiments which demonstrate principles, serve as seeds of the full system of Edge Civilization
+
+## The Edge Physics Machine Shop
+
+ - scrap metal and recycling business
+ - following an aluminum atom in recycling vs. in our machine shop
+ - university, government and corporate surplus
+ - automotive junk yards
+ - household trash
+ - tools of the shop
+ - products of the shop
+ - customers of the shop
+ - who works in the shop and how
+
+## The Edge Physics Electrical Shop
+
+ - tools and methods: build modular units of trash elements
+ - DVD drives as an example of a start and of an ongoing program
+ - electrical waste stream generators: surplus and scrap
+ - robotics and automation, generalized system for controlling all motorized things
+ - modular general screen system
+ 
+## Factories of the Future
+
+ - ultimate goal of all our work, self-supporting
+ - energy
+ - pharma
+ - electronics
+ - mechanical
+ - media
+ - hvac
+ - water
+
+## The Pibrary
+ 
+ - Solar powered Raspberry Pi
+ - Home Raspberry Pi
+ - mesh networks(?)--just mention it in passing, have references to everything from the nyc Mesh howto page, and say "wifi networks" in general
+ - self-replicating documents system(the code which edits the document itself replicates) aka Cybermagic
+ - web pages
+ - the role of physical media *information is physical*
+ - github
+
+## Self-Replicating Media
+
+ - self-replicating media as a concept, some examples from trash robot
+ - Geometron: robot control, screen control, layout, symbol construction, all design in the future, all graphics
+ - social media content
+ - social media distribution
+ - web pages
+ - future full stack trash based media system with power cells, screens, geometron processors, communications channels, energy, memory
+ - elevator pitch for the trash robot brand as example of self-replicating social media
+
+## The Edge Physics Network
+
+ - this is a network of people and institutions
+ - sponsors
+ - libraries
+ - universities
+ - k-12 schools
+ - scrap yards
+ - factories
+ - junk yards
+ - tech companies
+ - tribal governments
+ - federal agencies
+ - artists
+ - traveling kids, truckers, people on the road
+ - physicists
+ - my little company which can be copied(pay my company to do stuff)
+ - my job as an edge physicist which can also be copied(hire me)
+ - my background, my elevator pitch to get this funded
+
+
+
+
+
+
 
 
 
