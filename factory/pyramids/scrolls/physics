@@ -1,0 +1,8 @@
+
+## [HOME](scrolls/home)
+
+# physics
+
+We aim in the Arduino code to create a response based on a simulation of an oscillation-based stimulation.  To do this, we collect a time series of accelerations and compare them to sine and cosine waves. The bigger the oscillation, the bigger the response.  The closer the oscillation is to the frequency of the comparison sine or cosine, the bigger the response.  
+
+line by line explanation of the Arduino code math for the two modes

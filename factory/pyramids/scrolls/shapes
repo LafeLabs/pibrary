@@ -1,0 +1,90 @@
+
+## [HOME](scrolls/home)
+
+# The Tools of Action Geometry
+ 
+We use a basic set of shapes for geometric construction on cardboard with sharpies and box cutters.  These shapes can be cut from acrylic with a laser cutter, or traced on cardboard and cut out.  When cut from cardboard trash, the set of shapes are a self-replicating set: you can use them to trace out another set from more cardboard, and so on and so on.  
+
+Because we have a set of instructions for how to construct this set from scratch, we can always replicate the set again, after any one set of cardboard shapes deteriorates and is no longer able to replicate itself onto more cardboard trash.  You can use the files below to cut on your own laser cutter or find one at a maker space or use [ponoko.com](https://www.ponoko.com/) to get them printed.  Use 1/4 inch neon green acrylic, it is the best!!
+
+You can learn about how to design your own rulers from scratch by reading the [First Book of Geometron](http://trashrobot.org/bookofgeometronfirst/), and create your own Raspberry Pi based factory to create custom shapes.  This can be used to make branded sets of geometry tools with whatever designs you want!
+
+We start with the Geometron Rulers:
+
+# Geometron Ruler
+
+![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/rulersphoto.jpg)
+
+The Geometron Ruler is one inch by six inches. One side has tenths and the other halves, quarters and eights. The highest quality rulers are made from quarter inch neon green acrylic with a laser cutter.  Any ruler can be used to make more rulers.  Cereal box cardboard is a good material.  Find a maker space or individual with a laser cutter.  Dig through the waste bin to find extra acrylic.  Place the outlines and etch and make rulers.  Give them away and spread the word of Geometron, Trash Magic, Trash Robot and so on.  Also you can use [Ponoko.com](https://www.ponoko.com/) to get large numbers of rulers made and can sell those if you so choose.  All of this work is in the PUBLIC DOMAIN with no restrictions whatsoever, so you are free to remix this and brand it for whatever you're dong, and sell or give away the branded rulers.  No payments are ever asked for this, no agreements, no contracts, just copy and use as you wish.  
+
+Using Ponoko.com is only cost effective if you have a budget of over 1000 dollars, then the cost per ruler can drop to about a dollar and a half.  Also, Ponoko only has eight inch acrylic and quarter inch is the nicest.  
+
+
+Ruler Outline SVG file:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruleroutline.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruleroutline.svg)
+
+Ruler Etch pattern PNG file:  
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruleretch.png)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruleretch.png)
+
+
+
+Ruler 2 color SVG file for Ponoko.com:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler2color.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler2color.svg)
+
+Set of 8 rulers in one SVG file for Ponoko.com:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/rulers8.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/rulers8.svg)
+
+
+## Metric
+
+Centimeters PNG file for etch.  Print out with 15 centimeter width and 2 cm height:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-etch.png)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-etch.png)
+
+centimeters Ruler Outline SVG file, line up with etch and make 15x2 cm:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-outline.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-outline.svg)
+
+One ruler with etch and cut in different layers:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm.svg)
+
+
+Set of 8 cm rulers in one SVG file for Ponoko.com:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-array.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/rulerimageset/uploadimages/ruler-cm-array.svg)
+
+Now the Shape set consists of 
+
+## Shape Set SVG file for 2 layer laser cutting or print out on printer:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset.svg)
+
+## Outline for the cut layer in a laser cutter:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset-outline.svg)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset-outline.svg)
+
+
+## PNG file for laser etch:
+
+[![](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset-etch.png)](https://raw.githubusercontent.com/LafeLabs/pibrary/main/factory/shapes/symbolfeed/shapeset-etch.png)
+
+
+### 3" square: 
+![](https://i.imgur.com/oCXWSGN.jpg)
+### 3" isosceles right triangle:
+![](https://i.imgur.com/Tp6xtV6.jpg)
+### 3" Golden Triangle and Golden Gnomon:
+![](https://i.imgur.com/TD5Sqs6.jpg)
+### 30-60-90 and isosceles 120 degree triangles:
+![](https://i.imgur.com/vkUCCZP.jpg)
+### 3" equilateral triangle:
+![](https://i.imgur.com/BtOx3D1.jpg)
+
+
+
+

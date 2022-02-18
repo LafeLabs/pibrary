@@ -1,0 +1,14 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/factory/pyramids/",
+    "scrolls": [
+        "arduino",
+        "artbox",
+        "constructions",
+        "electronics",
+        "home",
+        "physics",
+        "shapes",
+        "solar",
+        "trashvibrator"
+    ]
+}
