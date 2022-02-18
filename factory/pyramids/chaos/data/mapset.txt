@@ -1,12 +1,9 @@
 {
-    "server": "http://vineotron.net/chaos/",
+    "server": "http://vineotron.net/factory/pyramids/chaos/",
     "maps": [
-        "home",
-        "middlearth1"
+        "home"
     ],
-    "images": [
-        "middleearth.png"
-    ],
+    "images": [],
     "scrolls": [
         "home"
     ]

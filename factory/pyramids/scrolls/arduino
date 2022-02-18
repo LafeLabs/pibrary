@@ -3,9 +3,16 @@
 
 # arduino
  
- - buy an arduino uno
- - install the Arduino IDE
- - make it blink
- - put shield on arduino
- - upload the program to the uno 
- - code for standard pyramids behavior with switch
+ - [buy an arduino uno knockoff from amazon](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/)
+ - [Download and install the Arduino IDE](https://www.arduino.cc/en/software)
+ - program the board with:
+ - [pyramids.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/pyramidscode/code/pyramids.ino)
+ - put the [shield](scrolls/electronics) on(add photograph)
+ - connect the sensor, or make sure it's already connected(photos)
+ - powered with the [solar power plant](scrolls/solar)
+
+![](https://i.imgur.com/mEpsNXF.png)
+![](https://i.imgur.com/1n8oLbu.png)
+![](https://i.imgur.com/qV48ilA.png)
+![](https://i.imgur.com/5ATHJvD.png)
+![](https://i.imgur.com/pudYjpD.png)
