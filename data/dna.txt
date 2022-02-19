@@ -3,6 +3,7 @@
         "README.md",
         "fork.html",
         "index.html",
+        "publicdark.html",
         "publicpage.html",
         "qrcode.html",
         "readme.html",
@@ -34,6 +35,7 @@
         "pibrarygenerator.txt",
         "pibraryreplicator.txt",
         "publicconvert.txt",
+        "publicconvertdark.txt",
         "rdelete.txt",
         "removephp.txt",
         "replicator.txt",
@@ -46,9 +48,7 @@
     ],
     "scrolls": [
         "home",
-        "links",
-        "replicators",
-        "trashrobotlibrary"
+        "links"
     ],
     "iconsymbols": [
         "chaos.svg",

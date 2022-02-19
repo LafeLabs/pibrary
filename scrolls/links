@@ -5,6 +5,7 @@
  
  - [editor.php](editor.php) 
  - [publicconvert.php](publicconvert.php)
+ - [publicconvertdark.php](publicconvertdark.php)
  - [fileset/replicator.php](fileset/replicator.php)
  - [iconset/replicator.php](iconset/replicator.php)
  - [codeset/replicator.php](codeset/replicator.php)
