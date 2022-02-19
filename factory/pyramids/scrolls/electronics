@@ -1,14 +1,43 @@
 
 ## [HOME](scrolls/home)
-
-# electronics
  
- - links to eagle files
- - link to zip file of gerbers
- - link to buy the boards at pcbway
- - linked list bill of materials for shield kit
- - link to digikey cart for 20 kits
- - screen shot from eagle of layout
- - photograph of raw board
- - photograph of board fully stuffed
- - photograph of all the elements of the kit prior to assembly with lables 
+# Arduino UNO Shield Version 6
+
+Eagle files:
+ 
+ - [unoshield-v6.brd(Eagle layout file)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.brd)
+ - [unoshield-v6.sch(Eagle schematic)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.sch)
+ - [zip file of Gerbers](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6_2022-02-08.zip)
+
+Screen shot of board:
+
+![](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6-screenshot.png)
+
+Bill of Materials
+
+ - [1 IRFL024NTRPBF MOSFET N-CH 55V 2.8A SOT223 ($0.60 1x Digikey)](https://www.digikey.com/en/products/detail/infineon-technologies/IRFL024NTRPBF/1928257)
+- [1 SMT Diode ($0.20 1x Digikey)](https://www.digikey.com/en/products/detail/on-semiconductor/S1B/965719) 
+- [300 Ohm Axial 5% resistor($0.02 1x Digikey)](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JA300R/9770127)
+- [10 kOhm Axial 5% resistor($0.02 1x Digikey)](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566)
+ - [10k potentiometer($0.75 1x Digikey)](https://www.digikey.com/en/products/detail/bourns-inc/PTV09A-4225F-B103/3781155)
+ - [2 buttons($0.30x2 = $0.60 Digikey)](https://www.digikey.com/en/products/detail/e-switch/TL59AF100Q/1144808)
+ - [three position(on-off-on) SPDT switch ($3.53 x1 Digikey)](https://www.digikey.com/en/products/detail/nkk-switches/B13AP/379100)
+ - [electrolytic capacitor 1000 uF 16V ($0.38 x1 Digikey)](https://www.digikey.com/en/products/detail/rubycon/16PK1000MEFC10X12-5/3563556)
+ - [0.1" male header strips from Adafruit](https://www.adafruit.com/product/392)
+ - [female to female 8 inch jumper wire kit from Adafruit](https://www.adafruit.com/product/1919)
+ - [lis3dh sensor from Adafruit](https://www.adafruit.com/product/2809)
+ - [Neopixel strips from Adafruit](https://www.adafruit.com/product/1460)
+ - [5 volt big power brick for long neopixels 10 Amps from Adafruit](https://www.adafruit.com/product/658)
+ - [5 volt 2 amp supply from Adafruit](https://www.adafruit.com/product/276)
+ - [shorter array of Neopixels which runs on 2 A from Adafruit](https://www.adafruit.com/product/3919)
+
+[link to a digikey shopping cart with all the components on the board other than the barrel connectors and jumpers(enough to build 20 kits, for about 140 dollars)](https://www.digikey.com/short/f7nqbp27)
+
+![](https://i.imgur.com/UWvABQt.jpg)
+
+![](https://i.imgur.com/sHPeFrW.jpg)
+
+![](https://i.imgur.com/UkC04xV.jpg)
+
+![](https://i.imgur.com/mMVUjNm.jpg)
+
