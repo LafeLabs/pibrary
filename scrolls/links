@@ -3,7 +3,9 @@
 
 # links
  
- - [editor.php](editor.php) 
+ - [editor.php](editor.php)
+ - [index.html](index.html)
+ - [qrcode.html](qrcode.html)
  - [publicconvert.php](publicconvert.php)
  - [publicconvertdark.php](publicconvertdark.php)
  - [fileset/replicator.php](fileset/replicator.php)

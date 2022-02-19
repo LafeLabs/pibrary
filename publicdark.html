@@ -82,7 +82,7 @@
         </td>
     </tr>
     <tr>
-        <td id = "qrcode"></td>
+        <td ></td>
     </tr>
 </table>
 
@@ -119,6 +119,7 @@
     </tr>
 </table>
 
+<div id = "qrcode"></div>
 <script>
 
 if(innerWidth > innerHeight){
@@ -307,7 +308,7 @@ if(innerWidth > innerHeight){
     codesquaresize = 100;
 }
 else{
-    codesquaresize = 80;
+    codesquaresize = 70;
 }
 
 
@@ -487,6 +488,9 @@ h1,h2,h3,h4{
     }
     table img{
         max-width:60px;
+    }
+    #qrcode{
+        display:none;
     }
 }
 </style>

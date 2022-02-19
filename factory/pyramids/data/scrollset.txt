@@ -6,6 +6,7 @@
         "constructions",
         "electronics",
         "home",
+        "links",
         "physics",
         "shapes",
         "solar",
