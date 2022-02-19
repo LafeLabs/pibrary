@@ -2,16 +2,16 @@
 ## [HOME](scrolls/home)
  
 # Arduino UNO Shield Version 6
-
-Eagle files:
  
  - [unoshield-v6.brd(Eagle layout file)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.brd)
  - [unoshield-v6.sch(Eagle schematic)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.sch)
  - [zip file of Gerbers](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6_2022-02-08.zip)
+ - [buy boards from PCBway.com](https://www.pcbway.com/project/shareproject/W224521BSI36_unoshield_v6_2022_02_08_d8851f5c.html)
 
-Screen shot of board:
 
 ![](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6-screenshot.png)
+
+![](https://i.imgur.com/UWvABQt.jpg)
 
 Bill of Materials
 
@@ -33,7 +33,6 @@ Bill of Materials
 
 [link to a digikey shopping cart with all the components on the board other than the barrel connectors and jumpers(enough to build 20 kits, for about 140 dollars)](https://www.digikey.com/short/f7nqbp27)
 
-![](https://i.imgur.com/UWvABQt.jpg)
 
 ![](https://i.imgur.com/sHPeFrW.jpg)
 
