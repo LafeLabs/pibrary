@@ -1,0 +1,11 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/",
+    "code": [
+        "basicrainbow.ino",
+        "gplot.ino",
+        "index.html",
+        "rainbowdimmer.ino",
+        "threemode.ino",
+        "threemodeknob.ino"
+    ]
+}
