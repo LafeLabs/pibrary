@@ -2,4 +2,9 @@
 
 # Neopixel
 
- - [codeset/replicator.php](codeset/replicator.php)
+
+ - [basicrainbow.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/basicrainbow.ino)
+ - [rainbowdimmer.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/rainbowdimmer.ino)
+ - [gplot.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/gplot.ino)
+ - [threemodeknob.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/threemodeknob.ino)
+ - [codeset/](codeset/)
