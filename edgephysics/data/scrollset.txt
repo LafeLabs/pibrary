@@ -25,6 +25,7 @@
         "pitchdeck",
         "possibleedges",
         "research",
+        "resume",
         "robotics",
         "team",
         "tedtalk",
