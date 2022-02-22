@@ -3,6 +3,7 @@
     "code": [
         "basicrainbow.ino",
         "gplot.ino",
+        "gspeedmove.ino",
         "index.html",
         "rainbowdimmer.ino",
         "threemode.ino",
