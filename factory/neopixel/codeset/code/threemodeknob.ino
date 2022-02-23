@@ -79,18 +79,11 @@ void setup(void) {
   Serial.begin(9600);
   while (!Serial) delay(10);     // will pause Zero, Leonardo, etc until serial console opens
 
-  Serial.println("LIS3DH test!");
+
   
-  if (! lis.begin(0x18)) {   // change this to 0x19 for alternative i2c address
-    Serial.println("Couldnt start");
-    while (1) yield();
-  }
-  Serial.println("LIS3DH found!");
+
+
   
-  lis.setRange(LIS3DH_RANGE_4_G);   // 2, 4, 8 or 16 G!
-  
-  Serial.print("Range = "); Serial.print(2 << lis.getRange());  
-  Serial.println("G");
   pinMode(button1pin,INPUT_PULLUP); 
   pinMode(button2pin,INPUT_PULLUP); 
 
@@ -105,22 +98,6 @@ void loop() {
   
   button1 = !digitalRead(button1pin);  
   button2 = !digitalRead(button2pin);  
-
-  lis.read();      // get X Y and Z data at once
-
-  /* Or....get a new sensor event, normalized */ 
-  sensors_event_t event; 
-  lis.getEvent(&event);
-  
-  /* Display the results (acceleration is measured in m/s^2) */
-
-  gx= event.acceleration.x;
-  gz= -event.acceleration.z;
-
-  //  Serial.print(gx);
- // Serial.print(",");
-//  Serial.println(gz);
-
   
 
   if(!button1 && !button2){
