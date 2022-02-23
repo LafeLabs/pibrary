@@ -7,6 +7,7 @@
  - [rainbowdimmer.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/rainbowdimmer.ino)
  - [gplot.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/gplot.ino)
  - [threemodeknob.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/threemodeknob.ino)
+ - [g2speed.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/g2speed.ino)
  - [codeset/](codeset/)
 - [Neopixel strips from Adafruit](https://www.adafruit.com/product/1460)
  - [5 volt big power brick for long neopixels 10 Amps from Adafruit](https://www.adafruit.com/product/658)
