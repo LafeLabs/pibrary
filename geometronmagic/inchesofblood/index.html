@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body> 
+<p>
+    <a href = "../">up a level</a>
+
+</p>
+    
+<h1><a href = "https://vm.tiktok.com/TTPdSan81L/">INCHES OF BLOOD</a></h1>
+
+<p>
+    The pressure unit of 1 milimeter of mercury is equal to 0.54 inches of blood. Put in BP in mmHg units to get inches of blood. Mercury is unfamiliar and unused.  Units in physical manometers no longer mean anything since measurement is now electronic.  So we should use blood pressure units which relate to the subject of study, which is inches of blood.  In countries on the metric system, use cm of blood. To change anything about this page for your own page, just look at the source of this file, index.html, copy the code and change the unit conversion factor in the JavaScript element called "script".  Blood is so close to water in density that the difference does not matter at this level of accuracy.  Share and enjoy!  
+</p>
+<table>
+    <tr>
+        <td>upper(systolic)[mmHg]:</td>
+        <td>
+            <input id = "uppermm"/>
+        </td>
+        <td>[INCHES OF BLOOD]:</td>
+        <td>
+            <input id = "upperin"/>
+        </td>
+    </tr>
+    <tr>
+        <td>lower(diastolic)[mmHg]:</td>
+        <td>
+            <input id = "lowermm"/>
+        </td>
+        <td>[INCHES OF BLOOD]:</td>
+        <td>
+            <input id = "lowerin"/>
+        </td>
+    </tr>
+
+</table>
+
+<h1>Three Inches of Blood</h1>
+
+Canadian power metal. Very excellent band!  Now defunct.  But eternal!! The Goatrider's Horde!!
+<p>
+    <a href = "https://en.wikipedia.org/wiki/3_Inches_of_Blood">wikipedia link</a>
+</p>
+<p>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4b/3-inches-of-blood.jpg"/>
+</p>
+
+<p>
+    <a href = "editor.php">editor.php</a>
+</p>
+
+
+<script>
+
+document.getElementById("uppermm").onchange = function(){
+    pmm = parseFloat(this.value);
+    pin = Math.round(0.54*pmm*10)/10;
+    document.getElementById("upperin").value = pin.toString();
+}
+
+document.getElementById("lowermm").onchange = function(){
+    pmm = parseFloat(this.value);
+    pin = Math.round(0.54*pmm*10)/10;
+    document.getElementById("lowerin").value = pin.toString();
+}
+
+</script>
+<style>
+body{
+    background-color:#303030;
+    color:red;
+}
+p,td{
+    font-size:2em;
+}
+input{
+    background-color:black;
+    font-family:courier;
+    font-size:1em;
+    color:#00ff00;
+    width:4em;
+}
+h1{
+    font-size:8em;
+    color:red;
+    text-align:center;
+}
+a{
+    color:#ff2cb4;
+}
+</style>
+</body>
+</html>
