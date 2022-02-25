@@ -1,18 +1,17 @@
 
 ## [HOME](scrolls/home)
-
+ 
 # Arduino UNO Shield Version 6
-
-Eagle files:
  
  - [unoshield-v6.brd(Eagle layout file)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.brd)
  - [unoshield-v6.sch(Eagle schematic)](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6.sch)
  - [zip file of Gerbers](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6_2022-02-08.zip)
- - [buy boards from pcbway](https://www.pcbway.com/project/shareproject/W224521BSI36_unoshield_v6_2022_02_08_d8851f5c.html)
+ - [buy boards from PCBway.com](https://www.pcbway.com/project/shareproject/W224521BSI36_unoshield_v6_2022_02_08_d8851f5c.html)
 
-Screen shot of board:
 
 ![](https://raw.githubusercontent.com/LafeLabs/trashrobot5/master/boards/unoshield-v6-screenshot.png)
+
+![](https://i.imgur.com/UWvABQt.jpg)
 
 Bill of Materials
 
@@ -25,11 +24,17 @@ Bill of Materials
  - [three position(on-off-on) SPDT switch ($3.53 x1 Digikey)](https://www.digikey.com/en/products/detail/nkk-switches/B13AP/379100)
  - [electrolytic capacitor 1000 uF 16V ($0.38 x1 Digikey)](https://www.digikey.com/en/products/detail/rubycon/16PK1000MEFC10X12-5/3563556)
  - [0.1" male header strips from Adafruit](https://www.adafruit.com/product/392)
- - [female to female 8 inch jumper wire kit from Adafruit](https://www.adafruit.com/product/1919)
+ - [female to female 6 inch jumper wire kit from Adafruit](https://www.adafruit.com/product/266)
+ - [breadboard jumper kit from amazon](https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRGVYPV/)
  - [lis3dh sensor from Adafruit](https://www.adafruit.com/product/2809)
- - [Neopixel strips from Adafruit](https://www.adafruit.com/product/1460)
- - [5 volt big power brick for long neopixels 10 Amps from Adafruit](https://www.adafruit.com/product/658)
- - [5 volt 2 amp supply from Adafruit](https://www.adafruit.com/product/276)
- - [shorter array of Neopixels which runs on 2 A from Adafruit](https://www.adafruit.com/product/3919)
+ 
+ 
+[link to a digikey shopping cart with all the components on the board other than the barrel connectors and jumpers(enough to build 20 kits, for about 140 dollars)](https://www.digikey.com/short/f7nqbp27)
 
-[link to a digikey shopping cart with all the components on the board other than the barrel connectors and jumpers](https://www.digikey.com/short/f7nqbp27)
+
+![](https://i.imgur.com/sHPeFrW.jpg)
+
+![](https://i.imgur.com/UkC04xV.jpg)
+
+![](https://i.imgur.com/mMVUjNm.jpg)
+
