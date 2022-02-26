@@ -1,0 +1,9 @@
+foo
+# header
+
+text
+
+ - [magic.html](magic.html)
+ - [first link](https://www.trashrobot.org/)
+ - [second link](https://www.pibrary.org)
+ - [editor.php](editor.php)
