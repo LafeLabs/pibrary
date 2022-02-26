@@ -1,9 +1,7 @@
-foo
-# header
+# Web 1.0
 
-text
-
- - [magic.html](magic.html)
- - [first link](https://www.trashrobot.org/)
- - [second link](https://www.pibrary.org)
+ - [../../](../../)
  - [editor.php](editor.php)
+ - [magic.html](magic.html)
+ - [scrollreplicator.php](scrollreplicator.php)
+ - [markdown syntax guide](https://www.markdownguide.org/basic-syntax/)

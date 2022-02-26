@@ -5,8 +5,8 @@
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 </head>
 <body>    
-<h1>Magic</h1>
-
+<h1><a id = "qrlink"></a></h1>
+<div id = "qrcode"></div>
 <table>
     <tr>
         <td>scroll source url:</td>
@@ -15,48 +15,7 @@
         </td>
     </tr>
 </table>
-<ul>
-    <li>
-        <a href = "index.html">index.html</a>
-    </li>
-    <li>
-        <a href = "replicator.php">replicator.php</a>
-    </li>
-    <li>
-        <a href = "scrollreplicator.php">scrollreplicator.php</a>
-    </li>
-    <li>
-        QR code
-    </li>
-    <li>
-        cardboard sign
-    </li>
-    <li>
-        <a href = "https://www.trashrobot.org/sign">link to url trashrobot.org/sign</a>
-    </li>
-    <li>
-        <a href= "https://www.markdownguide.org/basic-syntax/">
-            markdown syntax guide</a>
-    </li>
-    <li>
-        populate scroll on reload
-    </li>
-    <li>
-        first random link i want to promote, quantum art
-    </li>
-    <li>
-        second random link, action geometry
-    </li>
-    <li>
-        third random link someone elses patreon
-    </li>
-</ul>
-
-<h2>Scroll:</h2>
 <textarea id = "textio"></textarea>
-<h2><a id = "qrlink"></a></h2>
-<div id = "qrcode"></div>
-
 <script>
 
 //onchange, change the source of the scroll
@@ -135,19 +94,38 @@ qrcode = new QRCode(document.getElementById("qrcode"), {
 
 </script>
 <style>
+body{
+    background-color:#808080;
+}
 h1{
-    font-size:4em;
     text-align:center;
 }
 a{
     font-size:2em;
 }
+a{
+    color:#ff2cb4;
+}
+
 canvas{
     border:solid;
     border-width:4px;
     margin:1em 1em 1em 1em;
 }
-
+#textio{
+    background-color:black;
+    color:#00ff00;
+    font-family:courier;
+    position:absolute;
+    right:10px;
+    bottom:20px;
+    height:50%;
+    width:50%;
+    z-index:1;
+}
+#sourceurlinput{
+    width:20em;
+}
 </style>
 </body>
 </html>
