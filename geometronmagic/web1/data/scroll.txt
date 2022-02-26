@@ -1,7 +1,6 @@
 # Web 1.0
 
- - [../../](../../)
+here is some text
+
  - [editor.php](editor.php)
  - [magic.html](magic.html)
- - [scrollreplicator.php](scrollreplicator.php)
- - [markdown syntax guide](https://www.markdownguide.org/basic-syntax/)
