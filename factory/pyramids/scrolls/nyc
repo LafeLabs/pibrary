@@ -1,0 +1,38 @@
+
+## [HOME](scrolls/home)
+
+# nyc kit
+ 
+Sending to Logan Grendel at Focused on Infinity.  We will replicate the artbox first, then the two pyramid bases, then the stimulator and sensor pyramids, two capstones for the sense pyramid.  Test all the electronics right before shipping and also right after, and before the assembly of the cardboard.
+
+## Steps
+
+ 1. plug in and test the system, just electronics, with wall power
+ 2. make the artbox, decorate, assemble means of replication
+ 3. use shapes to cut out all the pieces for the pyramids
+ 4. make the two pyramid bases, make the two sense pyramid capstones
+ 5. cut out space for motor, mount motor, assemble trash vibrator with plastic caps, power cable going out with duct tape strain relief
+ 6. finish assembly of the sense pyramid with the small capstone
+ 7. insert the arduino in sense pyramid, connect it all together, test in simple tilt mode
+ 8. test gyrator mode, test up/down mode
+ 9. add trash ties, experiment with configurations
+ 10. build out giant art pieces with stimulation and response
+ 11. create demonstrations, use to make media, share the media, *replicate the system*
+ 13. expand to other elements of the system: raspberry pi media, solar power stations, mesh network hardware, free internet connections, clay printers and clay self-replicating media, neopixel light arrays, 
+
+Our goal in all cases is replication. Replication of anything.  Whatever people might want, we can separate and replicate, including the 
+
+
+## Elements
+
+ - [Arduino UNO programmed with Pyramids basic code](scrolls/arduino)
+ - [Trash Vibrator Motor and mass](scrolls/trashvibrator)
+ - [Shield board plugged onto Arduino, along with accelerometer](scrolls/electronics)
+ - [shape set and a felt shape wallet for it, ruler](scrolls/shapes)
+ - template set with each shape cut out in correct size with the number which will be cut out at that size, and an assembly net with the shape highlighted
+ - 12 volt wall plug
+ - plastic pieces for the surface
+ - trash ties
+ - bag of googly eyes
+ - clay coins and raw clay for replication: earth(prints), fire(stamps), and water(coins) focused on infinity one side, tiktok logo on the other, and another couple relevant symbols/icons
+
