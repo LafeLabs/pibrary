@@ -2,5 +2,6 @@
 
 here is some text
 
+ - [../](../)
  - [editor.php](editor.php)
  - [magic.html](magic.html)
