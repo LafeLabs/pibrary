@@ -4,7 +4,12 @@
 
 by [trash robot](https://www.trashrobot.org)
 
-The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.    
+The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.   We can take donations from individuals, charities, non profits and governments, and spend them on hardware, travel, and time for people to do training.  The Raspberry Pi terminal described here is built and given away for free to people in an under-resourced community for general use  as a media resource.  The same system is installed on just a Pi board and a TV on a home network to be used as a web server only.  We also build out mesh networks to provide free wireless Internet in public spaces.  
+
+
+Our aim is to have all public spaces in the world have totally free media networks, which include Internet access, devices to read and write media on, servers to deliver media over the network, and solar power to run it all without the Grid.  We also raise money from donations for the payments to keep these mesh networks free and connected to the Internet. 
+
+This network can form the basis of a whole society.  If the network proves to provide value, more people will pay to replicate it more.  If it replicates, it will have more value due to network effects, and so on.  We don't need any central infrastructure, we just keep getting donations, buying hardware, training users, and so on.  
 
 [replicator.txt global link](https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt)
 
@@ -139,7 +144,6 @@ then run the install script:
 sudo /opt/arduino-####/install.sh
 ```
 
-
 ## Add python that we need for doing science
 
 [https://matplotlib.org/](https://matplotlib.org/)
@@ -161,4 +165,8 @@ sudo pip3 install --upgrade pip
 reboot
 sudo pip3 install jupyter
 ```
+
+ - [github for Documentation for nyc mesh network](https://github.com/nycmeshnet/docs)
+ - [nycmesh.net](https://www.nycmesh.net/)
+ - [wireless networking in the developing world](http://wndw.net/)
 
