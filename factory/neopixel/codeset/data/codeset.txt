@@ -2,10 +2,13 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/codeset/",
     "code": [
         "basicrainbow.ino",
+        "chaos30.ino",
+        "chaos300.ino",
         "g2speed.ino",
         "gplot.ino",
         "gspeedmove.ino",
         "index.html",
+        "pendulum300.ino",
         "rainbowdimmer.ino",
         "threemode.ino",
         "threemodeknob.ino"
