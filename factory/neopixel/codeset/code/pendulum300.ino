@@ -34,7 +34,7 @@ int index = 0;
 // 
  
   float t = 0.0;
-  int period = 15;
+  int steptime = 15;
   float y[] = {0.0,0.0};
   float E;
   float f0 = 0.0;  //velocity
@@ -54,10 +54,10 @@ int index = 0;
   float yindex = 0.1;
   float ynext[] = {0.0,0.0};
  
-  float gamma = 0.4; 
-  float omega0 = 1.0;
-  float h = 0.02; //time step in fractions of natural period 
-  float A = 0.3;  
+  float gamma = 0.3; 
+  float omega0 = 0.7;
+  float h = 0.01; //time step in fractions of natural period 
+  float A = 1.1;  
 
  
 
@@ -151,10 +151,10 @@ void loop() {
   }
   Serial.println(x);
 
-    strip.setPixelColor(x, 255, 0, 0);         
-    strip.show();                           
-    delay(period);
-    strip.setPixelColor(x, 0, 0, 0);               
+  strip.setPixelColor(x, 255, 100, 100);         
+  strip.show();                           
+  strip.setPixelColor(x, 0, 0, 0);               
+  delay(10);
   
 }
 
