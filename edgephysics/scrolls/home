@@ -70,31 +70,42 @@ As the networks expands and replicates, we will guide its evolution to get ever 
 
 Ultimately if we are to have our media not need new microchips, we need to fabricate our own circuits, which we do using a full Geometron architecture as documented in the [Book of Geometron](http://trashrobot.org/bookofgeometronfirst/).  
 
+All of our physical media is intended to self-replicate as well.  Initially this is as simple as cardboard signs with magic marker which point to web addresses, and which people copy to spread the document at the address.  We also print into surfaces, such as clay, and use clay to print into plastic trash.  The other media describes how to make the robot out of trash which prints in the clay, and use the clay to print into trash.  
 
-
-
- - self-replicating media as a concept, some examples from trash robot
- - social media content
- - social media distribution
- - web pages
- - future full stack trash based media system with power cells, screens, geometron processors, communications channels, energy, memory
- - elevator pitch for the trash robot brand as example of self-replicating social media
- - we are content creators.  we use all commercial platforms to make self-replicating things as well as our own free platform, the pibrary and web 1.0
+The purpose of all media we create is replication and evolution.  We always evolve the system to be more free, more edge-based, and more directed toward whatever the greatest community need is.  The primary documents on any media should always be about how to replicate that media, and are essentially advertisements to do that.  We create videos, write books, make web pages, write articles, tell stories and hold signs, all to get people to replicate the elements of our media. This is what makes it self-replicating media.  
  
 ## 5. The Pibrary
+
+The Pibrary is an extension of the concept of the public library farther out to the outer edges of the network, using the Raspberry Pi open source computer.  We make solar power stations using easily purchased products to power Raspberry Pi terminals we share in public spaces with whoever needs access to the Internet.  The solar power station and terminal are used as a mutual aid resource, providing free network access and device charging to anyone we can find who is in need of help.  We provide Web 1.0 posting services for free to whoever we can help as well, posting links to anything people want promoted.  We can post pages and other documents for people, and then link to those resources with physical media in the form of cardboard signs made with magic markers. 
+
+We ask people to donate Raspberry Pi hardware.  Each copy of the system has links to buy all the parts.  Ask people to buy parts and donate, and let the whole system grow into a whole network of free hardware.  We can also set up Raspberry Pi's in homes and businesses and open the port of the router there so that the Pi can be a server to the outside Internet.  To link to all this, we create physical media which connects to the domains which link to the servers, as mentioned in the previous section.  
+
+Raspberry Pi's can also drive large screens or projectors in public spaces.  We try to find the most public space we can, and use physical media to link to web resources, as well as the physical sharing of our own media infrastructure(screens, printers, projectors).
  
- - Solar powered Raspberry Pi
- - Home Raspberry Pi
- - mesh networks--have references to everything from the nyc Mesh howto page, and say "wifi networks" in general
- - self-replicating documents system(the code which edits the document itself replicates) aka Cybermagic
- - web pages, web 1.0
- - the role of physical media *information is physical*
- - github
- - Geometron: robot control, screen control, layout, symbol construction, all design in the future, all graphics, Raspberry Pi and Arduino as platform for  EVERYTHING
+Part of growing this network is to build, as a mutual aid project, free mesh networks in public spaces.  We find donors willing to share their bandwidth for free, and connect our mesh network to them.  Each hot spot or repeater on the network is powered by solar power and battery stations like the Raspberry Pi's.  Wherever there is the greatest need, that is where we will build the most infrastructure, until that is no longer longer that need.
+
+The code is maintained by copying the [pibrary code repository on Github](https://github.com/LafeLabs/pibrary).  Each new instance copies all the code from there to your new repository and all your web resources and so on.  Further details on this system are in the Books of Geometron at www.trashrobot.org.
+
+## Geometron
+
+Geometron is a way to control how machines work using geometry directly.  It is a way of thinking about geometry and language which is analogous to how computer science describes machines which manipulate numbers.  This combination of language, mathematics, philosophy and technology is documented at www.trashrobot.org in the Books of Geometron.  This collection of ideas and methods will be how we program the robots which build all of our technology.  Manufacturing, automation, and media are all things which can be described by sequences of geometric actions.  As Geometron is expanded along the lines described in the Books of Geometron, we will build a system in which numerical machines are entirely replaced by geometric machines. 
+
 
 ## The Edge Physics Machine Shop
 
-This and the electrical shop should just all be rolled into a maker space network, which is documented in the final section. Both of these should get rolled into the last section, making a total of 6 sections
+A great machine shop is at the heart of any great physics department. The Edge Physics Network constitutes a physics department distributed across a wide network of people across faraway places.  We aim to find machinists who are willing to act as allies to our cause.  We try to make friends with every commercial machine shop, every trade school with a machinist training program, every academic machine shop, every high school shop teacher, every maker space, and every enthusiastic amateur with machine tools.  
+
+Is that you? Are you a machinist or instructor in machining?  Join us! Become our shop! We want you to get all your materials for free from the trash, so all you need is tools and time and buy no raw materials.  To do this we must also be making friends with scrap metal buyers and sellers, junk yard people, junk haulers, surplus workers, and anyone else who works with scrap metal and machines.  
+
+Are you a scrap metal person? Find machinists.  Find high school robotics teams and shop teachers.  Contact the local trade school and find machining teachers there.  Let us share our vision with each other: scrap metal, machines, and models to demonstrate our system.  
+
+Our first goal in building this machine shop is to build models which demonstrate the most basic elements of our self-replicating trash machine system.  This means we must build a milling machine, a lathe, a drill press, a saw, all from trash.  This is your first task.  What is the minimum set of machines we can build which can build another set, all from trash?  Let's boil this down to the minimum, share our findings as we push toward that, and then build up from there to building more and more complex machines. 
+
+Another model we want to build and share the details of how to replicate is the generator.  Many AC motors end up in waste streams, and they can be taken apart, modified with added magnets, and rewired to be generators converting rotation into DC electrical power charging batteries.  We want to build a modular system where an incoming waste stream is continuously converted into generators which we distribute to whoever can make the most use of them in our local community.  This should be adaptable to any kind of electrical pickup, be it water or wind.    We want to find as well waste-built systems for small scale water and wind, which we make and distribute, again as modular components, and always to whoever can make the most use of it.
+
+All the electrical generators we build with the metal shop network are integrated into the technology developed by the Edge Physics electrical shop. 
+
+We also aim to build a system of trash-based Stirling engines for direct sun-drive of machines. This starts with just simple little demonstrations, which can generate a few watts of electric power we use to charge USB devices directly from the sun.  From this model, we work to make it easier to copy from trash built parts, and share it over the Pibrary network described above.  We keep evolving the engines to be more powerful, easier to build, and easier to use.  We work with the robot developers on building automatic sun tracking technology to keep aimed at the sun through the course of a day.  These engines need to get integrated into the system described above of standardized electric generators.
 
  - scrap metal and recycling business
  - following an aluminum atom in recycling vs. in our machine shop
@@ -114,13 +125,19 @@ This and the electrical shop should just all be rolled into a maker space networ
  - robotics and automation, generalized system for controlling all motorized things
  - modular general screen system 
  - modular battery packs
-
+ - trash pi
+ - trash arduino
+ - print a wire from any pad to any other pad in an electrolytic solution across a pcb
 
 ## The Edge Physics Network
 
 The Edge Physics network is a social network of individuals who will together bring the ideas presented here into reality.  This is not a technological network or a piece of software or a "platform", nor is it a company or non profit.  This network crosses boundaries between small business, independent individuals, university faculty, governments, non profits, employees of large corporations, and any other entity who has something to contribute to this mission.  We are simply a network of people who exchange information, energy and materials to do things.  
 
 The heart of what is proposed here is building this network.  This will involve building relationships between organizations, starting new programs in existing organizations and in some cases starting new organizations(both private and public).  
+
+As much as possible we aim to build structures in which people can keep doing whatever they already do, but in a way which builds out our network for their own ends.
+
+The network can generally be seen as an extension of the library system.
 
  - this is a network of people and institutions
  - sponsors
