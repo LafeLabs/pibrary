@@ -90,7 +90,6 @@ The code is maintained by copying the [pibrary code repository on Github](https:
 
 Geometron is a way to control how machines work using geometry directly.  It is a way of thinking about geometry and language which is analogous to how computer science describes machines which manipulate numbers.  This combination of language, mathematics, philosophy and technology is documented at www.trashrobot.org in the Books of Geometron.  This collection of ideas and methods will be how we program the robots which build all of our technology.  Manufacturing, automation, and media are all things which can be described by sequences of geometric actions.  As Geometron is expanded along the lines described in the Books of Geometron, we will build a system in which numerical machines are entirely replaced by geometric machines. 
 
-
 ## The Edge Physics Machine Shop
 
 A great machine shop is at the heart of any great physics department. The Edge Physics Network constitutes a physics department distributed across a wide network of people across faraway places.  We aim to find machinists who are willing to act as allies to our cause.  We try to make friends with every commercial machine shop, every trade school with a machinist training program, every academic machine shop, every high school shop teacher, every maker space, and every enthusiastic amateur with machine tools.  
@@ -103,21 +102,23 @@ Our first goal in building this machine shop is to build models which demonstrat
 
 Another model we want to build and share the details of how to replicate is the generator.  Many AC motors end up in waste streams, and they can be taken apart, modified with added magnets, and rewired to be generators converting rotation into DC electrical power charging batteries.  We want to build a modular system where an incoming waste stream is continuously converted into generators which we distribute to whoever can make the most use of them in our local community.  This should be adaptable to any kind of electrical pickup, be it water or wind.    We want to find as well waste-built systems for small scale water and wind, which we make and distribute, again as modular components, and always to whoever can make the most use of it.
 
-All the electrical generators we build with the metal shop network are integrated into the technology developed by the Edge Physics electrical shop. 
+All the electrical generators we build with the metal shop network are integrated into the technology developed by the Edge Physics electrical shop and the elements of the Pibrary network.  The generators can run media equipment, lights, robots, and most fundamentally machines to build more machines.  We want edge energy driving generators which create power to drive machines to build more machines, all in our local network of machine builders and scrappers.
 
-We also aim to build a system of trash-based Stirling engines for direct sun-drive of machines. This starts with just simple little demonstrations, which can generate a few watts of electric power we use to charge USB devices directly from the sun.  From this model, we work to make it easier to copy from trash built parts, and share it over the Pibrary network described above.  We keep evolving the engines to be more powerful, easier to build, and easier to use.  We work with the robot developers on building automatic sun tracking technology to keep aimed at the sun through the course of a day.  These engines need to get integrated into the system described above of standardized electric generators.
+We also aim to build a system of trash-based Stirling engines for direct sun-drive of machines. This starts with just simple little demonstrations, which can generate a few watts of electric power we use to charge USB devices directly from the sun.  From this model, we work to make it easier to copy from trash built parts, and share it over the Pibrary network described above.  We keep evolving the engines to be more powerful, easier to build, and easier to use.  We work with the robot developers on building automatic sun tracking technology to keep aimed at the sun through the course of a day.  These engines need to get integrated into the system described above of standardized electric generators.  This completes our basic set of edge energy: wind, sun and water.  We aim to build generators from a few watts to a few thousand watts.  Stirling engines must also be built for building refrigerators and air conditioners.  We aim to find the people who need air conditioning the most and deliver free solar powered air conditioners to them as mutual aid.  This can be done with sun-driven Striling engines driving another Stirling engine which extracts heat.  
 
- - scrap metal and recycling business
- - following an aluminum atom in recycling vs. in our machine shop
- - university, government and corporate surplus
- - automotive junk yards
- - household trash
- - tools of the shop
- - products of the shop
- - customers of the shop
- - who works in the shop and how
+This simple yet powerful set described here is the beginning.  It is enough to get free replication, if combined with the rest of the system.  Once it all starts to replicate and evolve, we build the next elements of the full system.  This means we build all of the most fundamental components of technology: pumps, compressors, valves, engines, agricultural machinery and so on.  As the shop network evolves, the linkages with the science network will also evolve, and we will build more complex production technologies.
+
 
 ## The Edge Physics Electrical Shop
+
+The electrical shop is a critical partner with the machine shop. This is, like the machine shop, a social network of experts and organizations who collaborate to build models of the elements of edge physics.  We aim to share our vision with whoever we can find who handles electrical and electronic trash.  Electronics scrap dealers, recycling plant workers, electronics repair people, people who work at dumps, garbage and recycling pickup workers, and really anyone who might possible have any interaction with electronic trash must all join our network!  We also need to build a network with electronics hobbyists like ham radio operators, makers, engineering students and artists.  
+
+We build this social network using existing social media networks as well as the new ones we build and building around physical spaces where we can exchange physical things.  These are the same spaces we aim to link up using the Pibrary network.  The network of wireless hotspots, Rapsberry Pi media, and physical media spread the knowledge about how to make the electronics.  The electronics then supports this network.  Just as we aim for the machine shop to self-replicate by building more machines to make more machine shops, the electrical shop replicates by supporting the media hardware.  
+
+We want to build a system of modular power cells from old broken lithium ion polymer batteries that retains the value of the elements in those.  How do we do this? Figure it out! Ask around! Someone must know and if they don't they can help us find someone who can.  We want modularity!  It should be easy for anyone to learn to do some simple transformation to take old broken batteries and turn them into something which can be incorporated into large battery packs. We are not looking for low energy density and high portability, we are mostly just looking for something which we can keep using forever.  That is our main goal: sustainability.  This power cell system must be part of a whole power handling system which includes being driven by the generators made by the machine shop, driving the machine shop, and powering all the media. 
+
+In addition to electrical power, we want to get a system of modular interface directly to the pixels of a screen. We want to use this to build a way to directly drive pixels using Geometron as described in the Books of Geometron. 
+
 
  - tools and methods: build modular units of trash elements
  - DVD drives as an example of a start and of an ongoing program
