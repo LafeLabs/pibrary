@@ -117,18 +117,13 @@ We build this social network using existing social media networks as well as the
 
 We want to build a system of modular power cells from old broken lithium ion polymer batteries that retains the value of the elements in those.  How do we do this? Figure it out! Ask around! Someone must know and if they don't they can help us find someone who can.  We want modularity!  It should be easy for anyone to learn to do some simple transformation to take old broken batteries and turn them into something which can be incorporated into large battery packs. We are not looking for low energy density and high portability, we are mostly just looking for something which we can keep using forever.  That is our main goal: sustainability.  This power cell system must be part of a whole power handling system which includes being driven by the generators made by the machine shop, driving the machine shop, and powering all the media. 
 
-In addition to electrical power, we want to get a system of modular interface directly to the pixels of a screen. We want to use this to build a way to directly drive pixels using Geometron as described in the Books of Geometron. 
+In addition to electrical power, we want to get a system of modular interface directly to the pixels of a screen. We want to use this to build a way to directly drive pixels using Geometron as described in the [Book of Geometron](http://trashrobot.org/bookofgeometronfirst/).   We need to be able to have any screen be converted to a Raspberry Pi display and a Geometron screen.  As with the batteries, I don't know how to do this.  You have to find the right people and figure it out.  Ask around! Find the people really good at computer, phone and tablet repair and ask them to help.  Ask them to join us!  If they say it's impossible, find someone willing to ignore that and keep trying or find another choice for how to proceed with building all media from trash.  
 
+We also need to replace the Raspberry Pi with something built from trash which has the same basic function: a generic free and open source Linux machine which can be used both to host, edit, and share media freely over a network.  We also need to replace the Arduino with something built from trash.  This should do the same basic thing of being a fully open platform which one can program over a standard USB cable using the Arduino IDE.  Eventually we want to replace that with something we program from scratch using Geometron, as with the Pi which will be replaced by full Geometron later.  
 
- - tools and methods: build modular units of trash elements
- - DVD drives as an example of a start and of an ongoing program
- - electrical waste stream generators: surplus and scrap
- - robotics and automation, generalized system for controlling all motorized things
- - modular general screen system 
- - modular battery packs
- - trash pi
- - trash arduino
- - print a wire from any pad to any other pad in an electrolytic solution across a pcb
+The Arduino is used to drive generic motor controllers which are used to build robots and other machines from trash.  This is the class of technologies which the DVD drive clay printer is just one example.  The Edge Physics Electrical shop network will build robots and distribute them to whoever seems to have the most need and or desire to replicate the system.  
+
+Finally, in addition to whatever else might appear as we develop the system, we focus on building a technology for printing metal in electrolytes which we immerse circuit boards in using an electrode moved around with DVD drives and trash robot controllers.  This can be used to print connections between circuits found in trash, as well as to start building our own new technology for creating complex active electronics.  This will also be integrated with the biological technology we will be developing in collaboration between physics and the life sciences, so that we can eventually grow living electronics for all our media.
 
 ## The Edge Physics Network
 
@@ -136,66 +131,11 @@ The Edge Physics network is a social network of individuals who will together br
 
 The heart of what is proposed here is building this network.  This will involve building relationships between organizations, starting new programs in existing organizations and in some cases starting new organizations(both private and public).  
 
-As much as possible we aim to build structures in which people can keep doing whatever they already do, but in a way which builds out our network for their own ends.
+I am promoting this network based on my personal and professional connections and the people I've found on social media spreading this message as Trash Robot.    I am dedicating my life to spreading this.  I will talk to anyone anywhere about anything which might help build this network.  I will write books, write articles, create and share social media, talk to people in person and distribute physical media for free.  I will take donations of hardware, build things people can use, and give them to whoever can use them.  
 
-The network can generally be seen as an extension of the library system.
+I can work for anyone who wants to support this process, and will move around to wherever there is energy to support the growth of the network. I  can work as a maker space educator, content creator, program architect, academic researcher, classroom teacher, subcontractor, or anything else which might fit in with the mission.  I will very enthusiastically promote anyone who supports the network.  If someone wants to sponsor, they can contact me and hire me and I'll promote their elements of the network and build the network out into whatever space they inhabit.  I can be Lafe Spietz the applied physicist, or [TRASH ROBOT](http://trashrobot.org/) the creator of free media based on what is the most effective for spreading our network.
 
- - this is a network of people and institutions
- - sponsors
- - libraries
- - maker spaces
- - hacker spaces
- - social media influencers
- - university professors
- - trade schools/tech schools
- - k-12 schools
- - scrap yards
- - government scientists
- - mutual aid workers
- - revolutionary organizers
- - factories
- - junk yards
- - tech companies
- - tribal governments
- - federal agencies
- - artists
- - traveling kids, truckers, people on the road, train hoppers, van/bus people 
- - physicists
- - my little company which can be copied(pay my company to do stuff)
- - my job as an edge physicist which can also be copied(hire me)
- - my background, my elevator pitch to get this funded
- - but this is not just about me or this time or place. this is a direction, a star we can steer by all over the world for the next 100 years
-
-
-## Products
-
- - the social network of people(this is not technology)
- - books
- - papers 
- - social media posts
- - models, demonstrations, objects we hope to replicate
-
-
-## Models
-
- - raspberry pi terminal
- - clay printer robot and trash printing setup, trash magic demo
- - raspberry pi home web server
- - solar power station
- - stirling engine, go buy COTS demos from amazon
- - buy a solar concentrator dish from amazon also, COTS!!!!
- - solar powered air conditioner
- - solar concentrator with a big parabolic dish
- - solar concentrator array
- - start with COTS, then replace with trash
- - trash pi
- - trash arduino
- - trash screen
- - trash battery pack
- - solar electrolysis water generator
-
-
-
+Read my documents. Share them. Copy them. Make them your own, and build out your own free network.  Let us all work together to build a new unified field of knowledge on which humanity can live freely!  
 
 
 
