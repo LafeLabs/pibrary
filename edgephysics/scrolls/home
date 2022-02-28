@@ -1,6 +1,6 @@
 ## [up](../)
 
-#  Edge Physics
+#  The Edge Physics Network
 
 White Paper draft by Lafe Spietz
 
@@ -66,11 +66,11 @@ From viral media content we move to our own media platforms, carried on Raspberr
 
 The next step out to the edge of the network of self-replicating media is to replace the Raspberry Pi and other hardware like it with Linux machines made from otherwise disposed of machines like old laptops, phones, tablets, routers and Internet of Things devices.  We will, as our network grows, develop a culture of finding old electronics as it becomes unusable under platforms like Windows, to get stable Linux installed, put the Pibrary software on, and integrate into our free network.  The bigger the network gets, the easier it will be to absorb more waste hardware, which will grow the network faster, and so on, creating an amplification of the growth of the Pibrary network.
 
-As the networks expands and replicates, we will guide its evolution to get ever closer to the edge of the network, eventually eliminating all new waste materials and using completely organic technology.  Before we reach this final form of completely local production, we will build a sequence of technologies in our Edge Physics Electrical shop which 
+As the networks expands and replicates, we will guide its evolution to get ever closer to the edge of the network, eventually eliminating all new waste materials and using completely organic technology.  Before we reach this final form of completely local production, we will build a sequence of technologies in our Edge Physics Electrical shop which allow more and more components of more broken things to be used.  We will develop a standardized breakout for screens to allow direct control of pixels in a simple way which can be directly programmed using Geometron.  We will develop a standard system of building up modular battery packs using any number of combined broken lithium ion polymer batteries. 
 
-The Electronics Shop will then start to take us out to the final edge of the network, developing models for converting screens into a modular standard interface for our 
+Ultimately if we are to have our media not need new microchips, we need to fabricate our own circuits, which we do using a full Geometron architecture as documented in the [Book of Geometron](http://trashrobot.org/bookofgeometronfirst/).  
 
-This process will then, as it replicates, get pushed to the final stage out at the edge, where there is no new incoming 
+
 
 
  - self-replicating media as a concept, some examples from trash robot
