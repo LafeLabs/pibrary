@@ -8,6 +8,8 @@
         "gplot.ino",
         "gspeedmove.ino",
         "index.html",
+        "pendulum-domain-knob.ino",
+        "pendulum-knob-force.ino",
         "pendulum300.ino",
         "rainbowdimmer.ino",
         "threemode.ino",
