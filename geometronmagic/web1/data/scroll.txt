@@ -1,9 +1,16 @@
 # Web 1.0
 
-here is some text.
+Welcome to Web 1.0. Just simple static web pages.  No users. No logins, no passwords, no encryption, no private data. This is a cardboard sign on the side of the road.  It is a chalk board in a hallway.  Spray paint on a dumpster.  Just simple messages of whatever we want to share with other people, spread out in the physical world.  To edit this document, use [the magic link magic.html](magic.html).
 
-![](https://i.imgur.com/lvQ8Fw7.png)
+See the code and copy the syntax.  The format of this document is called "[markdown](https://www.markdownguide.org/basic-syntax/)" and it is designed to be the simplest possible way to format a document using plain text.   Fork a page down to make more pages using [fork.html](fork.html).
+
+Put images on a site like [imgur.com](https://imgur.com/) and drop them into image links using ![]() syntax.
 
  - [../](../)
  - [editor.php](editor.php)
+ - [fork.html](fork.html)
+ - [trash robot main page](http://trashrobot.org)
+ - [trash robot Web 1.0 page](http://trashrobot.org/trashrobot/)
  - [magic.html](magic.html)
+
+![](https://i.imgur.com/lvQ8Fw7.png)
