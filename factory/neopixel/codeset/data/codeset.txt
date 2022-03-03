@@ -9,6 +9,7 @@
         "gspeedmove.ino",
         "index.html",
         "pendulum-domain-knob.ino",
+        "pendulum-g-control.ino",
         "pendulum-knob-force.ino",
         "pendulum300.ino",
         "rainbowdimmer.ino",
