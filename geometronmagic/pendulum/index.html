@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+</head>
+<body>    
+<h1>Pendulum</h1>
+<p>
+    <a href = "../">up a level</a>
+</p>    
+<p>
+    <a href = "editor.php">editor.php</a>
+</p>
+
+<canvas id = "maincanvas"></canvas>
+
+
+<script>
+
+canwidth = 600;
+canheight = 200;
+x = 0;
+y = 0;
+
+theta = 0.0;
+thetanext = 0.0;
+thetadot = 0.0;
+thetadotnext = 0.0;
+omega0 = 100.0;
+force = 0.1;
+gamma = 0.1;
+
+
+/*
+thetavector = [];
+timevector = [];
+for(var time = 0.0;time < 1.0;time += 0.01){
+
+  k1[0] = thetadot;
+  k1[1] = -Math.sin(theta) - gamma*thetadot + A*Math.cos(omega0*time) + force;
+
+  thetanext = theta + 0.5*h*k1[0];
+  thetadotnext = thetadot + 0.5*h*k1[1];
+  
+  k2[0] = getf0(t+0.5*h,ynext,gamma,omega0,A,force);
+  k2[1] = getf1(t+0.5*h,ynext,gamma,omega0,A,force);
+
+  ynext[0] = y[0] + 0.5*h*k2[0];
+  ynext[1] = y[1] + 0.5*h*k2[1];
+  
+  k3[0] = getf0(t+0.5*h,ynext,gamma,omega0,A,force);
+  k3[1] = getf1(t+0.5*h,ynext,gamma,omega0,A,force);
+
+  ynext[0] = y[0] + h*k3[0];
+  ynext[1] = y[1] + h*k3[1];
+
+  k4[0] = getf0(t+h,ynext,gamma,omega0,A,force);
+  k4[1] = getf1(t+h,ynext,gamma,omega0,A,force);
+  
+  
+  ynext[0] = y[0] + 0.1667*h*(k1[0] + 2*k2[0] + 2*k3[0] + k4[0]);
+  ynext[1] = y[1] + 0.1667*h*(k1[1] + 2*k2[1] + 2*k3[1] + k4[1]);  
+
+  if(ynext[0] >= pi){
+     ynext[0] = ynext[0] - 2*pi;
+  }
+  if(ynext[0] <= -pi){
+     ynext[0] = ynext[0] + 2*pi;
+  }
+
+}
+*/
+
+maincanvas = document.getElementById("maincanvas");
+ctx = maincanvas.getContext("2d");
+
+maincanvas.width = canwidth;
+maincanvas.height = canheight;
+ctx.beginPath();
+ctx.strokeStyle = "#00ff00";
+ctx.lineWidth = 2;
+
+ctx.moveTo(x,y);
+
+for(var index = 0;index < canwidth;index++){
+    x = index;
+    y = 0.5*canheight + 100*Math.sin(2*Math.PI*x/100);
+    console.log(x,y);
+    ctx.lineTo(x,y);
+    ctx.stroke();		
+}
+
+ctx.closePath();    
+
+
+
+//    return -sin(y[0]) - gamma*y[1] + A*cos(omega0*t) + force;
+
+
+
+</script>
+<style>
+body{
+    color:#00ff00;
+    background-color:black;
+}
+#maincanvas{
+    border:solid;
+    background-color:black;
+}
+h1{
+    font-size:4em;
+    text-align:center;
+}
+a{
+    font-size:2em;
+    color:#ff2cb4;
+}
+</style>
+</body>
+</html>
