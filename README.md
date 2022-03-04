@@ -170,3 +170,4 @@ sudo pip3 install jupyter
  - [nycmesh.net](https://www.nycmesh.net/)
  - [wireless networking in the developing world](http://wndw.net/)
 
+Instead of the Raspberry Pi, this system can be installed on a stripped down laptop with nothing else on it running any version of Linux with the same installation instructions, or Linux virtual machines on an internal network.  It can also run on private machines, but that is not appropriate for public use.

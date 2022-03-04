@@ -17,7 +17,7 @@
 
 <script>
 
-canwidth = 600;
+canwidth = 900;
 canheight = 200;
 x = 0;
 y = 0;
@@ -84,7 +84,7 @@ ctx.moveTo(x,y);
 
 for(var index = 0;index < canwidth;index++){
     x = index;
-    y = 0.5*canheight + 100*Math.sin(2*Math.PI*x/100);
+    y = 0.5*canheight + Math.exp(-x/250)*100*Math.sin(2*Math.PI*x/100);
     console.log(x,y);
     ctx.lineTo(x,y);
     ctx.stroke();		
