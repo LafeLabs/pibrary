@@ -11,13 +11,40 @@
 <p>
     <a href = "editor.php">editor.php</a>
 </p>
+<table id = "inputstable">
+    <tr>
+        <td>A:</td>
+        <td><input/></td>
+    </tr>
+    <tr>
+        <td>gamma:</td>
+        <td><input/></td>
+    </tr>
+    <tr>
+        <td>omega0:</td>
+        <td><input/></td>
+    </tr>
+    <tr>
+        <td>torque:</td>
+        <td><input/></td>
+    </tr>
+    <tr>
+        <td>h:</td>
+        <td><input/></td>
+    </tr>
+
+</table>
 
 <canvas id = "maincanvas"></canvas>
 
-
 <script>
 
-canwidth = 900;
+
+
+
+tableinputs = document.getElementById("inputstable").getElementsByTagName("INPUT");
+
+canwidth = 600;
 canheight = 200;
 x = 0;
 y = 0;
@@ -26,73 +53,169 @@ theta = 0.0;
 thetanext = 0.0;
 thetadot = 0.0;
 thetadotnext = 0.0;
-omega0 = 100.0;
-force = 0.1;
+k1 = [0.0,0.0];
+k2 = [0.0,0.0];
+k3 = [0.0,0.0];
+k4 = [0.0,0.0];
+
+
+timevector = [];
+time = 0.0;
+numpoints = 1000;
+h = 0.01;
+A = 0.01;
+omega0 = 1.0;
+torque = 0.1;
 gamma = 0.1;
 
 
-/*
-thetavector = [];
-timevector = [];
-for(var time = 0.0;time < 1.0;time += 0.01){
-
-  k1[0] = thetadot;
-  k1[1] = -Math.sin(theta) - gamma*thetadot + A*Math.cos(omega0*time) + force;
-
-  thetanext = theta + 0.5*h*k1[0];
-  thetadotnext = thetadot + 0.5*h*k1[1];
-  
-  k2[0] = getf0(t+0.5*h,ynext,gamma,omega0,A,force);
-  k2[1] = getf1(t+0.5*h,ynext,gamma,omega0,A,force);
-
-  ynext[0] = y[0] + 0.5*h*k2[0];
-  ynext[1] = y[1] + 0.5*h*k2[1];
-  
-  k3[0] = getf0(t+0.5*h,ynext,gamma,omega0,A,force);
-  k3[1] = getf1(t+0.5*h,ynext,gamma,omega0,A,force);
-
-  ynext[0] = y[0] + h*k3[0];
-  ynext[1] = y[1] + h*k3[1];
-
-  k4[0] = getf0(t+h,ynext,gamma,omega0,A,force);
-  k4[1] = getf1(t+h,ynext,gamma,omega0,A,force);
-  
-  
-  ynext[0] = y[0] + 0.1667*h*(k1[0] + 2*k2[0] + 2*k3[0] + k4[0]);
-  ynext[1] = y[1] + 0.1667*h*(k1[1] + 2*k2[1] + 2*k3[1] + k4[1]);  
-
-  if(ynext[0] >= pi){
-     ynext[0] = ynext[0] - 2*pi;
-  }
-  if(ynext[0] <= -pi){
-     ynext[0] = ynext[0] + 2*pi;
-  }
-
+tableinputs[0].onchange = function(){
+    A = parseFloat(this.value);
+    mainplot();
 }
-*/
+
+tableinputs[1].onchange = function(){
+    gamma = parseFloat(this.value);
+    mainplot();
+}
+
+tableinputs[2].onchange = function(){
+    omega0 = parseFloat(this.value);
+    mainplot();
+}
+
+tableinputs[3].onchange = function(){
+    torque = parseFloat(this.value);
+    mainplot();
+}
+
+tableinputs[4].onchange = function(){
+    h = parseFloat(this.value);
+    mainplot();
+}
 
 maincanvas = document.getElementById("maincanvas");
 ctx = maincanvas.getContext("2d");
 
 maincanvas.width = canwidth;
 maincanvas.height = canheight;
-ctx.beginPath();
-ctx.strokeStyle = "#00ff00";
-ctx.lineWidth = 2;
 
-ctx.moveTo(x,y);
 
-for(var index = 0;index < canwidth;index++){
-    x = index;
-    y = 0.5*canheight + Math.exp(-x/250)*100*Math.sin(2*Math.PI*x/100);
-    console.log(x,y);
-    ctx.lineTo(x,y);
-    ctx.stroke();		
+var httpc666 = new XMLHttpRequest();
+httpc666.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        pendulumdata = JSON.parse(this.responseText);
+        h = pendulumdata.h;
+        A = pendulumdata.A;
+        gamma = pendulumdata.gamma;
+        omega0 = pendulumdata.omega0;
+        torque = pendulumdata.torque;
+        mainplot();
+    };
+}
+httpc666.open("GET", "fileloader.php?filename=data/pendulumdata.txt", true);
+httpc666.send();
+
+
+function savedata(){
+
+    pendulumdata.h = h;
+    pendulumdata.A = A;
+    pendulumdata.gamma = gamma;
+    pendulumdata.omega0 = omega0;
+    pendulumdata.torque = torque;
+
+    var httpc = new XMLHttpRequest();
+    var url = "filesaver.php";        
+    httpc.open("POST", url, true);
+    httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+    httpc.send("data=" + encodeURIComponent(JSON.stringify(pendulumdata,null,"  ")) +"&filename=data/pendulumdata.txt");//send text to filesaver.php        
 }
 
-ctx.closePath();    
+function mainplot(){
+    time = 0.0;
+    theta = 0.0;
+    x  = 0;
+    y = 0;
+    thetanext = 0.0;
+    thetadot = 0.0;
+    thetadotnext = 0.0;
+    thetavector = [];
+    thetadotvector = [];
+    
+    for(var index = 0;index < numpoints;index++){
+    
+      k1[0] = thetadot;
+      k1[1] = -Math.sin(theta) - gamma*thetadot + A*Math.cos(omega0*time) + torque;
+      thetanext = theta + 0.5*h*k1[0];
+      thetadotnext = thetadot + 0.5*h*k1[1];
+      
+      k2[0] = thetadotnext;
+      k2[1] = -Math.sin(thetanext) - gamma*thetadotnext + A*Math.cos(omega0*(time 
+      + 0.5*h)) + torque;
+      
+      thetanext = theta + 0.5*h*k2[0];
+      thetadotnext = thetadot + 0.5*h*k2[1];
+      
+      k3[0] = thetadotnext;
+      k3[1] = -Math.sin(thetanext) - gamma*thetadotnext + A*Math.cos(omega0*(time 
+      + 0.5*h)) + torque;
+    
+      thetanext = theta + h*k3[0];
+      thetadotnext = thetadot + h*k3[1];
+    
+      k4[0] = thetadotnext;
+      k4[1] = -Math.sin(thetanext) - gamma*thetadotnext + A*Math.cos(omega0*(time 
+      + h)) + torque;
+      
+      
+      thetanext = theta + 0.1667*h*(k1[0] + 2*k2[0] + 2*k3[0] + k4[0]);
+      thetadotnext = thetadot + 0.1667*h*(k1[1] + 2*k2[1] + 2*k3[1] + k4[1]);  
+    
+      if(thetanext >= Math.PI){
+         thetanext = thetanext - 2*Math.PI;
+      }
+      if(thetanext <= - Math.PI){
+         thetanext = thetanext + 2*Math.PI;
+      }
+    
+      theta = thetanext;
+      thetadot = thetadotnext;
+      time = time + h;
+    
+      timevector.push(time);
+      thetavector.push(theta);
+      thetadotvector.push(thetadot);
+    
+    
+    }
 
+    ctx.clearRect(0,0,canwidth,canheight);
+    ctx.beginPath();
+    ctx.strokeStyle = "#00ff00";
+    ctx.lineWidth = 2;
+    
+    ctx.moveTo(x,y);
+    
+    
+    for(var index = 0;index < canwidth;index++){
+        x = index;
+    
+    //    y = 0.5*canheight + 100*Math.sin(2*Math.PI*x/100);
+        y = 0.5*canheight + 10*thetavector[index];
+        ctx.lineTo(x,y);
+        ctx.stroke();		
+    }
+    
+    ctx.closePath();    
+    savedata();
+    tableinputs[0].value  = A;
+    tableinputs[1].value  = gamma;
+    tableinputs[2].value  = omega0;
+    tableinputs[3].value  = torque;
+    tableinputs[4].value  = h;
 
+}
 
 //    return -sin(y[0]) - gamma*y[1] + A*cos(omega0*t) + force;
 
@@ -100,7 +223,7 @@ ctx.closePath();
 
 </script>
 <style>
-body{
+body,input{
     color:#00ff00;
     background-color:black;
 }
