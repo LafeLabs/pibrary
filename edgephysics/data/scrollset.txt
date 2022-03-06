@@ -3,6 +3,7 @@
     "scrolls": [
         "abstract",
         "budget",
+        "build",
         "economics",
         "edgephysics",
         "edgephysicsbook",

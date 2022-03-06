@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>    
+<h1><a id = "qrlink"></a></h1>
+<div id = "qrcode"></div>
+<table>
+    <tr>
+        <td>scroll source url:</td>
+        <td>
+            <input id = "sourceurlinput"/>
+        </td>
+    </tr>
+    <tr>
+        <td><a href = "scrollreplicator.php">replicate scroll</a></td>
+    </tr>
+</table>
+<textarea id = "textio"></textarea>
+<script>
+
+//onchange, change the source of the scroll
+//onkeyup edit scroll
+//on reload, load the scroll into the div
+//load the qrcode of this page right here so it replicates
+//
+
+scroll = "";
+
+var httpc2 = new XMLHttpRequest();
+httpc2.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        scroll = this.responseText;
+        document.getElementById("textio").value = scroll;
+    }
+};
+
+httpc2.open("GET", "fileloader.php?filename=data/scroll.txt", true);
+httpc2.send();
+
+
+document.getElementById("textio").onkeyup = function() {
+        scroll = this.value;
+        var httpc = new XMLHttpRequest();
+        var url = "filesaver.php";        
+        httpc.open("POST", url, true);
+        httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+        httpc.send("data="+encodeURIComponent(scroll)+"&filename=data/scroll.txt");//send text to filesaver.php        
+    
+}
+
+
+sourceurl = "";
+
+var httpc3 = new XMLHttpRequest();
+httpc3.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        sourceurl = this.responseText;
+        document.getElementById("sourceurlinput").value = sourceurl;
+    }
+};
+
+httpc3.open("GET", "fileloader.php?filename=data/sourceurl.txt", true);
+httpc3.send();
+
+
+document.getElementById("sourceurlinput").onchange = function(){
+    sourceurl = this.value;
+    var httpc = new XMLHttpRequest();
+    var url = "filesaver.php";        
+    httpc.open("POST", url, true);
+    httpc.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
+    httpc.send("data="+encodeURIComponent(sourceurl)+"&filename=data/sourceurl.txt");//send text to filesaver.php        
+}
+
+
+codesquaresize = 512;
+marginsize = 40;
+fontsize = 12;
+//globalurl = "http://www.trashrobot.org/qrcode.html";
+globalurl = window.location.href.split("magic.html")[0];
+
+document.getElementById("qrlink").innerHTML = globalurl;
+document.getElementById("qrlink").href = globalurl;
+
+
+qrcode = new QRCode(document.getElementById("qrcode"), {
+	text: globalurl,
+	width: codesquaresize,
+	height: codesquaresize,
+	colorDark : "#000000",
+	colorLight : "#ffffff",
+	correctLevel : QRCode.CorrectLevel.H
+});
+
+</script>
+<style>
+body{
+    background-color:#808080;
+}
+h1{
+    text-align:center;
+}
+a{
+    font-size:2em;
+}
+a{
+    color:#ff2cb4;
+}
+
+canvas{
+    border:solid;
+    border-width:4px;
+    margin:1em 1em 1em 1em;
+}
+#textio{
+    background-color:black;
+    color:#00ff00;
+    font-family:courier;
+    position:absolute;
+    right:10px;
+    bottom:20px;
+    height:50%;
+    width:50%;
+    z-index:1;
+}
+#sourceurlinput{
+    width:20em;
+}
+</style>
+</body>
+</html>

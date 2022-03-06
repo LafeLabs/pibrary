@@ -1,0 +1,59 @@
+# Infrastructure Build
+
+[magic](magic.html)
+
+## Power
+
+ - wind nanopower, < 20 watts trash based wind generator for charging small batteries
+ - water nanopower, < 20 watts trash based water generator, high speed but small quantity of water and force, also oscillator with a log in a deeper river
+ - water power using a bicycle with a drive of the pedals and a pickup motor on the wheel to charge larger battery banks
+ - larger water generators, using washing machine parts, 500-2000 watts( a few hp)
+ - larger wind generators, using scaled down blades of standard wind farms, 3-8 feet across, a few hundred watts
+ - emergency-only wind generator kites, fly in extreme storm winds, very small area, very high speed, high force, high throughput, a few hundred watts a foot or so across
+ - power stations with batteries to drive network infrastructure
+ - power stations which produce hydrogen and oxygen for use in industrial, medical, welding, airships, clean water, and power
+ - hydrogen internal combustion engines
+ - hydrogen-burn stirling engines
+ - hydrogen-burn steam engines
+ - hydrogen fuel cells
+ - network to produce and distribute free biodiesel using food waste grease
+ 
+# Web 1.0 Content
+
+ - content creator pages
+ - news
+ - markets for goods and services
+ - mixed reality games
+ - community resource pages
+ - free books which document everything we do and replicate it
+ - copyright free library of books from free sources online and copied
+
+## Media Network
+
+ - raspberry pi public terminals
+ - old computers with linux installed as free public web servers
+ - domain names linked to places with web 1.0 resources on them
+ - public screens visible in a high traffic area with displays of web browsers pointed to web 1.0 pages
+ - raspberry pi web servers on home networks connected to the outside by port forwarding
+ - free hosting accounts on sites like 000webhots
+
+## Logistics
+ 
+- school bus fleet(biodiesel, supported by our fuel network)
+- diesel mechanics network
+- machinist network
+- couriers, who carry things on the road(in any vehicle)
+- boat fleet
+
+## Machine Manufactring
+ 
+ - stirling engine demos
+ - wind and water power stations as products 
+ - milling machines we can make from trash
+ - lathes we can make from trash
+ - drill presses made from trash
+ - welders made from trash
+ - band saws made from trash
+ - robots that print in a way which can transfer to plastic as permanent physical media
+ - 
+

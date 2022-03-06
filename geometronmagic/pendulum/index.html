@@ -200,8 +200,6 @@ function mainplot(){
     
     for(var index = 0;index < canwidth;index++){
         x = index;
-    
-    //    y = 0.5*canheight + 100*Math.sin(2*Math.PI*x/100);
         y = 0.5*canheight + 10*thetavector[index];
         ctx.lineTo(x,y);
         ctx.stroke();		

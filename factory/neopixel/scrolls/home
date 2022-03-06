@@ -4,6 +4,7 @@
 
 
  - [basicrainbow.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/basicrainbow.ino)
+ - [pendulum-g-control-sound.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/pendulum-g-control-sound.ino)
  - [rainbowdimmer.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/rainbowdimmer.ino)
  - [gplot.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/gplot.ino)
  - [threemodeknob.ino](https://github.com/LafeLabs/pibrary/blob/main/factory/neopixel/codeset/code/threemodeknob.ino)

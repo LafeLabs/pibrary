@@ -1,0 +1,21 @@
+{
+    "html": [
+        "README.md",
+        "index.html",
+        "magic.html"
+    ],
+    "data": [
+        "dna.txt",
+        "scroll.txt",
+        "sourceurl.txt"
+    ],
+    "php": [
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "replicator.txt",
+        "scrollreplicator.txt",
+        "text2php.txt"
+    ]
+}
