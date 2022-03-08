@@ -15,6 +15,7 @@
         "publicpages",
         "qrcodes",
         "robots",
-        "tokens"
+        "tokens",
+        "xampp"
     ]
 }
