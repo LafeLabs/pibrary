@@ -1,0 +1,14 @@
+
+## [HOME](scrolls/home)
+
+# hostmedia
+  
+ - self-replicating set of media files
+ - QR code to directly download media over wifi
+ - text documents, word and pdf
+ - sound files
+ - videos
+ - embed in scrolls, put up links and qr codes on local pages
+ - flags point to domains which point to local ip addresses
+ - domains also have maps which direct you to the physical wifi network
+ - do this in LA and NYC as an exclusive media distribution system  

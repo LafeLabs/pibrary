@@ -1,7 +1,20 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/edgenetwork/",
     "scrolls": [
+        "cardboard",
+        "creatorpages",
+        "edge",
+        "flags",
+        "freepages",
         "home",
+        "hostmedia",
+        "markets",
+        "piblicpages",
+        "pibrary",
+        "printedtrash",
+        "publicpages",
+        "qrcodes",
+        "robots",
         "tokens"
     ]
 }
