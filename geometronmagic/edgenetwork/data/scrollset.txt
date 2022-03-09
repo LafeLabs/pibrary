@@ -8,6 +8,7 @@
         "freepages",
         "home",
         "hostmedia",
+        "links",
         "markets",
         "piblicpages",
         "pibrary",

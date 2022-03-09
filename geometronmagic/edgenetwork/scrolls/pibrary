@@ -2,8 +2,6 @@
 
 # [Pibrary](https://github.com/LafeLabs/pibrary)
 
-by [trash robot](https://www.trashrobot.org)
-
 The pibrary is a self-replicating knowledge network of free books propagated using the [Raspberry Pi](https://www.raspberrypi.org), a cheap open source computer we give out for free to the community.   We can take donations from individuals, charities, non profits and governments, and spend them on hardware, travel, and time for people to do training.  The Raspberry Pi terminal described here is built and given away for free to people in an under-resourced community for general use  as a media resource.  The same system is installed on just a Pi board and a TV on a home network to be used as a web server only.  We also build out mesh networks to provide free wireless Internet in public spaces.  
 
 
