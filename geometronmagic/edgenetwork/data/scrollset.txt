@@ -12,6 +12,7 @@
         "markets",
         "piblicpages",
         "pibrary",
+        "podcasts",
         "printedtrash",
         "publicpages",
         "qrcodes",
