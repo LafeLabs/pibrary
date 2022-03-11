@@ -1,0 +1,29 @@
+# [magic](magic.html)
+
+# Waterpunk
+
+The power transferred through an area A in a fluid of density $\rho$ moving at constant velocity v is, in watts:
+
+$$
+P = \frac{1}{2}\rho Av^3
+$$
+
+The density of water is 1 kg/liter.  This is 0.016 kg/in$^3$, so one half of that is 0.008 kg/in$^3$.  So if velocity is in inches per second, and area is in inches squared, the power is 
+
+$$
+P = 0.008 Av^3
+$$
+
+For a 1 square inch area, and 10 inches per second flow, we get 8 watts. 30 inches per second is about 200 watts.  So can rain gutters be hundreds of watts?  How many watts to run a lathe? Milling machine? drill press? band saw?  
+
+Design of universal joint.  
+
+
+
+ - [../](../)
+ - [editor.php](editor.php)
+ - [fork.html](fork.html)
+ - [trash robot main page](http://trashrobot.org)
+ - [trash robot Web 1.0 page](http://trashrobot.org/trashrobot/)
+ - [magic.html](magic.html)
+
