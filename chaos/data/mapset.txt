@@ -8,6 +8,7 @@
         "middleearth.png"
     ],
     "scrolls": [
-        "home"
+        "home",
+        "scrolls"
     ]
 }

@@ -1,7 +1,9 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/edgenetwork/",
     "scrolls": [
+        "books",
         "cardboard",
+        "chaos",
         "creatorpages",
         "edge",
         "flags",
