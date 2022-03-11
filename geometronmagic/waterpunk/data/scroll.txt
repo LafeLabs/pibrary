@@ -16,10 +16,14 @@ $$
 
 For a 1 square inch area, and 10 inches per second flow, we get 8 watts. 30 inches per second is about 200 watts.  So can rain gutters be hundreds of watts?  How many watts to run a lathe? Milling machine? drill press? band saw?  
 
-Design of universal joint.  
 
 
-
+ - Design of universal joint.  
+ - show fan and shaft
+ - test lathe operation
+ - build belts and shafts to engage and disengage machines
+ - drill press
+ - power takeoff for battery charger
  - [../](../)
  - [editor.php](editor.php)
  - [fork.html](fork.html)
