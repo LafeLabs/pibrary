@@ -13,6 +13,8 @@
     
     mkdir("data");
     mkdir("php");
+    mkdir("mp3");
+    mkdir("images");
 
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/geometronmagic/picrust/php/replicator.txt","replicator.php");
 

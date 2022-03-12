@@ -3,6 +3,12 @@
 Raspberry Pi Media Server.
 
 
+```
+cd ~/Desktop
+ln -s /var/www/html/images images
+ln -s /var/www/html/mp3 mp3
+```
+
 The dna.txt is as follows:
 
 ```
