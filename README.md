@@ -173,7 +173,9 @@ sudo pip3 install jupyter
 
 Instead of the Raspberry Pi, this system can be installed on a stripped down laptop with nothing else on it running any version of Linux with the same installation instructions, or Linux virtual machines on an internal network.  It can also run on private machines, but that is not appropriate for public use.
 
-## Editing and replicating scrolls
+## Editing and replicating Magic Book
+
+
 
 ## Media file distribution workflow
 
@@ -203,10 +205,13 @@ Instead of the Raspberry Pi, this system can be installed on a stripped down lap
 ## Public Web Pages
 
  - domains and how to buy them and set them up
+ - free web hosting option
  - how to design and sew flags
  - the cardboard sign
+ - the icon token with a url
  - images, examples of use
  - Making Web 1.0 pages
+
 
 ## Sets
  
