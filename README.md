@@ -172,3 +172,73 @@ sudo pip3 install jupyter
  - [wireless networking in the developing world](http://wndw.net/)
 
 Instead of the Raspberry Pi, this system can be installed on a stripped down laptop with nothing else on it running any version of Linux with the same installation instructions, or Linux virtual machines on an internal network.  It can also run on private machines, but that is not appropriate for public use.
+
+## Editing and replicating scrolls
+
+## Media file distribution workflow
+
+ - how to create, copy and edit magic books, delete
+ - how to copy files onto the server and link to them
+ - music
+ - digital art
+ - images
+ - videos
+ - podcasts
+ - word and pdf documents
+ - web pages
+ - lists of links
+
+## Operators
+
+## Venues 
+
+## Content Creators
+
+## Windows  and Mac Installation
+
+## Github Workflow
+
+## Android installation
+
+## Public Web Pages
+
+ - domains and how to buy them and set them up
+ - how to design and sew flags
+ - the cardboard sign
+ - images, examples of use
+ - Making Web 1.0 pages
+
+## Sets
+ 
+ - code set
+ - map book
+ - file set:this needs to have a better name for the directory, better linked list
+ - file set needs a better work flow with media of all kinds being integrated into a scroll, this has to be super easy
+ - image set
+ - icon set
+ - symbols set, geometron, links to book
+
+## CHAOS
+
+ - mixed reality immersive game
+ - how to use the maps
+ - maps and scrolls linked
+ - building story onto space to activate the spaces
+
+## QR codes
+
+## Coins
+
+ - what the coins are for, the universal philosophical metalanguage
+ - examples of coins for the whole system, this set represented in coins
+ - sewing the bags
+ - designing the coins and sharing the files
+ - replicating a print to a stamp to a coin
+ - pendants
+ - examples of sets and icons, with links to sets, images of the set: runes, hebrew, corporate logos, elements of this system, trash physics, trash robot, chess pieces, email address, phone number, web address, GPS coordinates
+
+## Gallery
+
+![](https://i.imgur.com/4zetaPf.png)
+
+
