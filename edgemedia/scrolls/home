@@ -1,0 +1,94 @@
+## [back up a level](../)
+
+# Edge Media
+
+Media, or the physical means of communication, is the most powerful human technology.  It is the engine which drives all other technologies.  Our media have evolved at an ever-accelerating pace from the invention of written language through the printing press to the latest in mobile device technology.  
+
+Today, we live in a world where the hardware of our global unified media networks is created in an unsustainable way, and the software is built to dominate and control people from centralized nodes of power.  We aim to liberate people from these central networks of control by building independent media networks at the most local level.  We will do this leveraging the power of cheap, unregulated, and readily available wireless hardware and simple, free open source software, and cheap and open source minimalist hardware which can run web servers.  
+
+This [white paper](https://en.wikipedia.org/wiki/White_paper) describes how we will build these networks and what they will do.  This is a living document, which we will update as needed as we develop the system. 
+
+## Local Content
+
+Content is what drives every communication network.  Our networks must provide value which cannot be found elsewhere.  We must help people directly in their lives, helping them to make a living, find connection, build things, share things, and live rich lives.  To do this we will build a network of operators who curate content on web pages distributed over local networks in publicly accessible physical spaces.
+
+This is not social media.  Our web pages do not have users logging into an automated system to share personal information.  This is a scaling down of traditional mass media to a single human operator delivering content to a small local community in shared public physical spaces over shared wireless networks.  We build web servers for shared public use and maintain libraries of documents to share over those servers, which anyone on a public local wireless network can download, share, and view.  To do this, we create social networks offline of people who have a stake in the community: local business owners, government, non profits, religious institutions, schools, and individuals. These people collaborate by direct communication using existing means(meet in person, use phone calls and text and email) to get content onto the network which helps the most people.
+
+ - operators and venues, content creators, librarians, community
+ - commerce: ads for businesses, personals, 
+ - music
+ - podcasts
+ - art
+ - local government
+ - mutual aid resources
+ - public services available
+ - local edible plant lore, living off the land all lore
+ - indigenous library of knowledge, mixed media
+ - always backup at local public library
+ - religious materials
+ - politics, philosophy, ideas
+ - local stories, both myths and history, culture, indigenous and non-indigenous
+ - immersive and mixed reality text based games
+ - tutorials to build infrastructure, including this network
+ 
+
+## PI CRUST
+
+ - Raspberry Pi
+ - Windows and Mac, Android and iOS
+ - Work flow: thumb drives and walking around, public spaces, links, QR codes, emailing operators 
+ - other hardware: future development, building multiple servers for every person on the planet
+
+## Off Grid Power
+
+ - overall typical specs: 20-200 W
+ - solar
+ - wind
+ - water
+ - batteries
+ - relevant hardware: servers, repeaters, hubs, network extenders
+ - station infrastructure: enclosures, towers
+
+## Mesh Networks
+
+ - links to resources
+ - examples
+ - architecture
+ - how to recruit people and build
+
+## Free Public Internet Spaces
+
+ - the concept of the free network venue sponsor
+ - public library
+ - free hot spots in public spaces
+ - projectors, big screens, shared display in public space, free and open public clients as well as servers
+ - servers in spaces, non property, how they move
+
+## Web 1.0
+ 
+ - the concept: the original idea of the Web and hypertext, free and open documents, not users, not Web 2.0 at all, nor Web 3.0
+ - link to page
+ - selecting domains
+ - pointing to servers
+ - pointing to places
+ - pointing from place to domain
+ - code structure and replication: PHP, Apache and other servers, HTML, JSON
+
+## Funding
+
+ - local business sponsors
+ - local government sponsors
+ - public library
+ - federal grants for "digital divide" infrastructure and training
+ - paid ads
+
+## [Trash Robot](https://www.trashrobot.org/)
+
+ - TRASH ROBOT/Lafe Spietz, Edge Physics, ideas together
+ - the books
+ - open brand, free open merch, fashion, accessories
+ - organization
+ - the big ideas: build a new civilization at the edges of the network, live within our means
+ - Geometron
+ - Robots from trash powered by Geometron
+
