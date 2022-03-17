@@ -2,23 +2,89 @@
 
 # Edge Networks
 
-Communication is the most powerful human technology, the engine which drives all other technologies.  Our communication technology has evolved at an ever accelerating pace from the invention of written language through the printing press to the latest in mobile device technology.  
+Communication is the most powerful human technology, the engine which drives all other technologies.  Our communication technology has evolved at an ever-accelerating pace from the invention of written language through the printing press to the latest in mobile device technology.  
 
-Today, we live in a world where the hardware of that network is created in an unsustainable way, and the software is built to dominate and control people from centralized nodes of power.  We aim to liberate people from these central networks of control by building free 
+Today, we live in a world where the hardware of our global unified telecommunications network is created in an unsustainable way, and the software is built to dominate and control people from centralized nodes of power.  We aim to liberate people from these central networks of control by building independent communication networks at the most local level.  We will do this leveraging the power of cheap, unregulated, and readily available wireless hardware and simple, free open source software.  
 
-move our energy and attention in communication networks out to the edges of the network, where we live.  This means we want the physical infrastructure to 
-
-## The Library Metaphor
+This white paper describes how we will build these networks and what they will do.  This is a living document, which we will update as needed as we develop the system. 
 
 ## Local Content
 
+Content is what drives every communication network.  
+
+ - operators and venues, content creators, librarians, community
+ - commerce: ads for businesses, personals, 
+ - music
+ - podcasts
+ - art
+ - local government
+ - local edible plant lore, living off the land all lore
+ - indigenous library of knowledge, mixed media
+ - always backup at local public library
+ - religious materials
+ - politics, philosophy, ideas
+ - local stories, both myths and history, culture, indigenous and non-indigenous
+ - immersive and mixed reality text based games
+ - tutorials to build infrastructure, including this network
+ 
+
+## PI CRUST
+
+ - Raspberry Pi
+ - Windows and Mac, Android and iOS
+ - Work flow: thumb drives and walking around, public spaces, links, QR codes, emailing operators 
+ - other hardware: future development, building multiple servers for every person on the planet
+
 ## Off Grid Power
+
+ - overall typical specs: 20-200 W
+ - solar
+ - wind
+ - water
+ - batteries
+ - relevant hardware: servers, repeaters, hubs, network extenders
+ - station infrastructure: enclosures, towers
 
 ## Mesh Networks
 
-## Free Internet 
+ - links to resources
+ - examples
+ - architecture
+ - how to recruit people and build
+
+## Free Public Internet Spaces
+
+ - the concept of the free network venue sponsor
+ - public library
+ - free hot spots in public spaces
+ - projectors, big screens, shared display in public space, free and open public clients as well as servers
+ - servers in spaces, non property, how they move
 
 ## Web 1.0
+ 
+ - the concept: the original idea of the Web and hypertext, free and open documents, not users, not Web 2.0 at all, nor Web 3.0
+ - link to page
+ - selecting domains
+ - pointing to servers
+ - pointing to places
+ - pointing from place to domain
+ - code structure and replication: PHP, Apache and other servers, HTML, JSON
 
-## Organic Code
+## Funding
+
+ - local business sponsors
+ - local government sponsors
+ - public library
+ - federal grants for "digital divide" infrastructure and training
+ - paid ads
+
+## Trash Robot
+
+ - TRASH ROBOT/Lafe Spietz, Edge Physics, ideas together
+ - the books
+ - open brand, free open merch, fashion, accessories
+ - organization
+ - the big ideas: build a new civilization at the edges of the network, live within our means
+ - Geometron
+ - Robots from trash powered by Geometron
 
