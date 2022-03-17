@@ -6,11 +6,15 @@ Communication is the most powerful human technology, the engine which drives all
 
 Today, we live in a world where the hardware of our global unified telecommunications network is created in an unsustainable way, and the software is built to dominate and control people from centralized nodes of power.  We aim to liberate people from these central networks of control by building independent communication networks at the most local level.  We will do this leveraging the power of cheap, unregulated, and readily available wireless hardware and simple, free open source software.  
 
-This white paper describes how we will build these networks and what they will do.  This is a living document, which we will update as needed as we develop the system. 
+This [white paper](https://en.wikipedia.org/wiki/White_paper) describes how we will build these networks and what they will do.  This is a living document, which we will update as needed as we develop the system. 
 
 ## Local Content
 
-Content is what drives every communication network.  
+Content is what drives every communication network.  Our networks must provide value which cannot be found elsewhere.  We must help people directly in their lives, helping them to make a living, find connection, build things, share things, and live rich lives.  To do this we will build a network of operators who curate content on web pages distributed over local networks in publicly accessible physical spaces.
+
+This is not social media.  Our web pages do not have users logging into an automated system to share personal information.  This is a scaling down of traditional mass media to a single human operator delivering content to a small local community in shared public physical spaces over shared wireless networks.  We build web servers for shared public use and maintain libraries of documents to share over those servers, which anyone on a public local wireless network can download, share, and view.  To do this, we create social networks offline of people who have a stake in the community: local business owners, government, non profits, religious institutions, schools, and individuals. These people collaborate by direct communication using existing means(meet in person, use phone calls and text and email) to get content onto the network which helps the most people.
+
+
 
  - operators and venues, content creators, librarians, community
  - commerce: ads for businesses, personals, 
@@ -18,6 +22,8 @@ Content is what drives every communication network.
  - podcasts
  - art
  - local government
+ - mutual aid resources
+ - public services available
  - local edible plant lore, living off the land all lore
  - indigenous library of knowledge, mixed media
  - always backup at local public library
@@ -78,7 +84,7 @@ Content is what drives every communication network.
  - federal grants for "digital divide" infrastructure and training
  - paid ads
 
-## Trash Robot
+## [Trash Robot](https://www.trashrobot.org/)
 
  - TRASH ROBOT/Lafe Spietz, Edge Physics, ideas together
  - the books
