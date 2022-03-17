@@ -22,67 +22,17 @@ Web 1.0 pages are set up on domain names which indicate a physical place.  These
 
 What makes our media have value is the curation of content by operators, and distribution in supporting venues.  Venues and operators support each other. Operators promote venues and venues provide material support to operators.  Librarians find content from creators to deliver to the operators, who then distribute in the venues.  Operators distribute books, articles, stories, myths, instructions on useful skills and education of all kind.  Operators can also operate marketplaces, taking advertising requests from community members by email, text message or verbally or by dropped message in a venue and posting them to an advertisement board.  If someone wants to publish their own content they can email or use a thumb drive or their own server to deliver the files to an operator who will then distribute.  
 
+Our aim is to grow the edge media network. This means we want to keep getting more support of more venues, recruit and train more operators, and more content contributed from librarians and content creators.  We also want to build and expand the hardware, creating solar powered off grid mesh networks and connecting them to the Internet to provide free broadband access in public spaces.  For more information on how to do this, see the free pdf book [Wireless Networking in the Developing World](http://wndw.net/) and the references from there, which includes case studies. Another key resource for building these off grid mesh networks is [NYC Mesh](https://www.nycmesh.net/), a non profit mesh network in New York City.  The references and links from those pages and some online shopping for solar power and network boxes should be enough to start building infrastructure.  If our network is providing values for venues in the community, they have an incentive to support the physical infrastructure directly.  If they buy the hardware and give it to us, the network builders, we do not have to spend any money so we don't need a corporate structure.  Venue owners can also support us with food, shelter and building materials to expand our community on the Edge Media Network.
+
+We will use the [Edge Physics Network](http://trashrobot.org/edgephysics/) to create the whole system of media technology from trash.  As we do this, we will expand infrastructure in public spaces to include all the elements of self-replicating media.  This means we will be building machines made of trash which can make more machines from trash. For example, machines which cut and mill metal, welders and other metal working tools will be developed which can make more of each machine in the shop.  We will do the same for electronics, creating microfabrication technology which can be built from trash streams and which can make interconnects in trash and grow new circuits to move the entire media production technology out to the edges of the network.  
+
+Part of building public space will be finding ways to reuse old screens as displays on public web servers, making the media more and more of a commonly shared resource.  There is enough waste from the existing stream of consumer media that it is realistic to have more than one web server and more than one operational web browser display than there are human beings on this planet.  This manufacturing hub system built around our media also includes physical media fabrication such as books and long term digital storage media.  
+
+We aim to build a society who can live off of this media network.  We will build and maintain the network, creating and sharing content, maintaining both servers and clients, and teaching new people how to do the same to spread the network.  We will find new talent, help them get on the network and help provide material support for them from the network.  We will find venue owners and build relationships where we help them and they help us.  Venue owners can be private home or land owners, restaurants, offices, local, state, federal or tribal governments, bars, coffee shops, religious institutions, schools, athletic facilities, public libraries, university campuses, or anyone else who controls a space and resources.  
+
+TRASH ROBOT is the initial creator of this network.  TRASH ROBOT is self-replicating media as well.  
 
 
- - operators and venues, content creators, librarians, community
- - commerce: ads for businesses, personals, 
- - music
- - podcasts
- - art
- - local government
- - mutual aid resources
- - public services available
- - local edible plant lore, living off the land all lore
- - indigenous library of knowledge, mixed media
- - always backup at local public library
- - religious materials
- - politics, philosophy, ideas
- - local stories, both myths and history, culture, indigenous and non-indigenous
- - immersive and mixed reality text based games
- - tutorials to build infrastructure, including this network
- 
-
-## PI CRUST
-
- - Raspberry Pi
- - Windows and Mac, Android and iOS
- - Work flow: thumb drives and walking around, public spaces, links, QR codes, emailing operators 
- - other hardware: future development, building multiple servers for every person on the planet
-
-## Off Grid Power
-
- - overall typical specs: 20-200 W
- - solar
- - wind
- - water
- - batteries
- - relevant hardware: servers, repeaters, hubs, network extenders
- - station infrastructure: enclosures, towers
-
-## Mesh Networks
-
- - links to resources
- - examples
- - architecture
- - how to recruit people and build
-
-## Free Public Internet Spaces
-
- - the concept of the free network venue sponsor
- - public library
- - free hot spots in public spaces
- - projectors, big screens, shared display in public space, free and open public clients as well as servers
- - servers in spaces, non property, how they move
-
-## Web 1.0
- 
- - the concept: the original idea of the Web and hypertext, free and open documents, not users, not Web 2.0 at all, nor Web 3.0
- - link to page
- - selecting domains
- - pointing to servers
- - pointing to places
- - pointing from place to domain
- - code structure and replication: PHP, Apache and other servers, HTML, JSON
 
 ## Funding
 
@@ -102,4 +52,4 @@ What makes our media have value is the curation of content by operators, and dis
  - Geometron
  - Robots from trash powered by Geometron
  - self-replicating media: everything in the set, all the books, all the robots, fashion, branding, cardboard constructions, laser cut shapes, arduino, raspberry pi...everything is self-replicating media, TRASH ROBOT is self-replicating media.
-
+ - [scrollsetreplicator.php](scrollsetreplicator.php)
