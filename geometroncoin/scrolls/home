@@ -2,11 +2,12 @@
 
 # Geometron Coin
 
- - set up raspberry pi
- - assemble the robot
- - build the robot brain
- - build the robot controller
- - build the robot mechanicals
+ - [why?](scrolls/why)
+ - [set up the pibrary on a windows machine or mac](scrolls/xampp)
+ - [set up pibrary on a raspberry pi](scrolls/pi)
+ - [build the robot brain](scrolls/brain)
+ - [build the robot controller](scrolls/controller)
+ - [build the mechanical elements of the robot](scrolls/mechanicals)
  - create new icons
  - print coins
  - replicate coins
@@ -16,3 +17,4 @@
  - distribute coins
  - post coin to a feed on a geometroncoin web page
  - fly flag linking to page
+ - replicate web page

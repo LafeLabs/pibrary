@@ -23,7 +23,7 @@
     mkdir("chaos");
     mkdir("iconset");
     mkdir("fileset");
-
+    mkdir("geometroncoin");
 
 
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/php/replicator.txt","replicator.php");
@@ -34,9 +34,7 @@
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/mapbook/php/replicator.txt","mapbook/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/iconset/php/replicator.txt","iconset/replicator.php");
     copy("https://raw.githubusercontent.com/LafeLabs/pibrary/main/chaos/php/replicator.txt","chaos/replicator.php");
-    
-    
-    
+    copy("https://raw.githubusercontent.com/LafeLabs/geometroncoin/main/php/replicator.txt","geometroncoin/replicator.php");
     
     
     foreach($dna->html as $value){
