@@ -3,4 +3,7 @@
 
 # newcoin
  
-To create coins go to the [geometroncoin/](geometroncoin/) directory. Then click on the eight arrows of chaos to get to the coin feed editor.  
+To create coins go to the [geometroncoin/](geometroncoin/) directory. Then click on the eight arrows of chaos to get to the coin feed editor.  If this is a system that has just been installed, you need to load the replicator in the directory which can be found at [geometroncoin/replicator.php](geometroncoin/replicator.php).
+
+From the coin feed editor, go to the 
+

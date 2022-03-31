@@ -6,6 +6,7 @@
         "controller",
         "home",
         "mechanicals",
+        "newcoin",
         "pi",
         "why",
         "xampp"
