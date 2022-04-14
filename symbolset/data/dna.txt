@@ -9,6 +9,7 @@
         "keyboard.html",
         "qrcode.html",
         "readme.html",
+        "roctal.html",
         "scrolleditor.html",
         "set.html",
         "setup.html",
